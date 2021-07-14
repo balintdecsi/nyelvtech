@@ -1,0 +1,33 @@
+# 4. lab 2021.03.03.
+
+(folytatás előző óráról)
+
+## 3. ELemzett korpusz
+### 2.
+cat mnsz_minta.elemzett | egrep "/ember/"
+
+### 3.
+cat mnsz_minta.elemzett | egrep "\?"
+cat mnsz_minta.elemzett | egrep "\!"
+cat mnsz_minta.elemzett | egrep "V\.T?P.*!"
+
+### 4.
+cat mnsz_minta.elemzett | sed -r "s/(\S+)\/kap/(( \1 ))\/kap/g" | egrep "))"
+
+### 5.
+cat mnsz_minta.elemzett | sed -r "s/(\S+\/N\.\S+ \S+\/N.PSe3\S+)/(( \1 ))/g" | egrep "))"
+
+### 6.
+cat mnsz_minta.elemzett | sed -r "s/(\S+\/Det \S+\/N\.\S+ \S+\/N.PSe3\S+.ABL)/(( \1 ))/g" | egrep "))"
+
+## 4. Szótár kifordítása
+### 1.
+egrep -A 1 "akkusativ" norveg_magyar_szotar.txt | egrep "^M " | sed -r "s/^M //g"
+
+### 2.
+egrep -B 1 " akrobata" norveg_magyar_szotar.txt | egrep "^N " | sed -r "s/^N //g"
+
+---------- + ----------
+
+## 1. Textutils
+Összefoglalás órán.

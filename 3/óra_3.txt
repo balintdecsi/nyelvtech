@@ -1,0 +1,22 @@
+# 3. lab
+
+## 1. NP-k
+Olyan csoport, aminek a feje főnév (Noun Phrase)
+
+### 1
+cat gyakori_NP.txt | egrep ' '
+
+### 2
+cat gyakori_NP.txt | egrep '.+( .+){2,}'
+
+### 3
+cat gyakori_NP.txt | egrep -v '^[aA]z? '
+
+## 2. Named Entity Recognition
+### 1-3
+cat gyakori_NP.txt | egrep -v '^[aA]z? ' | egrep '\b[A-Z]\w+\b'
+
+## 3. Elemzett korpusz
+cat mnsz_minta.elemzett | sed -r 's/\/\S+//g'
+
+

@@ -1,0 +1,9 @@
+# 2. kötelező házi feladat --- Décsi Bálint BVDAEU
+
+## 1.
+sed -r 's/((Décsi )?Bálint)/<a href=http://users.itk.ppke.hu/~decba>\1</a>/g'
+
+## 2.
+cat madárnyelv_teszt.txt | sed -r 's/([aáeéioöü])/\1v\1/g' | sed -r 's/í/iví/g' | sed -r 's/ó/ovó/g' | sed -r 's/ű/üvű/g' | sed -r 's/A/Ava/g' | sed -r 's/Á/Ává/g' | sed -r 's/E/Eve/g' | sed -r 's/É/Évé/g' | sed -r 's/I/Iví/g' | sed -r 's/Í/Iví/g' | sed -r 's/O/Ovo/g' | sed -r 's/Ó/Ovó/g' | sed -r 's/Ö/Övö/g' | sed -r 's/Ő/Övő/g' | sed -r 's/U/Uvu/g' | sed -r 's/Ú/Uvú/g' | sed -r 's/Ü/Üvü/g' | sed -r 's/Ű/Üvű/g'
+
+

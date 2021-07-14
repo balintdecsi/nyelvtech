@@ -1,0 +1,5410 @@
+N a
+M verbo= igeidök egyes szám 3.személyében való ragozása
+N abbed
+M [en] apát
+N abbor
+M [en] sügér;sügért
+N abc
+M [en] ábécé
+N abdisere
+M lelépni a trónról >lemondani
+N aber
+M [et] bökkenő | bökkenője
+N ablativ
+M frastedets kasus= ról | ..ről | Budáról, Pestről,beszél róla
+N ablegřyer
+M bohóság | móka
+N abnorm
+M abnormt= abnormális
+N abonnement
+M [et] előfizetés | járatás
+N abonnent
+M [en] elöfizetö
+N abonnere
+M elöfizetni | abonnerte | har abonert elöfizetett (rá)
+N abort
+M [en] abortusz | magzatelhajtás |  (művi) vetélés
+N abortere
+M elvetélni | aborterte | har abortert= elvetélte (a magzatát)
+N absolutt
+M abszolút
+N absorbere
+M abszorbeálni | elnyelni | felszívni |  absorberte | har absorbert=absorbeálta>suge opp
+N abstinens
+M [en] elvonás | tartózkodás töle >elvonókúra | abstinenssymptomer=elvonási tünetek
+N abstrakt
+M [ADJ] absztrakt | elvont | abstrakt,et elvont fogalom
+N acara
+M (blĺ)= kékakara | sügér
+N ad
+M gangen | bare en ad gangen= egyenként |  csak egyesével
+N adamseple
+M [et] ádámcsutka
+N addend
+M [en] összeadandó
+N addere
+M összeadni |  adderte | har addert= összeadta >legge sammen | summere
+N addisjon
+M [en] összeadás;összeadást
+N adel
+M [en] nemesség |  adelig ADJ= nemesi |  han ble fřdt adelig= nemesi sármazású
+N adelsstand
+M [en] nemesség
+N adferd
+M [en] viselkedés;viselkedést |  han ble dřmt for usřmmelig adferd= illetlen viselkedésért | megbüntették | i all vĺr adferd= mindenféle viselkedésünkben |  asosial adferd | kriminell adferd | utuktig adferd
+N adgang
+M [en] belépés | ble nektet adgang=nem engedték be | gir fri adgang til= ingyenes be lépésre jogosít
+N adjektiv
+M [et] melléknév;melléknevet |  jelzö
+N adjunkt
+M [en] segédtanár
+N adjř
+M [et] Isten veled | Isten áldjon
+N adle
+M nemesíteni | nemesi rangra emelni |  han ble adlet PASS= nemesi rangra emelték
+N adlyde
+M engedelmeskedni neki | szót fogadni adlřd | har adlydt=szót fogadott neki >lystre
+N administrasjon
+M [en] ügyintézés ügykezelés |  admininisztráció
+N administrere
+M adminisztrálni | hivatali ügyet intézni |  administrerte | har administrert= adminisztrált;adminisztrálta
+N admiral
+M [en] tengernagy;tengernagyot
+N adonis
+M [en] hérics;héricset
+N adopsjon
+M [en] örökbefogadás
+N adoptere
+M örökbe fogadni | adopterte | har adoptert= örökbe fogadott;fogadta |  ble adoptert PASS= örökbe fogadták
+N adoptivbarn
+M [et] neveltgyerek | adoptivdatter, en=neveltlánya;neveltlányát | adoptivsřnn,en neveltfia;neveltfiát
+N adressat
+M [en] címzett
+N adresse
+M [en] cím;címet | címe |  Skriv her adressen din!= írd ide a címedet
+N Adriaterhavet
+M Adria | Adriai-tenger
+N adskillig
+M számos | temérdek
+N advare
+M figyelmeztetni | inteni | advarte | har advart= figyelmeztette |  advarte mot=intette figyelmeztette |  han rakk ĺ advare tyvene= sikerült neki riasztani a tolvajokat>formane
+N advarsel
+M [en] figyelmeztetés | intés | riasztás |  advarselen kom for seint= túl késön riasztották
+N advent
+M [en] ádvent | adventist,en= ádventista
+N adverb
+M [et] adverbial,et ADV=határozó | határozószó
+N advokat
+M [en] ügyvéd;ügyvédet
+N affekt
+M affektus | indulat |  han kom med flere utrop,nćrmest i affekt= ingerülten kiabált
+N affisere
+M ingerelni |  affiserte | har affisert= ingerelt;ingerelte
+N Afrika
+M Afrika
+N afrikaner
+M [en] afrikai;Afrikából származó személy |  afrikansk,afrikanske ADJ= afrikai
+N aften
+M [en] est;este |  en fuktig aften= esti tivornyázás |  om aftenen ADV= este | az este
+N aftenbřnn
+M [en] esti ima | estima | aftenstell,et= (állatok) esti etetése >ápolás
+N aftenfalk
+M [en] kék vércse
+N aftensvermer
+M [en] halálfejes lepke
+N agat
+M [en] achát
+N age
+M [en] tisztelet
+N agent
+M [en] ügynök;ügynököt |  en hemmelig agent= titkos ügynök |  agentur,et= ügynökség
+N aggresjon
+M [en] agresszió
+N aggressiv
+M agresszív | erőszakos
+N agn
+M [et] csalétek;csalétket | csali
+N agnbřk
+M [en] gyertyán;gyertyánfa |    | </ |  |
+N agn
+M [et] csalétek;csalétket | csali
+N agnbřk
+M [en] gyertyán;gyertyánfa |    | </ |  |
+N agnbřk
+M [en] gyertyán;gyertyánfa
+N agronom
+M [en] agronómus
+N agurk
+M [en] uborka;uborkát
+N aidssyk
+M AIDS-ben szenved
+N akademi
+M [et] akadémia |  akademiker,en= akadémikus | tanúlt ember |  akademisk ADJ= egyetemi | föiskolai
+N akasie
+M [en] akasietre,et= akác | akácfa
+N ake
+M szánkózni | ródlizni |  akte | har akt= szánkózott | csuszkált
+N akeleie
+M [en] harangláb BOT
+N akergull
+M repcsény
+N akerkvein
+M [en] széltippan
+N akerrřdtopp
+M piros fogfü
+N Akershus
+M (megye) |  Akershus festning= vár az oslói kikötö mentén
+N akertistel
+M [en] mezei aszat | acat
+N akervindel
+M [en] aprószulák | folyondár
+N akevitt
+M [en] köménylikör
+N akilleshćlen
+M valakinek az elevenje | valaki sebezhető pontja
+N akk!
+M Jaj!
+N akklimatisere
+M hozzászokni/hozzászoktatni az éghajlathoz,új körülményekhez | megszokni |  akklimatizálódni | akklimatiserte | har akklimatisert= hozzászokott | megszokta |  akklimatizálódott >tilpasse
+N akkompagnere
+M kísérni (zongorán) |  akkompagnerte | har akkompagnert= kísérte >ledsage med musikk
+N akkord
+M [en] akkord |  norma;normát |  gĺr pĺ akkord= akkordbérre megy a munka |  han gikk pĺ pĺ akkord med sin tro= beletörődött a sorsába
+N akkumulator
+M [en] akkumulátor;akkumulátort
+N akkurat
+M éppen | pontosan
+N akkusativ
+M [en] AKK= tárgyeset
+N AKP-er
+M [en] norvég marxista-leninista
+N akrobat
+M [en] akrobata |  en akrobat i manesjen |  akrobatisk AKK= akrobatikus
+N aks
+M [et] kalász;kalászt
+N akse
+M [en] tengely;tengelyt
+N aksel
+M en(aksla)= váll | válla | (kocsi,szekér, gép)tengelye |  aksler= vállak | vállai | de brede akslene= széles vállai |  aksla er av ledd= kificamodott a válla | dreier seg om en aksel tengelye körül forog |  aksel pĺ en generator
+N akselblad
+M lapockacsont
+N akselerasjon
+M [en] gyorsúlás
+N akselerere
+M felgyorsúlni |  akselererte | har akselerert= felgyorsúlt
+N aksent
+M [en] hangsúly | akcentus >idegen akcentussal beszél
+N akseptabel
+M akseptabelt=türhetö | elfogadható
+N akseptere
+M elfogadni | akceptálni | jóváhagyni |  aksepterte | har akseptert= jóváhagyta |  akceptálta |  det kan ikke aksepteres= nem fogadható el >godkjenne | godta
+N aksje
+M [en] részvény;részvényt | aksjeselskap, et= részvénytársaság
+N aksjon
+M [en] akció | tevékenység
+N aksjonćr
+M [en] részvényes
+N akstusenblad
+M füzéres süllőhinár
+N aksveronika
+M [en] macskafarkú veronika
+N akt
+M [en] felvonás |  meztelenül festett személy
+N aktelse
+M [en] tekintély;tekintélyt
+N akter
+M [ĺ] az a szándéka,hogy.. |  aktet ĺ ..= azt szándékozta
+N akter
+M hajófar | akterut >hátul |  hátrafelé (csónakon,hajón) |  vi fikk raskt slĺtt akter >gyorsan hátraeveztünk
+N akter
+M [ĺ] az a szándéka,hogy.. |  aktet ĺ ..= azt szándékozta
+N akter
+M hajófar | akterut >hátul |  hátrafelé (csónakon,hajón) |  vi fikk raskt slĺtt akter >gyorsan hátraeveztünk
+N aktiv
+M aktivt= tevékeny | han ble fřrst politisk aktiv i voksen alder >aránylag késön | vett részt a politikai életben
+N aktivisere
+M aktivizálni | serkenteni |  aktiviserte | har kativisert= serkentett;serkentette
+N aktivist
+M [en] aktivista | gyakran tüntetö >szélsöbaloldali
+N aktivitet
+M [en] tevékenység | aktivitás |  kriminell aktivitet | aktiviteten har dabbetnoe av= csökkent a tevékenysége
+N aktor
+M [en] ügyész |  aktorat,et= ügyészség
+N aktualitet
+M [en] idöszerüség | aktuell,aktuelt, aktuelle ADJ= idöszerü | aktuális
+N aktverdig
+M tiszteletre méltó
+N aktřr
+M [en] szereplö
+N akupunktur
+M [en] akupunktúra
+N akustikk
+M [en] akusztika |  akustisk ADJ= akusztikus
+N akutt
+M akut | heveny | sürgös |  akutt penge-mangel= állandó pénzhiány
+N akvamarin
+M [en] akvamarin
+N akvaplaning
+M [en] az úttesten esövíz,tócsa ok |  |
+N akvamarin
+M [en] akvamarin
+N akvaplaning
+M [en] az úttesten esövíz,tócsa ok |  |
+N akvaplaning
+M [en] az úttesten esövíz,tócsa okozta forgalmi veszély
+N akvarell
+M [en] vizfestmény
+N akvarium
+M et(akvariet)=akvárium
+N al
+M [et] tenyészet | tenyésztés
+N alarm
+M [en] riadó | vészjelzés |  alarmen gikk >riasztottak
+N alarmere
+M riasztani | jelezni a veszélyt |  alarmerte | har alarmert= riasztott;riasztotta >varsle | gjřre anskrik
+N alban
+M [en] albaner,en=albán | Albania=Albánia albansk ADJ= albán
+N albatross
+M [en] albatrosz
+N albino
+M [en] albinó
+N albue
+M [en] könyék | könyök
+N album
+M [et] album
+N aldeles
+M dehogy |  det er den aldeles ikke= egyáltalán nem az
+N alder
+M [en] kor | kora |  av alder= korára nézve av alder er jeg 35 >ami a koromat | illeti,35 éves vagyok |  i min alder= koromra nézve | i ung alder= fiatal korában |  i voksen alder=felnött korában | man skal aldri spřrre om en dames alder= nem illö egy hölgy | kora után érdeklödni |  jeg tynges ikke av alderen= engem nem nyomaszt a vénség | er langt opp i sine alders ĺr= bizony megvénült |  aggastyán lett |  folk i alle aldre
+N alderdom
+M [en] (alderdommen)= öregség |  vénség  |  han hadde fortjent en verdig alderdom= tisztességesebb | sorsot érdemelne öregségére
+N aldersforskjell
+M [en] korkülönbség
+N aldersgrense
+M [en] nyugdíj határa |  han gĺr av for aldersgrensen= nyugállományba megy
+N aldershjem
+M [et] szociális otthon
+N alderstegen
+M idejétmúlt | ósdi | kopott | alderstegne skolebřker
+N alderstrygd
+M [en] nyugdíj;nyugdíjat
+N aldrende
+M öregedö | vénülö |  hun hjalp sin aldrende mor
+N aldres
+M öregedni |  öregszik |  aldredes | har aldres= öregedett | megöregedett
+N aldri
+M soha | soha sem | sose | jeg har aldri sett ham fřr=soha sem láttam | han har aldri vćrt sammen med jenter=soha sem volt a nökkel | dolga |  aldri fřr= még sose |  aldri mer= soha többé |  Aldri i livet!= Soha az életben! |  aldri i mine levedager=addig nem,amíg élek! | han gir seg aldri= nem hagyja magát | nem enged belőle |  Det er bedre sent enn aldri KÖZM= Jobb később,mint soha | ORDT | Aldri sĺ galt at det ikke er godt for noe KÖZM= Nincs olyan | kár,amiböl haszon ne származnék | om det virker aldri sĺ ille= bármilyen rosszúl is néz ki | a dolog | selv om han er aldri sĺ kjekk bámilyen jóképi legyen is | ő | selv om det har vćrt aldri sĺ kaldt ute= bármilyen hideg | is legyen odakint | Aldri fřr har hun fĺtt kyrne inn fřr det blĺste opp til | full storm= Alig, hogy beterelte a teheneket,máris kitört | a vihar |  Hun gĺr lange veier innover myrene i hĺp om ĺ finne aldri | sĺ liten multe til multe- krem= Bejárja a lápos vidéket | hogy vajmi kevés multe-bogyót szedhessen a tejszínhabba.
+N ale
+M állatot nevelni | tenyészteni | alte= nevelt |  tenyésztett | har alt >disznót hizlalt
+N alen
+M 0.62 m (könyéktöl az ujja hegyéig)
+N alene
+M egyedül | maga (van) | jeg sitter her ganske sĺ alene pĺ rommet mitt= magam vagyok | nagyon | gĺ ikke alene=ne járj  egyedül |  hun ble alene med tre smĺ barn= három gyerekkel maradt | magára
+N alenemor
+M [en] férj nélküli anya | elvált anya
+N alfabet
+M [et] ábécé |  alfabetisk= betürendes
+N alge
+M [en] alga | moszat | alger=algák | moszatok
+N algebra
+M [en] algebra;algebrát
+N alibi
+M [et] alibi |  hans alibi sprakk= megcáfolták az alibijét
+N alke
+M [en] (alka)= alka;alkát |  alkekonge,en= alkabukó
+N alkohol
+M [en] szesz;szeszt | alkohol | szeszes ital
+N alkoholforbud
+M [et] szesztilalom
+N alkoholfri
+M alkoholfritt= szesz mentes
+N alkoholiker
+M [en] alkoholista | részeges ember |  szeszkazán | alkoholisert ADJ=részeges | ittas züllött |  alkoholisme,en= alkoholizmus
+N alkoholist
+M [en] alkoholista | alkoholmisbruker ,en= iszákos | részeges
+N alkoholpĺvirket
+M ittas | részeg | pityókás
+N alkoholvane
+M [en] jó,rossz szokás alkohol-fogyasztással kapcsolatban
+N alkove
+M [en] mellékhelyiség |  mellékszoba
+N all
+M alt= egész | minden |  all den stund= mindaddig |  i all evighet= örökkön örökké
+N alle
+M mind | minden | mindenki |  alle sammen= mindnyájan |  til alle=mindenkinek | alle slags/
+N allehelgensdag
+M mindenszentek (napja)
+N allehĺnde
+M [en] füszerkeverék
+N allemannseie
+M [et] közös javak |  mindenki kedvére való |  bilen/PC-ene har blitt allemannseie
+N aller..
+M a leges leg.. |  aller best= a leges legjobb | aller fřrst=legelsö | legelöször is | hanvar ute pĺ sin aller fřrste skitur | aller minst= leges legkisebb ADJ legkevésbé ADV
+N allerede
+M már
+N allergi
+M [en] túlérzékenység | allergia |  har allergi overfor gress,bjřrk
+N allergifremkallende
+M stoffer= anyagok, amelyek allergiát okoznak |  allergisk ADJ= túlérzékeny | allergiás |  hun har allergisk forkjřlelse >allergiás nátha | han er allergisk mot= allergiás iránta/rá |  han er allergiskoverfor vold av alle slag
+N allesteds
+M allestedsnćrvćrende= mindenhol felbukkanó,látható,észlelhetö
+N allfarvei
+M [en] közös út |  a járt/megszokott út |  hytter utenfor allfarvei= eléggé félreesö helyen épült | hétvégi házak/vikendházak
+N allianse
+M [en] szövetség
+N alliere
+M szövetkezni | szövetséget kötni vele |  de allierte= szövetségesek
+N alligator
+M [en] alligátor
+N allikevel
+M mégis
+N allmannamřte
+M [et] közgyülés
+N allmektig
+M mindenható
+N allmue
+M [en] közrendü emberek | közemberek
+N allsidig
+M sokrétü
+N allslags
+M all slags= mindenfajta | mindenféle |  for alle og enhver=mindenkinek |  til alle=mindenkihez | mindenkinek |  alle regnbuens farger= szivárvány minden színe | alle mine dager= életem minden napján |  alle tiders= kitünö | pompás |  jaj,de jó! |  alle syntes vi hadde en alle tiders skitur |  det aller beste= a leges legjobb |  aller minst= legkevésbé |  leges legkisebb
+N allé
+M [en] fasor | fasoros út/utca |    | < |  |
+N allslags
+M all slags= mindenfajta | mindenféle |  for alle og enhver=mindenkinek |  til alle=mindenkihez | mindenkinek |  alle regnbuens farger= szivárvány minden színe | alle mine dager= életem minden napján |  alle tiders= kitünö | pompás |  jaj,de jó! |  alle syntes vi hadde en alle tiders skitur |  det aller beste= a leges legjobb |  aller minst= legkevésbé |  leges legkisebb
+N allé
+M [en] fasor | fasoros út/utca |    | < |  |
+N alltid
+M alltids= mindig
+N allting
+M all ting | alle ting= minden;mindent
+N allvitende
+M mindentudó
+N allé
+M [en] fasor | fasoros út/utca
+N alm
+M [en] szil | szilfa;szilfát
+N almanakk
+M [en] almanach
+N almenn
+M alment= általános
+N alminnelig
+M közönséges |  vi,alminnelig dřdelige= mi halandók |  i alminnelighet= általában
+N almisse
+M [en] alamizsna |  gi en almisse til >de fattige= adakozni | alamizsnát adni a szegényeknek
+N alpakka
+M [en] alpakka
+N alpefiol
+M [en] ciklámen
+N alpejernspurv
+M [en] havasi szürkebegy
+N alpekaie
+M [en] havasicsóka
+N alpekrĺke
+M [en] havasivarjú
+N alpemurmeldyr
+M [et] havasi marmota
+N Alpene
+M Alpesek
+N alpeseiler
+M [en] havasi sarlósfecske
+N alpin
+M alpint >hegyekkel kapcsolatos | alpesi
+N alpinist
+M [en] alpinista | lesikló | alpinkjřring,en lesiklóverseny |  alpinsk ADJ= alpesi | havasi
+N alsikeklřver
+M [en] korcs here
+N alskens
+M mindenféle |  alskens tusser og troll >mindenfajta manó
+N alt
+M minden;mindent | alt er i orden= minden rendben (van) |  alt stĺr bra til?= jól van   mindenki? |  Det er alt godt som gitt er KÖZM >Ajándék lónak ne nézd | a fogát |  Alt for Norge= Norvégiáért tüzön-vízen át |  alt i hop= cak-pak |  alt sammen= mindenestöl |  az egészet |  alt han gjřr= amihez csak hozzáfog |  alt i alt= mindentösszevéve
+N alt
+M ADV= már |  alt mens= mialatt | miközben
+N alt
+M [en] alt >mély nöi hang
+N alt
+M [et] világmindenség
+N alt
+M minden;mindent | alt er i orden= minden rendben (van) |  alt stĺr bra til?= jól van   mindenki? |  Det er alt godt som gitt er KÖZM >Ajándék lónak ne nézd | a fogát |  Alt for Norge= Norvégiáért tüzön-vízen át |  alt i hop= cak-pak |  alt sammen= mindenestöl |  az egészet |  alt han gjřr= amihez csak hozzáfog |  alt i alt= mindentösszevéve
+N alt
+M ADV= már |  alt mens= mialatt | miközben
+N alt
+M [en] alt >mély nöi hang
+N alt
+M [et] világmindenség
+N alt
+M minden;mindent | alt er i orden= minden rendben (van) |  alt stĺr bra til?= jól van   mindenki? |  Det er alt godt som gitt er KÖZM >Ajándék lónak ne nézd | a fogát |  Alt for Norge= Norvégiáért tüzön-vízen át |  alt i hop= cak-pak |  alt sammen= mindenestöl |  az egészet |  alt han gjřr= amihez csak hozzáfog |  alt i alt= mindentösszevéve
+N alt
+M ADV= már |  alt mens= mialatt | miközben
+N alt
+M [en] alt >mély nöi hang
+N alt
+M [et] világmindenség
+N alt
+M minden;mindent | alt er i orden= minden rendben (van) |  alt stĺr bra til?= jól van   mindenki? |  Det er alt godt som gitt er KÖZM >Ajándék lónak ne nézd | a fogát |  Alt for Norge= Norvégiáért tüzön-vízen át |  alt i hop= cak-pak |  alt sammen= mindenestöl |  az egészet |  alt han gjřr= amihez csak hozzáfog |  alt i alt= mindentösszevéve
+N alt
+M ADV= már |  alt mens= mialatt | miközben
+N alt
+M [en] alt >mély nöi hang
+N alt
+M [et] világmindenség
+N Alta
+M (észak-norvég,lapp település/kisváros)
+N alter
+M [et] oltár;oltárt
+N alternativ
+M [et] alternatíva | másik megoldás/ lehetőség >alternatív terv
+N altertavle
+M [en] oltárkép
+N altetende
+M mindenevö
+N altfor
+M túl | túlságosan
+N altmuligmann
+M [en] mindenes
+N altsĺ
+M tehát
+N aluminium
+M et(aluminium,en)= aluminium; aluminiumot |  aluminiumfolie,en= alufólia;alufóliát
+N alv
+M [en] tündér;tündért |  alver= tündérek; tündéreket | alvedans,en= tündértánc
+N alvor
+M [et] komolyság | komoly dolog | alvorlig ADJ= komoly | súlyos |  súlyosan ADV |  alvorlig ulykke= súlyos baleset
+N amarant
+M [en] disznóparéj
+N amatřr
+M [en] amatőr
+N ambassade
+M [en] követség |  ambassadřr,en= nagykövet
+N ambisiřs
+M ambisiöst= becsvágyó | ambisjon, en= becsvágy
+N ambolt
+M [en] üllö
+N ambulanse
+M [en] mentö | mentökocsi
+N ambulere
+M körbejárni | sorban fölkeresni |  ambulerte | har ambulert= körbejárt; körbejárta
+N amen
+M [et] ámmen
+N Amerika
+M Amerika | Egyesült államok |  amerikaner,en= amerikai lakos | amerikanere amerikaiak |  amerikansk,amerikanske ADJ= amerikai
+N amfibium
+M [et] (amfibiet)= kétéltü állat |  amfibier= kétéltüek
+N amme
+M szoptatni |  ammer=szoptat;szoptatja |  ammet | har ammet= szoptatott;szoptatta |  amme et barn >die | patte |  amme,en= dajka |  dajkája
+N ammoniakk
+M [en] ammónia  NH3
+N ammunisjon
+M [en] lőszer;lőszert
+N amnesti
+M [et] amnesztia | kegyelem
+N amok
+M ámok |  gĺr amok= ámokfutó
+N amor
+M ámor | a szerelem istennöjének a fia |  ble truffet av amors piler >szerelmes lett belé | szerelembe esett
+N ampel
+M [en] közlekedési jelzőlámpa
+N amper
+M ampert= feszült | nyomott(hangulat, kedély)
+N ampere
+M [en] amper;ampert |  amperemeter, en= amperméter | ampermérö
+N amputasjon
+M [en] amputálás
+N amputere
+M amputálni |  amputerte | har amputert= amputált;amputálta |  ble amputert PASS= amputálták
+N amulett
+M [en] amulett
+N amřbe
+M [en] papucsállatka | amöba
+N analfabet
+M [en] írástudatlan
+N analog
+M analogt ADJ= analóg | hasonló, egyező
+N analyse
+M [en] elemzés |  analysere=elemezni |  analyserte | har analysert= elemzett;elemezte
+N ananas
+M [en] ananász;ananászt
+N anarki
+M [et] anarchia |  anarkist,en= anarchista
+N anatomi
+M [en] anatómia |  anatomisk ADJ= anatómiai
+N anbefale
+M ajánlani |  anbefaler= ajánl;ajánlja |  anbefalte | har anbefalt= ajánlott;ajánlotta
+N anbefaling
+M [en] ajánlás
+N anbringe
+M odahelyezni | odatenni | beszerelni |  anbrakte | har anbrakt= beszerelt;beszerelte |  odatette
+N anbud
+M [et] ajánlat;ajánlatot
+N and
+M [en] (anda)= kacsa | kacsát |  réce | ruca |  ender= kacsák;kacsákat |  récék;récéket |  andrik,en=hím-kacsa | andunge,en=kiskacsastellers and= steller pehelyrécéje
+N andakt
+M [en] istentisztelet | mise | andektig ADJ áhitatos | ájtatos
+N andel
+M [en] része;részét
+N andemat
+M [en] BOT= apró békalencse
+N anderledes
+M másféle | másfajta
+N andfřttes
+M ADV= összeér a lábuk
+N andpusten
+M andpustent= ziláló mellel | zilálva |  kifulladt
+N andre
+M más | másik | mások | második | for andre gang/andre gangen=másodszor | másodszorra |  dette er andre gangen vi gĺr turen
+N ane
+M sejteni |  aner= sejt;sejti |  ante | har ant= sejtett;sejtette |  anelse,en= sejtelem | fogalom
+N ane
+M [en] elöd | elöde | öse | aner= ösök | ösei
+N ane
+M sejteni |  aner= sejt;sejti |  ante | har ant= sejtett;sejtette |  anelse,en= sejtelem | fogalom
+N ane
+M [en] elöd | elöde | öse | aner= ösök | ösei
+N anekdote
+M [en] anekdota | adoma
+N anemi
+M [en] vérszegénység | anémia |  anemisk ADJ= vérszegény
+N anemone
+M [en] mákvirág
+N anerkjenne
+M elismerni | anerkjenner=elismer; elismeri |  anertjente | har anerkjent=elismerte anerkjent ADJ= elismert |  híres
+N anfall
+M [et] támadás | roham
+N anfřrselstegn
+M [et] idézöjel;idézöjelet
+N ange
+M illatozik | illatot áraszt | anget | har anget illatozott |  det anget av nyslĺtt hřy= kaszált fünek a szaga terjengett | >dufte | lukte |  ange, en= illat | illata
+N anger
+M [en] késö bánat | bánkódás
+N angi
+M besugni | elárulni |  anga | har angitt= besugott valakit;besugta | elárulta
+N angina
+M pectoris= szívgörcs | szívgörcsöt
+N angivelig
+M állítólag
+N angiver
+M [en] áruló | besugó
+N anglisismer
+M angol,amerikai nyelvbefolyás
+N angre
+M bánni | megbánni |  angrer= bán;bánja |  szánja-bánja | angret | har angret= bánta | megbánta |  han angrer pĺ at= bánja,hogy
+N angrep
+M [et] támadás;támadást
+N angrepsspiller
+M [en] csatár | támadó játékos
+N angripe
+M megtámadni | rátörni |  angrep | har angrepet ham= megtámadta
+N angst
+M [en] iszony | félelem
+N angĺ
+M azt illet | vonatkozik rá |  angikk ham | har angĺtt=vonatkozott rá | saken angĺr alle= mindenki érdeke a dolog |  det angĺr deg ikke= semmi közöd hozzá |  Hva angĺr det meg?= Mit is érdekel az engem?
+N anholde
+M letartóztatni | anholdt | har anholdt= letartóztatták |  han anholdt om hennes hĺnd HIST=megkérte a lányt/a lány | kezét |  politi-et anholdt den mistenkte= letartóztatták a gyanusítottat
+N animalsk
+M animális | állati
+N animere
+M felélénkíteni | feleleveníteni | felvidítani >rajzfilm | animerte | har animert=felélénkítették |  animert= derült hangulatban | derűs jókedvű | pityókos |  begge herrene var svćrt animerte= pityókás volt mindkét | férfi
+N aning
+M [en] sejtelem | fogalom
+N anis
+M [en] (illatos) ánizs
+N anke
+M fellebbezni | anker=fellebbez;fellebbzi |  anket | har anket= fellebbezett;fellebbezte |  anke en avgjřrelse inn for styret |  han akter ĺ anke saken
+N anke
+M [en] fellebzés
+N anke
+M fellebbezni | anker=fellebbez;fellebbzi |  anket | har anket= fellebbezett;fellebbezte |  anke en avgjřrelse inn for styret |  han akter ĺ anke saken
+N anke
+M [en] fellebzés
+N ankel
+M [en] boka;bokát | bokája |  haltet rundt med en vond ankel= sántított,mert fájt a bokája
+N anker
+M [et] horgony;horgonyt | rotor |  ankeret gĺr rundt= forog a rotor
+N ankerviklinger
+M rotor körüli tekercsek
+N anklage
+M vádolni |  anklaget | har anklaget= vádolt;vádolta |  ble anklaget for PASS= vádolták vele >beskylde | sikte
+N anklage
+M [en] vád | vádat
+N anklage
+M vádolni |  anklaget | har anklaget= vádolt;vádolta |  ble anklaget for PASS= vádolták vele >beskylde | sikte
+N anklage
+M [en] vád | vádat
+N ankomme
+M érkezni | megérkezni |  ankommer érkezik |  ankom | har ankommet= érkezett |  megérkezett |  han ankom klokken sju= hét órakor érkezett |  han ankom (til) Budapest= BPestre érkezett | megérkezett BPestre |  tre timer etter uhellet ankom et helikopter
+N ankomst
+M [en] érkezés;érkezést |  érkezési időpont >repülő,vonat érkezése | melder sin ankomst= beköszönt
+N ankre
+M lehorgonyozni |  ankret | har ankret= lehorgonyzott |  ankrer opp= horgonyt vetnek
+N anledning
+M [en] alkalom;alkalmat |  ved en anledning=egy alkalommal | fĺr anledning til alkalma akad rá |  gi anledning til= alkalmat adni rá |  nĺr anledningen byr seg= alkalom adtán | ha alkalom adódik rá | for anledning= (ez) alkalommal |  i anledning av PREP= alkalmával POSTP
+N anlegg
+M [et] tehetség | berendezés
+N anlegge
+M építeni (gátat,útat,üzemet) |  anla |  har anlagt= épített |  anlegge hage >elkezdkertészkedni |  anlegge skjegg= szakállat növeszteni | anla skjegg=szakállat növesztett
+N anliggende
+M [et] érdek | érdeke
+N anmarsj
+M [en] jövetele | közeledte
+N anmelde
+M bejelenteni | egy művet bírálni |  anmmeldte | har anmeldt=bejelentette | bírálta han ble anmeldt PASS= feljelentették
+N anmeldelse
+M [en] bírálat;bírálatot >mű
+N anmerkning
+M [en] megállapítás | széljegyzet
+N anmode
+M felkérni rá | anmodet | har anmodet felkérte rá
+N anneks
+M [et] oldalépület | egy épülethez csatlakozó mellékszoba
+N anneksjon
+M [en] bekebelezés | hozzácsatolás |  katonai megszállás | annexió
+N annektere
+M annektálni | bekebelezni |  hozzácsatolni | megszállni egy országot | annekterte har annektert= hozzácsatolták az országot egy | másikhoz | annektálták
+N annen
+M egyéb | más;mást | második |  annen etasje= az elsö emelet |  i annen etasje= az elsö emeleten |  pĺ den annen side= másrészt annen fare= egyéb veszély |  i annen gir= kettesben a kocsi |  en annen= más;mást |  másik;másikat |  i annen= a négyzeten
+N annenhver
+M annethvert= minden második; minden másodikat
+N annenhĺnds
+M használt (ruha,kocsi) |  annenhands opplysninger,kjennskap >máshonnét  értesülve | róla
+N annensteds
+M annetsteds= máshol
+N annerledes
+M másfajta | másféle |  elüt a többitöl
+N annet
+M más;mást |  et eller annet= valami; valamit
+N anno
+M az úr évében
+N annonse
+M [en] apróhirdetés | hirdetés
+N annonsere
+M hirdetni | kihirdetni | hirdettetni |  annonserte | har annonsert=kihirdették |  hirdették >kunngjřre | lyse ut
+N annulere
+M érvényteleníteni | érvénytelenné nyilvánítani | annulerte | har annulert= érvénytelenítette |  dommeren annulerte mĺlet=nem adta meg a gólt
+N anode
+M [en] anód
+N anonym
+M anonymt=névtelen | ismeretlen nevű
+N anonymitet
+M [en] ismeretlen,névtelen jelleg
+N anorakk
+M [en] anorák >bekecs
+N anorganisk
+M szervetlen
+N anretning
+M [en] szerkezet
+N anrette
+M tálalni | anrette skade= kárt okozni |  anrettet | har anrettet= tálalt;tálalta | feltálalta |  glassene med bestikk var sirlig anrettet= az asztal ízlésesen | volt terítve | anrette gammel graut litt mer spiselig= dohos kását szolgál | fel
+N anrikes
+M dúsul | dúsítják
+N ansatt
+M alkalmazott |  er ansatt som ..=..ként van alkalmazva
+N anseelse
+M [en] hírnév | tisztelet
+N anselig
+M nem csekély | tetemes | vaskos |  et anselig belřp= jókora összeg
+N ansett
+M elismert | köztiszteletben álló
+N ansette
+M alkalmazmi | állást adni neki |  ansatte | har ansatt= alkalmazta |  ble ansatt PASS= alkalmazták |  hun ble ansatt som kokke og husholderske >háztartási alkalmazott | volt
+N ansettelse
+M [en] alkalmazás
+N ansiennitet
+M [en] szakmában való jártasság |  tapasztalat
+N ansikt
+M [et] arc;arcot | et rynket ansikt=ráncos arrc |  klĺ ham i ansiktet= arcon csipni
+N ansjos
+M [en] szardella >szardínia
+N anskaffe
+M szerezni magának | beszerezni |  anskaffer= szerez | beszerzi |  anskaffe seg hund |  anskaffet | har anskaffet= szerzett |  beszerezte |  har anskaffet seg egen leilighet
+N anskaffelse
+M [en] beszerzés | beszerzése >har gĺtt til anskaffelse av .. >szerzett magának
+N anskuelig
+M belátható | anskuelig tid=belátható idő
+N anslĺ
+M saccolni |  anslĺr= saccol;saccolja |  anslo | har anslĺtt= sacoolt;saccolta |  anslĺ prisen pĺ ting >vurdere
+N anspenne
+M feszíteni |  anspente | har anspent= feszített;feszítette |  anspent ADJ= feszült |  izgatott | ideges >spent | nervřs | stresset
+N anstalt
+M [en] intézet
+N anstand
+M [en] illendöség | illem
+N anstendig
+M tisztességes | rendes
+N anstrenge
+M megfeszíteni | eröltetni | anstrengte har anstrengt= eröltette | megfeszítette |  anstrenge seg=megerőlteti magát | anstreng- te ryggen= megerőltette a hátát |  anstrengte seg= erőfeszítéseket tett
+N anstrengelse
+M [en] eröfeszítés | fáradság |  dřde av anstrengelse
+N anstrengt
+M szűkös |  anstrengt pust= ziháló |  lélekszakadva | slite med anstrengt řkonomi anyagi gondokkal küzdeni
+N anstřt
+M [et] botránkozás | felháborodás | vekke anstřt= botrányt kelteni |  ta anstřt av= botránkozni rajta
+N anstřtelig
+M botrányt keltő | botrányos |  ízléstelen
+N ansvar
+M [et] felelősség;felelősséget |  blir kvitt ansvaret= mentesül a felelősségtöl
+N ansvarlig
+M felelös | er ansvarlig for= felelös érte
+N ansvarshavende
+M [en] ügyeletes
+N ansvarslřs
+M ansvarslřse= felelötlen
+N ansřkning
+M [en] pályázat | kérvény
+N anta
+M feltételezni |  antar= feltételezi |  antok |  har antatt= feltételezte
+N antakelig
+M [ADJ] feltétezhető |  ADV= feltételezhetően
+N antall
+M [et] száma | számát
+N Antarktis
+M délisark
+N antaste
+M alkalmatlankodni | nyúlkálni hozzá |  fogdosni |  antastet | har antastet= nyúlkált hozzá | alkalmatlankodott |  antaste en jente |  han hadde antastet kvinner |  hun er blitt forsřkt antastet av en person
+N antenne
+M felgyulladni | felgyújtani |  antente |  har antent= felgyújtotta |  antenne en brann= gyújtogatni | antennes= felgyullad | tüzet fog |  meggyullad | gassen antennes |  en pipebrann kan antenne hele huset |  raketten hadde antent sofaen
+N antenne
+M [en] antenna;antennát
+N antenne
+M felgyulladni | felgyújtani |  antente |  har antent= felgyújtotta |  antenne en brann= gyújtogatni | antennes= felgyullad | tüzet fog |  meggyullad | gassen antennes |  en pipebrann kan antenne hele huset |  raketten hadde antent sofaen
+N antenne
+M [en] antenna;antennát
+N anti..
+M ellen.. |  antibiotikum,et >ellenszer | ellenorvosság | antibiotika,en= antibiotikum |  mye antibiotika |  antisemitt,en= zsidóellenes
+N antikk
+M antikt,antikke ADJ= régi | régies |  régiségszámba menő
+N antiklimaks
+M [en] mélypont
+N antikvar
+M [en] antikvárius | antikvárium
+N antikvarisk
+M [ADJ] antikvár |  antikvitet,en= antikvitás
+N antilope
+M [en] antilop
+N antipati
+M [en] ellenszenv
+N antisemitt
+M [en] zsidógyülölö
+N antisemittisme
+M [en] zsidógyülölet
+N antrasitt
+M [en] antracit >köszén
+N antrekk
+M [et] öltöny;öltönyt | öltözet | ruha
+N antyde
+M célozni rá |  antydet | har antydet= célzott rá
+N anvende
+M alkalmazni/használni valamit |  anvendte | har anvendt= használt; használta |  alkalmazott;alkalmazta
+N anvendelse
+M [en] alkalmazása | használata
+N ap
+M [et] móka | tréfa |  drive ap= mókázni |  tréfálkozni
+N apal
+M [en] vadalma |  Eplet faller ikke langt fra apalen KÖZM= Nem esik messze | az alma afájától ORDT
+N apati
+M [en] apátia | közönyöség
+N apatisk
+M [ADJ] apatikus | közönyös
+N apatitt
+M [en] apatit
+N ape
+M etter= utánozni | apte etter | har apt etter utánozott;utánozta |  nordmenn aper etter svenskene
+N ape
+M [en] apekatt,en= majom;majmot
+N ape
+M etter= utánozni | apte etter | har apt etter utánozott;utánozta |  nordmenn aper etter svenskene
+N ape
+M [en] apekatt,en= majom;majmot
+N apell
+M [en] felhívás
+N apellere
+M felhívni |  apellerer til= lelkére beszéli | lelkére köti |  apellerte | har apellert=felhívta= lelkére beszélt/kötötte |  apellere til fřlelser
+N apollosommerfugl
+M [en] apollólepke
+N apostel
+M [en] apostol |  apostler= apostolok |  bruke apostlenes hester= az apostolok lován járni
+N apostrof
+M [en] aposztróf | hiányjel;hiányjelet
+N apotek
+M [et] gyógyszertár;gyógyszertárat |  patika | apoteker,en=gyógyszertáros | patikus
+N apparat
+M [et] készülék;készüléket |  müszer; müszert
+N appelsin
+M [en] narancs;narancsot | appelsiner= narancsok |  appelsinbĺt,en= narancsgerezd |
+N appelsinsaft
+M [en] narancslé;narancslevet
+N appelsintre
+M [et] narancsfa
+N appendiks
+M [en] vakbél | vakbele
+N appendiks
+M [et] tartozék
+N appendiks
+M [en] vakbél | vakbele
+N appendiks
+M [et] tartozék
+N appetitt
+M [en] étvágy;étvágyat
+N appetittlig
+M étvágyat keltő
+N applaudere
+M tapsolni | tetszését nyilvánítani |  applauderte | har applaudert=tapsolt>klappe
+N applaus
+M [en] taps;tapsot |  fikk stor applaus for sitt innlegg
+N apposisjon
+M [en] jelzö | jelzöként használt mondatrész
+N apraja-nagyja
+M alderen tatt i betraktning er han sprek >az öregúr korához | képest fürge
+N aprikos
+M [en] sárgabarack;sárgabarackot |  aprikoser= barackok |  aprikostre,et= barackfa
+N april
+M április | aprilsnarr,en= április bolondja  narrer ham april= áprilist | járat vele |
+N aprilsvćr
+M áprilisi időjárás
+N apropos
+M apropó
+N ar
+M [et] (területmérték)= 100 m2
+N Arabia
+M Arábia |  arabisk ADJ= arab | araber, en= arab személy
+N arbeid
+M [et] munka;munkát | dolog
+N arbeide
+M dolgozni |  arbeider= dolgozik |  arbeidet | har arbeidet=dolgozott |  arbeide pĺ jordene= a mezön dolgozni |  arbeider helsa av seg= gyötri a dolog |  Nĺr sola gĺr ned i vest,arbeider den late best KÖZM= Akkor | dolgozik legjobban a lusta ember,amikor a nap lemenöben | van
+N arbeider
+M [en] munkás;munkást
+N Arbeiderpartiet
+M Munkáspárt |  Det Norske Arbeiderpartiet
+N arbeidsdag
+M [en] munkaidö | a napi munka
+N arbeidsfolk
+M [et] munkások |  arbeidsfolkene= béresek
+N arbeidsfřr
+M arbeidsfřr= munkaképes
+N arbeidsledig
+M [ADJ] munkanélküli arbeidsledighet,en= munkanélküliség; munkanélküliséget | arbeidsleir,en=munkatábor
+N arbeidsom
+M arbeidsomt= szorgos | dolgos
+N arbeidsplass
+M [en] munkahely | munkahelye
+N arbeidspunkt
+M [et] munkapont
+N areal
+M [et] terület | területe
+N Arendal
+M (dél-norvég város)
+N arendalitt
+M [en] arendali lakos
+N arg
+M argt= bosszankodó | mérges
+N Argentina
+M argentiner,en= argentin ember
+N argentinsk
+M [ADJ] argentin
+N argument
+M [et] argumentum | érv
+N argumentasjon
+M [en] érvelés
+N argumentere
+M érvelni | argumentálni |  argumenterte | har argumentert= érvelt
+N arie
+M [en] ária
+N arilds
+M tid >ösrégi idök | fra arilds tid= ősidők óta
+N aristokrat
+M [en] arisztokrata | nemes
+N aristokrati
+M [et] arisztokrácia | nemesi réteg
+N aristokratisk
+M [ADJ] arisztokratikus
+N aritmetikk
+M [en] aritmetika
+N ark
+M [et] lap;lapot | papirív
+N arkeolog
+M [en] régész |  arkeologi,en= régészet
+N arkitekt
+M [en] építész;építészt | arkitektonisk= építészeti |  arkitektur,en= építészet
+N arkiv
+M [et] archívum | irattár |  arkivar,en= irattáros |  arkivere= irattárba/levéltárba tenni |  arkiverte | har arkivert=irattárba tette/ helyezte
+N Arktis
+M északisark
+N arktisk
+M arktikus | északi-sarki |  et arktisk forspann= rénszarvasfogat
+N arm
+M [en] kar;kart | karja |  brakk armen= kitörte a karját |  han gikk med henne under armen= karöltve sétált vele | armene verket= fájtak a karjai |  trakk ham etter begge armene= kézenfogva húzta |  vifte med armene= legyezni | hessegetni | han tok henne i sine armer=megölelte | lřftet barnet opp pĺ armen= karjára vette a gyereket
+N armada
+M [en] armada
+N armband
+M [et] karkötö;karkötöt
+N armbandsur
+M [et] karóra;karórát
+N Armenia
+M Örményország
+N armensk
+M [ADJ] örmén
+N armert
+M betong= vasbeton
+N armkrok
+M könyökhajlat | i armkroken=karjaiban
+N armod
+M [en] szegénység;szegénységet
+N armé
+M [en] hadsereg;hadsereget
+N aroma
+M [en] aroma | zamat |  aromatisk ADJ= aromás | zamatos
+N arr
+M [et] heg | hegedés | bibe
+N arrangement
+M [et] rendezvény |  arrangere= megrendezni |  arrangerte | har arrangert= megrendezték |  arrangeres=megrendezik
+N arrangřr
+M [en] rendezö | rendezök
+N arrest
+M [en] fogda |  arrestere= letartóztatni |
+N arrestert
+M [PASS] letartóztatták >pĺgripe arrestasjon,en= letartóztatás
+N arresterte
+M har arrestert= letartóztatta |  ble
+N arret
+M arrete= hegedéses
+N arroganse
+M [en] felvágás | nagyzás
+N arrogant
+M felvágós | nagyzoló
+N arsen
+M [et] arzén
+N arsenikk
+M [en] arzénvegyület
+N art
+M [en] faj | fajt |  arte seg= viselkedni | végbemenni | lefolyni >úgy áll a dolog |  artet seg |  har artet seg= úgy nézett ki a dolog
+N arterie
+M [en] artéria | verőér
+N artianer
+M [en] érettségiző diák
+N artig
+M érdekes | mulatságos >morsom | pussig |  rar | gřyal
+N artikkel
+M [en] névelö;névelöt |  cikk;cikket |  artikler= névelők | cikkek
+N artikulere
+M artikulálni | kiejteni |  artikulerte |  har artikulert= artikulált;artikulálta >uttale
+N artilleri
+M [et] tüzérség
+N artisjokk
+M [en] árticsóka
+N artist
+M [en] müvész;müvészt
+N artium
+M [en] érettségi;érettségit
+N arv
+M [en] öröklés | örökség
+N arve
+M örökölni |  arvet | har arvet= örökölt | har arvet en bedrift av faren= egy üzemet örökölt az apjától |  kan ikke arves= nem örökölhetö
+N Arve
+M (férfinév)
+N arve
+M [en] csillaghúr | köhúr | madárhúr
+N arve
+M örökölni |  arvet | har arvet= örökölt | har arvet en bedrift av faren= egy üzemet örökölt az apjától |  kan ikke arves= nem örökölhetö
+N Arve
+M (férfinév)
+N arve
+M [en] csillaghúr | köhúr | madárhúr
+N arve
+M örökölni |  arvet | har arvet= örökölt | har arvet en bedrift av faren= egy üzemet örökölt az apjától |  kan ikke arves= nem örökölhetö
+N Arve
+M (férfinév)
+N arve
+M [en] csillaghúr | köhúr | madárhúr
+N arveprins
+M [en] trónörökös
+N arvesynd
+M [en] halálos bün | vétek |  Maria ble unnfanget uten arvesynd
+N arving
+M [en] örökös;örököst
+N asal
+M [en] berkenye
+N asalea
+M [en] azálea
+N asbest
+M [en] azbeszt
+N Aserbajdsjan
+M Azerbajdzsán
+N aserbajdsjansk
+M [ADJ] azerbajdzsáni
+N asfalt
+M [en] aszfalt
+N Asia
+M ázsia |  asiat,en= ázsiai származású
+N asiatisk
+M [ADJ] ázsiai
+N asjett
+M [en] csészealj
+N ask
+M [en] magas köris |  Ask fřr eik,steik (Ha a köris lombja megelözi a tölgyét | akkor anyár száraz és rekkenö lesz)
+N aske
+M [en] hamu;hamut |  askebeger,et= hamutartó;hamutartót |
+N askeonsdag
+M hamvazószerda
+N Asker(Oslo-környéki
+M kisváros) | askerbřring ,en= askeri lakos
+N asket
+M [en] aszkéta személy |  asketisk= aszketikus
+N Askim
+M (kelet-norvég város)
+N asosial
+M asosialt= aszociális | emberkerülő |  zárkózott
+N asp
+M [en] (osp,en)= rezgö nyárfa
+N asparges
+M [en] spárga;spárgát | nyúlárnyék
+N aspekt
+M [en] aspektus | szempont | nézöpont |  szemszög
+N aspirant
+M [en] aspiráns | kezdö
+N assimilasjon
+M [en] összeolvadás | asszimiláció
+N assistanse
+M [en] segítkezés
+N assistent
+M [en] asszisztens | munkatárs | segéd
+N assistere
+M asszisztálni | segédkezni | assisterte har assistert= segédkezett >bistĺ | hjelpe |  medvirke
+N assosiasjon
+M [en] asszociáció
+N assosiere
+M asszociálni | társítani >képzeteket gondolatokat.összekapcsolni |  assosierte |  har assosiert= asszociált | társított
+N assuranse
+M [en] biztosítás >forsikring
+N assurere
+M bebiztosítani |  assurerte | har assurert= bebiztosította >forsikre
+N asters
+M [en] aranyfürt | aranygerebcsin
+N astma
+M [en] asztma |  astmatisk ADJ= asztmatikus
+N astragel
+M [en] édeslevelű csűdfű
+N astrolog
+M [en] csillagjós |  astrologi,en= csillagjóslás |  astronaut,en= űrhajós
+N astronom
+M [en] csillagász |  astonomi,en= csillagászat | astronomisk ADJ= csillagászati számu | megszámlálhatatlan
+N asurblĺ
+M asurblĺtt= égszínkék
+N asyl
+M [et] menedék;menedéket |  menedékjog
+N at
+M hogy
+N ateisme
+M [en] ateizmus |  ateist,en= ateista személy |  ateistisk ADJ= ateista
+N atelier
+M [et] müterem
+N atferd
+M [en] viselkedés
+N atkomst
+M [en] oda vezetö út
+N atlas
+M [et] atlasz
+N atlet
+M [en] atléta | sportoló
+N atletisk
+M atletiske ADJ= atlétikus
+N atmosfćre
+M [en] légkör |  Jordas atmosfćre= a Föld légköre
+N atom
+M [et] atom;atomot
+N atomkjerne
+M [en] atommag
+N atskillig
+M temérdek
+N atskilt
+M elkülönített
+N atspre
+M kikapcsolódni | szórakozni | atspredde/atspredte | har atspredd/atspredt= kikapcsolódott | szórakozott >underholde |  more
+N atspredelse
+M [en] kikapcsolódás
+N att
+M vissza |  fra og att= oda-visza
+N attaché
+M [en] attasé
+N attakk
+M [et] támadás | roham
+N atte
+M seg fore |  de= összebeszéltek
+N atten
+M tizennyolc;tizennyolcat |  attende= tizennyolcadik |  den attende= tizennyolcadika
+N attentat
+M [et] merénylet;merényletet
+N atter
+M RITKáN HASZNáLT= ismét | megint Det som ikke gĺr fram,det gĺr til atters KÖZM= Ami | nem halad elöre,az hátrafelé halad
+N attest
+M [en] bizonyítvány | igazolás
+N attestere
+M bizonyítani | igazolni |  attesterer= igazol;igazolja |  attesterte | har attestert= igazolt;igazolta
+N attfřring
+M [en] visszavitel
+N attpĺ
+M attpĺtil= ráadásul
+N attpĺklatt
+M familiens= kései/késöi gyermek a családban
+N attraksjon
+M [en] látvány | látnivaló
+N attraktiv
+M attraktivt= vonzó | bübájos |  elragadóan szép
+N attributt
+M [et] tartozéka neki
+N attrĺ
+M [en] vonzalom | vonzalmat >begjćr | lyst lidenskap
+N attrĺ
+M sóvárogni | erösen vágyni |  attrĺdde |  har attrĺdd= sóvárgott | vágyódott
+N attrĺ
+M [en] vonzalom | vonzalmat >begjćr | lyst lidenskap
+N attrĺ
+M sóvárogni | erösen vágyni |  attrĺdde |  har attrĺdd= sóvárgott | vágyódott
+N au!
+M Jaj,de fáj!
+N audiens
+M [en] audiencia
+N audiovisuell
+M audiovizuális
+N auditiv
+M auditivt=hallás után
+N august
+M augusztus |  Augustus' regjering= Augusztus császár uralma
+N auksjon
+M [en] árverés | auksjonarius,en= árverezö | árverést vezetö személy
+N aula
+M [en] aula | díszterem
+N Aurdal
+M (völgy,település)
+N aure
+M [en] pisztráng;pisztrángot
+N Aurland
+M (látványos táj,völgy Nyugat-Norv)
+N ause
+M [en] (ausa) | řse,en= merökanál
+N Aust-Agder
+M (norvég megye)
+N australelyrehale
+M cifra fogasponty
+N Australia
+M Ausztrália |  australier,en= ausztrál lakos |  australsk ADJ= ausztrál
+N autentisk
+M autentikus | hiteles
+N autodidakt
+M [en] önképzett személy |  magatanúlt
+N autograf
+M [en] aláírás | névjegye
+N automasjon
+M [en] vezérléstechnika | automat, en= automata |  automatikk,en= automatika |  irányítástechnika | vezérléstechnika |  szabályozástechnika |  automatisering,en= automatizálás |  automatisk ADJ= automatikus
+N autoritet
+M [en] tekintély
+N autoritćr
+M autoritćrt= önkényes
+N av
+M [PREP] ..ból | .böl |  av dage= holttá |  av alle slag= mindenféle | mindenfajta |  av jord er du kommet= porból lettél |  av og til= néha |  av sted= útnak | útra | el |  av gĺrde= el | útnak
+N avanse
+M [en] haszon | kereset >belöle |    | </ |  |
+N av
+M [PREP] ..ból | .böl |  av dage= holttá |  av alle slag= mindenféle | mindenfajta |  av jord er du kommet= porból lettél |  av og til= néha |  av sted= útnak | útra | el |  av gĺrde= el | útnak
+N avanse
+M [en] haszon | kereset >belöle |    | </ |  |
+N avanse
+M [en] haszon | kereset >belöle
+N avansement
+M [et] elörehaladás | elöléptetés
+N avansere
+M elöre haladni |  avanserte | har avansert= haladott elöre >rykke opp
+N avansert
+M fejlett
+N avart
+M [en] elfajult egyed
+N avbestille
+M visszavonni >egy rendelést |  avbestilte | har avbestilt= visszavonta
+N avbetale
+M (havi)részletre fizetni |  avbetalte |  har avbetalt= részletre fizette | avbetaler pĺ sin gjeld= havi részletre fizeti le tartozását | lerója
+N avbetaling
+M [en] részletfizetés >avdrag
+N avbilde
+M ábrázolni |  avbilder= ábrázol; ábrázolja |  avbildet | har avbildet= ábrázolt; ábrázolta |  her er en smĺspeider avbildet= ez a kép egy kiscserkészt | ábrázol
+N avblomstre
+M elvirágozni |  avblomstrer= elvirágzik |  avblomstret | har avblomstret= elvirágzott | de fleste planter er avblomstret om hřsten >elvirágoztak | avblomstret ADJ elvirágzott
+N avblĺse
+M lefújni |  avblĺser= lefúj;lefújja |  avblĺste | har avblĺst= lefújta |  nĺ mĺ dere avblĺse denne feiden= vessetek már véget ennek |  a viszálynak/békétlenségnek
+N avbrekk
+M [et] szünetelés
+N avbrudd
+M [et] megszakítás |  hřytidsdager gir barna et avbrudd i skolegangen
+N avbryte
+M közbeszólni | megszakítani |  avbrřt |  har avbrutt |  undervisningen ble avbrutt PASS= abbaszakadt a tanítás |  avbryter en samtale/ham >beleszól a szavába
+N avbrytelse
+M [en] közbeszólás
+N avbud
+M [et] lemondás | visszavonás |  det kom avbud fra ham |  sende avbud
+N avdal
+M [en] félreesö völgy
+N avdeling
+M [en] részleg | ügyosztály
+N avdrag
+M [et] részlet |  lot vćre ĺ betale et avdrag pĺ 3000 kroner
+N avduke
+M felavatni |  avduker= avat fel; felavatja |  avduket | har avduket= felavatták |  avduke en minnestein= emlékművet avatni fel |  statuen av flřytespilleren ble avduket PASS
+N avduking
+M [en] avatás
+N avdřd
+M elhúnyt |  den avdřde= az elhúnyt;az elhúnytat | boldogult
+N Ave
+M Maria= Üdvözlégy Mária
+N aveny
+M [en] széles utca New Yorkban
+N aversjon
+M [en] ellenszenv | idegenkedés | iszony
+N avertere
+M közzétenni | hirdetni >az újságban apróhirdetést tenni közzé |  averterte | har avertert= apróhirdetést tett közzé
+N avfall
+M [et] hulladék;hulladékot | szemét; szemetet
+N avfeie
+M lesöpörni | leseperni | elutasítani |  visszautasítani | elhárítani | avfeide | har avfeid lesöpörte |  har avfeid historiene om overtro |  ble avfeid som romantiske svermerier PASS
+N avfeldig
+M haszontalan | hasznavehetetlen |  en sammenkrřket og avfeldig olding
+N avfřring
+M [en] széklet
+N avgang
+M [en] repülö,vonat |  indulási ideje |  indulás
+N avgift
+M [en] illeték;illetéket | díj
+N avgjřre
+M eldönteni | elhatározni |  avgjorde |  har avgjort= eldöntötte | elhatározta
+N avgjřrelse
+M [en] döntés;döntést
+N avgrense
+M korlátot szabni neki |  avgrenset |  har avgrenset=korlátot szabott
+N avgrunn
+M [en] mély | mélység | szakadék |  havnet i avgrunnen= a szakadékba zuhant avgud,en= bálvány;bálványt
+N avgĺ
+M ved dřden= elhalni | elhunyni |  avgikk ved dřden= elhunyt
+N avhandling
+M [en] disszertáció | értekezés
+N avhengig
+M függő tőle
+N avhold
+M [et] tartózkodás >tőle
+N avholde
+M (gyülést,vásárt)tartani |  avholdt |  har avholdt= tartott;tartotta | det ble avholdt valg til nasjonalforsamlingen
+N avholdende
+M tartózkodó tőle
+N avholdenhet
+M [en] tartózkodás a szeszes italoktól,nemi élettől >cölibátus
+N avholdsmann
+M [en] antialkoholista
+N avholdt
+M közkedvelt | népszerü |  han er en avholdt far=jó apa | hun er en meget avholdt lćrer= jó tanító
+N avhřr
+M [et] kihallgatás |  ble tatt inn til avhřr= vallatóra fogták |  i avhřr har mannen nektet for voldtekten >tagadta a kihallgatáson
+N avhřre
+M kihallgatni |  avhřrte | har avhřrt= kihallgatta |  ble avhřrt PASS= kihallgatták |  ble avhřrt om drapet >forhřre
+N avindsyk
+M irigy
+N avis
+M [en] (avisa)= újság;újságot
+N avisbud
+M [et] hírlapterjesztő
+N aviskiosk
+M [en] ujságárus | bódé
+N avkall
+M [et] lemondás |  gi avkall pĺ= lemond róla
+N avkasting
+M [en] (avkastning,en= haszon belőle bevétel
+N avkjřle
+M lehűteni |  avkjřler= lehűt;lehűti |  avkjřlte | har avkjřlt= lehűtötte | han fikk den avkjřlt= le sikerült neki hűteni | avkjřlende= hűsítő |  avkjřling,en= hűtés | lehülés
+N avklaring
+M [en] tisztázás
+N avkledd
+M har kledd av seg= levetkőzve > andre har kledd av en= levetkőztetve
+N avkobling
+M [en] kikapcsolódás
+N avkom
+M [et] (avkommet)= ivadék | ivadéka |  magzata | sarja
+N avkrefte
+M legyengíteni | legyengülni | avkreftet har avkreftet= legyengült | kimerült
+N avl
+M [en] tenyésztés | tenyészet | termelés
+N avle
+M dyr= tenyészteni >vekst=termelni |  avler= tenyészt;tenyészti |  termel;termeli |  avlet |  har avlet= tenyésztett;tenyésztette |  termelt;termelte | avle opp= felnevelni | hízlalni |  dyr avlet i bĺs |  bomullen avles= termelik a gyapotot |  selvavlede grřnnsaker | markens grřde ble avlet av elevene |  ekteskapets hovedhensikt er ĺ avle barn >nemz | nemzés
+N avlede
+M elvonni a figyelmét | képezni | avleder elvon;elvonja | képez |  avledet | har avledet= elvonta | képzett |  avledning,en= származék |  képzés
+N avlegge
+M letenni | tenni |  avla | har avlagt= tett letette |  avlegge besřk=látogatást tenni nála avlegge eksamen= vizsgát | tenni | vizsgázni |  avlegge en ed= esküt tenni rá | esküdni rá |
+N avlegger
+M [en] hajtás >palánta
+N avleggs
+M divatjamúlt | régimódi
+N avlessing
+M [en] lerakódás
+N avling
+M [en] termés;termést |  fĺ avlingen i hus betakarulni
+N avlive
+M ölni | levágni |  avlivet | har avlivet=öltek |  vágtak;levágták >az állatot |  avlive en myte/et rykte= cáfolni a hírt,híresztelést
+N avlsdyr
+M [et] tenyészállat >kan | avlshingst, en= tenyészcsődör | avlshoppe,en= tenyész-kanca |  avlspurke,en= tenyészkoca
+N avlyse
+M lemondani >az elöadást,gyűlést |  avlyste | har avlyst= lemondta |  mřtet ble avlyst= lemondták a gyűlést |  har avlyst sin planlagte ferietur
+N avlytte
+M lehallgatni >a telefonbeszélgetést |  KGB avlyttet ham
+N avlřp
+M [et] szennycsatorna |  avlřpsvann,et= szennyvíz |  rensing av avlřpsvannet=szennyvízderítés
+N avlřse
+M leváltani |  avlřser= levált;leváltja |  avlřste | har avlřst=  leváltotta |  avlřsing,en (avlřsning,en)= váltás >őrváltás
+N avmakt
+M [en] tehetetlenség
+N avmektig
+M tehetetlen
+N avosett
+M gulipán
+N avrette
+M kivégezni |  fangen skulle avrettes pĺ stedet |  avretting,en= kivégzés
+N avrusing
+M [en] kijózanítás | kijózanodás
+N avsanne
+M cáfolni |  avsannet | har avsannet= cáfolt;cáfolta
+N avsats
+M [en] kiszögellés | kiugró rész >plató
+N avsender
+M [en] feladó;feladót
+N avsette
+M leváltani >tisztségéböl,megbizatásából |  avsatte | har avsatt= leváltotta | han er avsatt fra sin stilling | avsette fingeravtrykk ujjlenyomatot hagy hátra | avsette tid til noe időt szánni rá
+N avsi
+M hírdetni |  avsier dom= itéletet hírdet |  dommen skal avsies fredag
+N avsides
+M félreesö
+N avsindig
+M esztelen | őrült |  politiet jaget den avsindige morderen
+N avskaffe
+M eltörölni | felszámolni vele |  avskaffet | har avskaffet= felszámolta |  pressefriheten ble snart avskaffet
+N avskjed
+M [en] búcsú | elbocsátás |  avskjeden med= búcsú tőle |  ta avskjed med= elbúcsúzni tőle |  fĺ avskjed >felmondanak neki |  han fikk avskjed pĺ grĺtt papir
+N avskjedige
+M elbocsátani | meneszteni |  avskjediget | har avskjediget= elbocsátotta
+N avskrift
+M [en] másolat;másolatot
+N avsky
+M utálni | undorodni tőle |  avskyr ham= undorodik tőle |  avskydde | har avskydd= undorodott töle |  utált;utálta
+N avsky
+M [en] undor | utálat |  folk fřlte avsky for hans oppfřrsel |  reagere med avsky |  vekke avsky |  avskyelig= undorító | utálatos
+N avsky
+M utálni | undorodni tőle |  avskyr ham= undorodik tőle |  avskydde | har avskydd= undorodott töle |  utált;utálta
+N avsky
+M [en] undor | utálat |  folk fřlte avsky for hans oppfřrsel |  reagere med avsky |  vekke avsky |  avskyelig= undorító | utálatos
+N avslag
+M [et] megtagadás | elutasítás |  har fĺtt avslag pĺ sřknaden om
+N avslutning
+M [en] befejezés | vége neki |  pĺsken er en hyggelig avslutning pĺ vinteren |  det manglet avslutning pĺ stilen |  avslutning pĺ livet= az élet alkonya
+N avslutte
+M befejezni | végezni vele |  avsluttet |  har avsluttet= befejezte | végzett vele |  han har avsluttet brevet= megírta a levelét | hele sřket mĺtte avsluttes >abba kellett hagyni a keresését |  avslutte 9 ĺrs skolegang
+N avslřre
+M leleplezni |  avslřrte | har avslřrt= leleplezett;leleplezte |  spionen ble avslřrt= leleplezték a kémet |  hemmeligheten er avslřrt
+N avsmak
+M [en] mellékíz |  har avsmak for= elmegy az étvágya tőle
+N avsnitt
+M [et] bekezdés;bekezdést
+N avspeiles
+M tükröződik |  avspeiling,en= tükörkép(e)
+N avstand
+M [en] távolság;távolságot | távlat |  pĺ avstand= meszsziröl | távolról
+N avstemning
+M [en] szavazás;szavazást
+N avstĺ
+M fra= nem tartani rá igényt | avsto fra |  har avstĺtt fra= nem tartott rá igényt
+N avta
+M csökkenni | fogyatkozni |  avtok | har avtatt= csökkent | fogyatkozott |  lecsökkent |  vinden vil avta >lecsillapodik
+N avtagende
+M csökkenő | fogyatkozó
+N avtale
+M megtárgyalni | avtalte= megegyeztek benne | de har avtalt tidspunkt= megállapodtak az idöpontban | avtale,en= egyezmény |  megállapodás
+N avveg
+M [en] (avvei,en) >elkallódás
+N avveksling
+M [en] változatosság
+N avvenne
+M leszoktatni róla |  avvente | har avvent= leszoktatta róla |  avvenningskur,en >gyógykezelés,ahol leszoktatják a szeszről
+N avvik
+M [et] eltérés
+N avvike
+M eltér töle |  avvek | har avveket=eltért tőle |  avvikende= elérő |  vitnene har gitt avvikende forklaringer |  avviker,en=személy aki eltér a többitől
+N avvikle
+M lebonyolítani | avviklet | har avviklet lebonyolították |  det mĺtte to bordsetninger til for ĺ avvikle middagen |  avvikling,en= lebonyolítása |  en noenlunde styrt avvikling av det kommunistiske systemet
+N avvise
+M elutasítani |  avviste | har avvist=elutasította |  avvise et frieri= kosarat adnineki | kikosarazni |  landet har tidligere avvist en řkonomisk hjelp |  avvise en klage om |  avvise rykter |  vitneutsagnet ble avvist som lřgn
+N avvćpne
+M lefegyverezni | leszerelni | elvenni töle a fegyvert | avvćpnet ham | har avvćpnet ham= elvette tőle a fegyvert |  han smilte avvćpnende
+N babb
+M [et] klabb og babb=kavarodás | zűrzavar
+N babelsk
+M bábeli
+N bable
+M makogni | bablet | har bablet=makogott ;makogta
+N babord
+M hajó baloldalán,bal szélén>styrbord a hajó másik oldala
+N baby
+M [en] kisbaba;kisbabát |  babyen skrek= bömbölt a kisbaba | hjelper til med stellet av babyen
+N back
+M [en] hátvéd;hátvédet
+N bacon
+M [et] füstölt szalonna;füstölt szalonnát
+N bad
+M [et] fürdés | fürdö | fürdöszoba |  tar (seg) et bad= megfürdik
+N bade
+M fürödni | megfürödni |  bader=fürdik |  megfürdik |  badet= fürdött | har badet= megfürdött |  bade i sjřen= a tengerben fürödni |  kom og bad!= gyere/gyertek fürödni! | byen lĺ badet i sol/sollys= verőfényben fürdött a város |  han vĺknet badet i svette= verítéktől  kiverve ébredt |  füröszteni | fürdetni |  bader ungen= fürdeti | füröszti | moren badet barnet gyermekét fürdette/fürösztötte |  har badet ham/henne= megfürdette megfürösztötte
+N badeby
+M [en] fürdőhely
+N badedrakt
+M [en] fürdőruha;fürdőruhát |  hun gĺr med badedrakt= fürdőruhában járkál
+N badekar
+M [et] fürdőkád |  i badekaret= a fürdőkádban
+N badestrand
+M [en] strand | ligge pĺ badestranda strandolni |  badevann,et= fürdövíz
+N badevekt
+M [en] (badevekta)=füdőszobamérleg
+N badevćrelse
+M [et] fürdöszoba |  i badevćrelset a fürdöszobában
+N badminton
+M [en] tollaslabda
+N badstubad
+M [et] szauna | badstue,en (badstua) szauna
+N bag
+M [en] szatyor | táska | zsák
+N bagasje
+M [en] poggyász;poggyászt
+N bagasjerom
+M [et] csomagtartó >autó,kocsi
+N bagatell
+M [en] csekélység | potomság | bagatell
+N bagatellisere
+M lekicsinyelni | bagatelliserte |  har bagatellisert= bagatellizálta
+N bagett
+M [en] cipó
+N bajas
+M [en] strici | vagány srác
+N bajonett
+M [en] szurony
+N bak
+M [PREP] mögé | mögött | ADV hátul |  sitte bak lĺs og slĺ= lakat alatt van >börtönben
+N bak
+M [en] alfele | fara | feneke
+N bak
+M [PREP] mögé | mögött | ADV hátul |  sitte bak lĺs og slĺ= lakat alatt van >börtönben
+N bak
+M [en] alfele | fara | feneke
+N bakbinde
+M megkötözni >kezét,lábát |  han lĺ bakbundet og kneblet= hátrakötötték a kezét
+N bake
+M sütni >kemencében |  baker= süt;süti |  bakte | har bakt= sütött | sütötte | megsütötte |  bake brřd= kenyeret sütni |  bake kaker=süteményt sütni |  Bake,bake kaker=Süti,süti pácsát
+N bakenfor
+M mögött | mögötte | túl rajta
+N bakepulver
+M [et] sütőpor;sütőport
+N baker
+M [en] pék;péket | bakere= pékek | bakeri, et= pékség | péküzlet |  bakerovn,en= sütő-kemence |  en vedfyrt bakerovn
+N bakerst
+M leghátul | leghátulra
+N bakevarer
+M péksütemények
+N bakevje
+M [en] örvény
+N bakfra
+M hátulról |  han angrep henne bakfra hátulról támadta meg
+N bakgrunn
+M [en] háttér | háttere
+N bakhold
+M [et] háttámadás
+N bakke
+M [en] domb;dombot | domboldal | sísánc lejtö | föld | talaj |  en bratt bakke= meredek domb |  pĺ bakken=a földre | a földön | den ble gravd ned i bakken= elásták a földbe |  han falt i bakken= leesett >a fáról |  frřet faller ned pĺ bakken= a földre hullik |  han gikk i
+N bakken
+M a földre zuhant | elesett |  la ham i bakken= földhöz vágta | trćr |  |
+N bakke
+M [en] domb;dombot | domboldal | sísánc lejtö | föld | talaj |  en bratt bakke= meredek domb |  pĺ bakken=a földre | a földön | den ble gravd ned i bakken= elásták a földbe |  han falt i bakken= leesett >a fáról |  frřet faller ned pĺ bakken= a földre hullik |  han gikk i
+N bakken
+M a földre zuhant | elesett |  la ham i bakken= földhöz vágta | trćr |  |
+N bakkeklřver
+M [en] hegyi here
+N bakkemynte
+M [en] havasi pereszlény
+N bakken
+M a földre zuhant | elesett |  la ham i bakken= földhöz vágta | trćr detter i bakken kidőlnek a fák |  under bakken= a föld alatt
+N bakkestjerne
+M [en] bóbitás küllőrojt
+N bakkesřte
+M [en] mezei tárnics
+N bakket
+M bakkete= dombos
+N bakketopp
+M [en] dombtető
+N baklengs
+M hátrafelé | falle baklengs=hanyatt-esni
+N baklomme
+M [en] farzseb
+N bakom
+M mögött
+N bakover
+M hátra | hátrafelé
+N bakpĺ
+M hátul |  en trĺkket og en satt bakpĺ= az egyik tekerte (kerékpárt) | a másik meg a csomagtartón ült
+N bakre
+M hátsó
+N bakse
+M csapkodni |  fuglen bakser= csapkod a szárnyával |  bakset | har bakset=csapkodott fuglene bakset ut i lufta >szárnyra | kaptak | szárnyra keltek |  baksende vinger
+N baksete
+M [et] hátsóülés | sitte i baksetet=hátsóülésen ülni
+N bakside
+M [en] hátsó oldala | hátulja neki
+N bakst
+M [en] tészta | sütemény >pogácsa
+N bakstrev
+M [et] makacsság | csökönyösség
+N baktale
+M gyalázni | ócsárolni baktaler= őtteszi-veszi a szóra |  baktalte | har baktalt= gyalázta | ócsárolta
+N bakterie
+M [en] baktérium
+N bakvaske
+M gyalázni | ócsárolni |  bakvasket |  har bakvasket= gyalázta
+N bakvendt
+M fordítva | hátulról előre
+N bakverk
+M [et] sütemény | tészta
+N bal
+M [et] görnyedés | vesződés | gürcölés
+N balanse
+M [en] egyensúly;egyensúlyt
+N balansere
+M egyensúlyozni |  balanserte | har balansert= egyensúlyozott;egyensúlyozta
+N balderbrĺ
+M [en] ebszékfű
+N bale
+M görnyedni | vesződni |  balte | har balt= görnyedett
+N balje
+M [en] dézsa
+N balkong
+M [en] balkon | erkély
+N ball
+M [en] labda;labdát | ballen er rund=kerek a labda |  ballen spretter=a labda pattog |  VULG ballene= (férfi)heréi | töke
+N ball
+M [et] bál;bált |  hun gĺr pĺ ball= elmegy a bálba
+N ball
+M [en] labda;labdát | ballen er rund=kerek a labda |  ballen spretter=a labda pattog |  VULG ballene= (férfi)heréi | töke
+N ball
+M [et] bál;bált |  hun gĺr pĺ ball= elmegy a bálba
+N ballade
+M [en] ballada;balladát
+N ballast
+M [en] fenéksúly | holtsúly | ballaszt
+N ballblom
+M [en] (ballblommen)= zengevirág
+N ballett
+M [en] balett
+N ballkjole
+M [en] báli ruha >estélyi
+N ballong
+M [en] léggömb;léggömböt
+N ballspill
+M [et] labdázás | labdajáték
+N balsam
+M [en] balzsam
+N baltisk
+M baltiske ADJ= balti
+N bambus
+M [en] bambusz
+N bamse
+M [en] maci | mackó;mackót
+N banal
+M banalt= banális | banalitet,en=banalitás közhely
+N banan
+M [en] banán;banánt |  bananer=banánok
+N band
+M [et] (bĺnd,et)= kötés | pántlika | zenekar |  han bandt kornband= kévéket kötözött
+N bandasje
+M [en] kötés | védkötés | bandázs
+N bande
+M [en] banda;bandát
+N bandfly
+M sárgafübagoly
+N banditt
+M [en] betyár | rablógyilkos | zsivány
+N bandy
+M [en] gyeplabda
+N bane
+M [en] pálya | pályaudvar | vasút | végzet |  holdt pĺ ĺ bli hans bane=majdnem az lett aveszte
+N bane
+M seg fram= előretolakodni |  bante seg fram | har bant seg fram= tolakodott előre
+N bane
+M [en] pálya | pályaudvar | vasút | végzet |  holdt pĺ ĺ bli hans bane=majdnem az lett aveszte
+N bane
+M seg fram= előretolakodni |  bante seg fram | har bant seg fram= tolakodott előre
+N banjo
+M [en] bendzsó
+N bank
+M [en] bank;bankot | takarékpénztár
+N banke
+M [en] sekély part
+N banke
+M kalapálni | kopogni | kopogtatni | ütni |   verni |  banket | har banket= kopogott | kopogtatott |  banke et teppe= szönyeget porolni |  kornet bankes ut= kicsépelik/kicséplik a gabonát |  det bankes= kalapálnak |  banke ham opp= elpáholni | kiporolni |  ble banket opp med stokk PASS= bottal verték |  han banket pĺ dřren= kopogtatott/kopogott az ajtón
+N banke
+M [en] sekély part
+N banke
+M kalapálni | kopogni | kopogtatni | ütni |   verni |  banket | har banket= kopogott | kopogtatott |  banke et teppe= szönyeget porolni |  kornet bankes ut= kicsépelik/kicséplik a gabonát |  det bankes= kalapálnak |  banke ham opp= elpáholni | kiporolni |  ble banket opp med stokk PASS= bottal verték |  han banket pĺ dřren= kopogtatott/kopogott az ajtón
+N bankerott
+M [en] anyagilag tönkrement |  han er banke rott
+N bankett
+M [en] estély | ünnepi vacsora
+N bankkort
+M [et] hitelkártya
+N bann
+M [et] kiközösítés |  lyse ham i bann= kiközösíteni
+N banne
+M káromkodni | szitkozódni |  bannet |  har bannet= káromkodott
+N banner
+M [et] lobogó | zászló
+N banning
+M [en] káromkodás | Sanning trenger ingen banning KÖZM= Ne káromkodj,ha igazat | beszélsz
+N bannlyse
+M kiközösíteni | bannlyste | har bannlyst= kiközösítették
+N bannlysing
+M [en] kiközösítés
+N baptist
+M [en] keresztelő
+N bar
+M [et] fenyőgally
+N barbar
+M [en] barbár | barbarisk ADJ= barbár
+N Barbara
+M Borbála
+N barbe
+M [en] márna | márnát
+N barbent
+M barbeint= mezítláb |  gĺ barbent= mezí |  |
+N bar
+M [et] fenyőgally
+N barbar
+M [en] barbár | barbarisk ADJ= barbár
+N Barbara
+M Borbála
+N barbe
+M [en] márna | márnát
+N barbent
+M barbeint= mezítláb |  gĺ barbent= mezí |  |
+N bar
+M [et] fenyőgally
+N barbar
+M [en] barbár | barbarisk ADJ= barbár
+N Barbara
+M Borbála
+N barbe
+M [en] márna | márnát
+N barbent
+M barbeint= mezítláb |  gĺ barbent= mezí |  |
+N barbar
+M [en] barbár | barbarisk ADJ= barbár
+N Barbara
+M Borbála
+N barbe
+M [en] márna | márnát
+N barbent
+M barbeint= mezítláb |  gĺ barbent= mezítláb járni |  han var barbent= mezítlábvolt |  pĺ bare ben= mezítláb
+N barberblad
+M [et] borotvapenge |  barbere= borotválni |  barbere seg= borotválkozni |  barberte seg | har barbert seg= borotválkozott |  han har barbert seg= megborotválkozott | barbermaskin,en=villanyborotva
+N Barbro
+M Borbála |  Barbromesse= Szent Borbála napja (dec.4)
+N bardun
+M [en] vaskötél,erősítés | kifeszítés
+N bardus
+M hirtelen | váratlanul jön
+N bare
+M csak | csupán |  Takk,bare bra!= Köszönöm,jól! |  Bare det kommer regn= ha esni fog | Jeg bare spřr!= Csakúgy kérdem!Han ser ikke skogen for bare | trćr KÖZM= Nem látja a fától az erdőt ORDT
+N barfrost
+M [en] talajmenti fagy |  barfrostvinter, en= hóban szegény tél,de a föld kérge megvan | fagyva
+N barfřtt
+M mezítláb
+N barhodet
+M hajadon fővel
+N barium
+M [et] bárium;báriumot (Ba)
+N bark
+M [en] fakéreg | kéreg;kérget |  barken pĺ treet= a fa kérge
+N barlind
+M [en] (barlinda)= tiszafa
+N barm
+M [en] kebel | keble |  női mell
+N barmfager
+M dúskeblű | dúsmellű hölgy/nő |  en barmfager dame
+N barmhjertig
+M irgalmas | könyörületes
+N barmhjertighet
+M [en] irgalmasság | könyörület
+N barn
+M [et] gyerek;gyereket | barn= gyerekek; gyerekeket |  gyermek;gyermeket |  gyermekek;gyermekeket | kisgyerek | barna= a gyerekek;a gyerekeket | hun ble med barn= állapotos/terhes lett |  teherbe esett | hun venter barn= várandós |  ta hĺnd om barna=oltalmába veszi a gyerekeket |  Brent barn skyr ilden KÖZM= Aki megégette magát, az kerüli | a tűzet |  Like barn leker best KÖZM= Megleli a zsák a foltját ORDT
+N Barn
+M og fulle folk sier sannheten KÖZM= Borban az igazság ORDT |  Smĺ barn,smĺgleder KÖZM= A kisgyerek a kicsinek is örül |  örül,mint majom a  farkának
+N barn
+M [et] gyerek;gyereket | barn= gyerekek; gyerekeket |  gyermek;gyermeket |  gyermekek;gyermekeket | kisgyerek | barna= a gyerekek;a gyerekeket | hun ble med barn= állapotos/terhes lett |  teherbe esett | hun venter barn= várandós |  ta hĺnd om barna=oltalmába veszi a gyerekeket |  Brent barn skyr ilden KÖZM= Aki megégette magát, az kerüli | a tűzet |  Like barn leker best KÖZM= Megleli a zsák a foltját ORDT
+N Barn
+M og fulle folk sier sannheten KÖZM= Borban az igazság ORDT |  Smĺ barn,smĺgleder KÖZM= A kisgyerek a kicsinek is örül |  örül,mint majom a  farkának
+N barnaktig
+M gyermeki
+N barndom
+M [en] (barndommen)= gyermeki évek |  gyerekkor | barndoms..= gyerekkori |  barndomsbygda= szülőfaluja | barndoms- minner= gyermekkori emlékek
+N barnebarn
+M [et] unoka;unokát | az unokája; unokáját |  unokák
+N barnegrĺt
+M [en] gyermeksírás |  en hjerte-skjćrende barnegrĺt= szívfacsaró, szívszaggató | gyermeksírás
+N barnepike
+M [en] dajka
+N barnerov
+M [et] gyerekrablás | liliomtiprás
+N barnesko
+M gyermekcipői |  trĺkket sine barnesko der | barnestjerne=gyermekszínész
+N barnetog
+M [et] kisiskolások felvonúlása május 17.-én | barnevogn,en= gyermekkocsi barnetrinn,et |  elever pĺ barnetrinnet= kisiskolások |  barnevćrelse,et= gyerekszoba;gyerekszobát | barnevernsnemd,en= gyámhatóság
+N barnslig
+M gyerekes | huncut | pajkos |  barnslig oppfřrsel= gyerekes viselkedés | vćre barnslig= gyerekeskedni |  er barnslig= gyerekeskedik
+N barnĺl
+M [en] fenyőtű | tűlevél
+N barokk
+M [en] barokk
+N barometer
+M [et] barométer
+N baron
+M [en] báró
+N barre
+M [en] aranyrúd
+N barriere
+M [en] sorompó | gát | korlát
+N barrikade
+M [en] barikád | torlasz
+N barrikadere
+M elzárni az útat | eltorlaszolni |  barrikaderte | har barrikadert= eltorlaszolta
+N barsel
+M [et] (barslet)= gyermekágy
+N barsk
+M barskt >belevaló | belemenős |  fenegyerek
+N barskog
+M [en] fenyves | tűlevelű erdő
+N bart
+M [en] bajusz;bajuszt |  med bart=bajuszos
+N bartender
+M [en] csapos
+N baryton
+M [en] bariton | baritonista
+N bas
+M [en] robbantó szakember
+N basar
+M [en] bazár
+N base
+M fetrengeni | hemperegni |  henteregni |  baste | har bast= hempergett |  base i snřen ,hřyet,lřvet |  barna baset og hoppet
+N base
+M [en] hadiszállás | lúg >katonaság,kémia
+N base
+M fetrengeni | hemperegni |  henteregni |  baste | har bast= hempergett |  base i snřen ,hřyet,lřvet |  barna baset og hoppet
+N base
+M [en] hadiszállás | lúg >katonaság,kémia
+N basere
+M [pĺ] alapozni rá |  baserte | har basert
+N basilikum
+M [en] bazsalikom
+N basill
+M [en] bacilus;bacilust
+N basis
+M [en] alap;alapot | bázis
+N basismotstand
+M [en] bázisellenállás
+N basisstrřm
+M [en] bázisáram
+N baske
+M kepesztetni | kepickélni |  basket | har basket= kepesztetett | kepickélt |  i dyp snř basket han seg fram til nćrmeste hytte
+N basketak
+M [et] birok |  de endte i et basketak  pĺ bakken=birokra kaptak/keltek |  ingen kom tilskade under basketaket
+N bass
+M [en] bőgő | nagybőgő | basszus
+N basseng
+M [et] medence;medencét
+N bassregulering
+M [en] basszusszabályozás
+N bast
+M [en] csuhé;csuhét | háncs |  skrelle av basten= (kukoricát)fosztani
+N bastant
+M erős | kemény |  forslaget mřtte bastant motstand fra folk
+N bastard
+M [en] fattyú | keverékfaj
+N baste
+M kötözni | összekötözni >hánccsal |  bastet | har bastet= összekötözte |  har fřlt seg bastet og bundet i arbeidet
+N bastion
+M [en] bástya | erőd | vár
+N basun
+M [en] harsona
+N batalje
+M [en] csata | csete-paté |  bataljon,en= zászlóalj
+N batteri
+M [et] elem;elemet |  KEM kémiai elem |  galvánelem | telep;telepet | akkumulátor
+N baufil
+M [en] vasfűrész
+N baug
+M [en] hajóorr
+N bauksitt
+M en(bauxitt,en)=baukszit;baukszitot
+N bauta
+M [en] bautastein,en=emlékmű | köoszlop
+N Bayern
+M Bajorország
+N bayersk
+M [ADJ] bajor ADJ bajorul | bajor tájszólással |  bayrer,en= bajor személy
+N be
+M kérni | imádkozni | könyörögni | meghívni |  ber=imádkozik | könyörög | meghív;meghívja ba | har bedt= kért | kérte | imádkozott |  la seg be= kéretni magát | vonakodni |  han lot seg ikke be to ganger= nem kérette magát |  han er bedt= hivatalos (oda)
+N bebreide
+M korholni | szemrehányni | bebreidet |  har bebreidet= szemrehányást tett neki
+N bebreidelse
+M [en] szemrehányás | bebreidende szemrehányó
+N bebyggelse
+M [en] lakott terület | település
+N bed
+M [et] virágágy;virágágyat
+N bedagelig
+M bedageligeADJ= lomha | kényelmes | lassúiramú |  ADV lomhán
+N bedehus
+M [et] imaház
+N bedekke
+M fedezni | hágni |  fĺ kua,hoppa bedekket >fedeztetni | hágatni |  hingsten bedekker hoppa= a mén hágja a kancát
+N bedekking
+M [en] fedeztetés
+N bedervet
+M romlott >étel,hús
+N bedra
+M megcsalni | hűtlen lenni hozzá | bedro har bedratt=hűtlen lett | megcsalt;megcsalta
+N bedra
+M sin ektefelle |  bedrag,et= hűtlenség |  tévesztés |  bedrager,en= csaló | sikkasztó |
+N bedra
+M megcsalni | hűtlen lenni hozzá | bedro har bedratt=hűtlen lett | megcsalt;megcsalta
+N bedra
+M sin ektefelle |  bedrag,et= hűtlenség |  tévesztés |  bedrager,en= csaló | sikkasztó |
+N bedrageri
+M [et] csalás |  bedragerisk ADJ= csalárd
+N bedre
+M javítani rajta |  bedret | har bedret=javított rajta
+N bedre
+M jobb ADJ | jobban ADV |  Bedre fřre var enn etter snar KÖZM >Jobb félni,mintmegijedni | >god= jó
+N bedre
+M javítani rajta |  bedret | har bedret=javított rajta
+N bedre
+M jobb ADJ | jobban ADV |  Bedre fřre var enn etter snar KÖZM >Jobb félni,mintmegijedni | >god= jó
+N bedrift
+M [en] üzem;üzemet |  tett;tettet
+N bedring
+M [en] javulás |  gjřre bot og bedring= megjavulni |  er pĺ bedringens vei= javul azállapota
+N bedrřve
+M elszomorítani |  bedrřvet | har bedrřvet= elkeserítette | elszomorította
+N bedrřvelig
+M elszomorító | szomorú | siralmas >eset
+N bedt
+M be | han er bedt= hivatalos (oda)
+N bedyre
+M esküdözni |  bedyret | har bedyret= esküdözött |  han bedyrer sin uskyld= égre-földre esküdözik | egyre azt hajtogatja,hogy ártatlan
+N bedĺre
+M elbájolni | elbűvölni |   bedĺret= elbájolt;elbájolta | elbűvölt;elbűvölte | bedĺrende= bájos
+N bedřmme
+M megítélni | bedřmte | har bedřmt megítélte |  bedřmme mennesker etter deres utseende |  skredforskerne kan bedřmme skredfaren
+N bedřve
+M érzékteleníteni | elkábítani | bedřves elkábulni | bedřvet | har bedřvet= elkábította |  érzéktelenített;érzéktelenítette |  bedřvelse, en= érzéktelenítés
+N befal
+M [et] tisztikar | vezérkar >parancsnok
+N befale
+M parancsolni |  befalte | har befalt=parancsolt,parancsolta neki
+N befalsskole
+M [en] tisztiiskola | tisztképzű
+N befare
+M megvizsgálni >a helyet,tetthelyet |  de har befart eiendommen= megnézték a gazdaságot >háztájnézőben | voltak befaring,en= megtekintése | vizsgálata
+N befatte
+M seg med >van valami köze hozzá |
+N befattet
+M seg med=be volt ártva | befatning,en
+N befinne
+M seg= ott lenni | jelen lenni>ott találja magát | ott tartózkodik |  befant seg= ott volt |  jelen volt | har befunnet seg= ott találta magát | politiet vet ikke hvor de mistenkte befinner seg |  landet befinner seg pĺ stein- alderstadiet
+N beflippelse
+M [en] zavar | i beflippelsen= ijedtében
+N beflitte
+M seg= igyekezni vele |  beflitter seg= igyekszik |  beflittet seg | har beflittet seg= igyekeztek |  beflitter seg pĺ det gode= igyekszik jót cselekedni/tenni
+N befolke
+M benépesíteni | befolket | har befolket benépesítették |  bare 108 mennesker befolker řyene |  befolkning,en= lakosság |  népesség
+N befri
+M felszabadítani | megszabadítani |  befridde | har befridd= felszabadította |  befri et gissel >kiszabadítani |  de kom som befriere >mint felszabadítók |  befriende= kitörő |  de bristet ut i en befriende latter >kitört belőlük a kacaj
+N befrukte
+M megtermékenyíteni |  befruktet= megtermékenyítette | megtermékenyült
+N befruktning
+M [en] megtermékenyítés | megtermékenyülés
+N begavelse
+M [en] adottság | tehetség |  han er hřyt begavet= különös adottságú |  nagy tehetségű |  begavet= tehetséges
+N begeistret
+M rajongó | lelkes | han er begeistret for NN >rajong érte | hódol neki |  de klappet begeistret i hendene=elragadtatva tapsoltak | begeistring,en= rajongás | lelkesedés |  elragadtatás
+N beger
+M [et] pohár | kehely | begeret flyter over=színig van a pohara |  begeret var fullt betelt a pohár
+N begge
+M mindkettő;mindkettőt |  begge to= mindketten
+N begivenhet
+M [en] esemény;eseményt
+N begjćr
+M [et] vágy | vágyakozás | sóvárság
+N begjćre
+M kívánni | óhajtani | vágyni rá |  begjćrte | har begjćrt= kívánta | óhajtotta
+N begonia
+M [en] begónia
+N begrave
+M eltemetni | temetni |  begraver= temet;temeti |  begravde/begravet= temetett; temette |  eltemette |  begravelse,en= temetés
+N begredelig
+M siralmas
+N begrense
+M korlátot szabni |  begrenser= korlátot szab neki |  begrenset | har begrenset korlátot szabott neki
+N begrep
+M [et] fogalom;fogalmat
+N begripe
+M felfogni | megérteni |  begrep | har begrept= felfogta
+N begrunne
+M megokolni | indokolni | begrunnet |  har begrunnet= indokolta | megokolta
+N begunstige
+M kedvezni neki | elősegíteni |  pártolni | támogatni |  begunstiget= kedvezett neki |  har begunstiget= elősegítette
+N begynne
+M kezdődni | elkezdeni | kezdeni |  begynte= kezdett |  elkezdett;elkezdte |  har begynt= elkezdődött |  begynne pĺ ny/nytt= újra/újból kezdeni |  til ĺ begynne med= kezdetben
+N begynnelse
+M [en] kezdet | kezdete;kezdetét |  begynnelsen av= eleje | kezdete | begynnelsentil= eleje |  i begynnelsen= kezdetben
+N behag
+M [et] kényelem |  etter behag= kénye-kedve szerint |  behagelig= kényelmes |  kellemes >hyggelig | koselig
+N behandle
+M kezelni | bánni vele |  behandler= kezel;kezeli | behandlet | har behandlet=bánt vele | kezelt;kezelte
+N beherske
+M uralkodni rajta |  behersker= uralkodik |  behersket | har behersket= uralkodott
+N behold
+M ép |  i god behold= épkézláb |  han kom fra det med livet i behold= épségben/ sértetlenül | megúszta
+N beholde
+M megtartani magának | megőrizni |  beholder= megőriz;megőűrzi |  beholdt | har beholdt= megtartotta magának |  smykkene kan hun gladelig beholde
+N beholdning
+M [en] készlet
+N behov
+M [et] szükség
+N behĺ
+M [en] melltartó;melltartót
+N behřve
+M kell neki(tenni) | behřvde= kellett neki (tenni)
+N beile
+M udvarolni neki | csapja neki a szelet |  a lány ablakára jár | FOLKEVISE jár az udvarába |  beilet | har beilet=  udvarolt neki |  beile til= megkérni a kezét | beiler,en= udvarló |  kérő |  en prins var blant hennes beilere
+N bein
+M beint= egyenest |  beint fram!= előre!
+N bein
+M [et] láb;lábat | lába;lábát |  lábszár |  han var nesten ikke i stand til ĺ stĺ pĺ beina=alig-alig | állt a lábán |  de tok til beins= megszaladtak |  ta beina pĺ nakken= futásnakeredni |  hjulbeint= görbelábú |  kalvbeint= csámpáslábú |  beinet knakk= eltörött a lába |  han har brukket beinet= eltörte a lábát |  ble hengt etter bena i en galge= lábánál fogva húzták fel | az akasztófára HIST
+N bein
+M beint= egyenest |  beint fram!= előre!
+N bein
+M [et] láb;lábat | lába;lábát |  lábszár |  han var nesten ikke i stand til ĺ stĺ pĺ beina=alig-alig | állt a lábán |  de tok til beins= megszaladtak |  ta beina pĺ nakken= futásnakeredni |  hjulbeint= görbelábú |  kalvbeint= csámpáslábú |  beinet knakk= eltörött a lába |  han har brukket beinet= eltörte a lábát |  ble hengt etter bena i en galge= lábánál fogva húzták fel | az akasztófára HIST
+N beine
+M loholni | rohanni | szaladni |  beinet | har beinet= loholt | rohant | szaladt
+N beinhard
+M beinhardt= csontkemény |  de har jobbet beinhardt i to ĺr
+N beinurt
+M [en] ekenyűg | iglice
+N beis
+M [en] festék >faházak mázolására
+N beise
+M mázolni >házat |  beiste/beiset | har beist= mázolt;mázolta
+N beist
+M [et] vadállat |  det digre beistet kom farende og angrep ham
+N beit
+M i beit |  gĺ i beit >hiányában szenved
+N beite
+M legelni | legeltetni |  beitet | har beitet= legelt | legeltetett;legeltette |  kyrne gikk og beitet= legeltek a tehenek |  pĺ vollen beitet det kyr og sauer |  hardingene beitet sitt fe pĺ Hardangervidda
+N beite
+M [et] legelő |  slippe kyrne pĺ beite= kiterelni a teheneket a legelőre |  legeltetni a teheneket |  buskapen slippes ut pĺ beite > kihajtják a csordát a legelőre |  det saftige gresset gir godt beite >alkalmas a legeltetésre |  er et fristende beite for >igéretes lehetőséget kinál | csalogatja az alkalom/ gondolat |  skifter beite= más legelőre tér |  állást cserél |  beitemark,en= legelő | rét
+N beite
+M legelni | legeltetni |  beitet | har beitet= legelt | legeltetett;legeltette |  kyrne gikk og beitet= legeltek a tehenek |  pĺ vollen beitet det kyr og sauer |  hardingene beitet sitt fe pĺ Hardangervidda
+N beite
+M [et] legelő |  slippe kyrne pĺ beite= kiterelni a teheneket a legelőre |  legeltetni a teheneket |  buskapen slippes ut pĺ beite > kihajtják a csordát a legelőre |  det saftige gresset gir godt beite >alkalmas a legeltetésre |  er et fristende beite for >igéretes lehetőséget kinál | csalogatja az alkalom/ gondolat |  skifter beite= más legelőre tér |  állást cserél |  beitemark,en= legelő | rét
+N beitesjampinjong
+M [en] mezei csiperke
+N beiting
+M [en] legeltetés
+N bek
+M [et] szurok | kátrány |  beket,bekete= szurkos | kátrányos
+N bekjenne
+M bevallani | vallomást tenni |  han bekjenner seg til kristendommen |  bekjente |  har bekjent=bevallotta | bekjenner sine synder= bevallja a vétkeit | meggyónik bekjennelse,en= vallomás
+N bekjent
+M ismert | meg bekjent= tudomásom szerint |  bekjent,en=ismerős | ismerőse | venn- er og bekjente stakk innom for ĺ gratulere |  overnatte hos bekjente |  utgiveren burde ikke vćre bekjent av et slikt makkverk | > elismerni a magáénak
+N bekjentgjřrelse
+M [en] hírdetés
+N bekjentskap
+M [et] ismeretség |  stifte bekjent-skap med= ismeretséget kötni vele
+N bekk
+M [en] patak;patakot |  bekker= patakok Gĺ over bekken etter vannKÖZM=átmegy a | patakon vízért | Mange bekker smĺ gjřr en stor ĺ KÖZM=Sok kicsi sokra megyORDT
+N bekkasin
+M [en] sárszalonka
+N bekkeblom
+M [en] mocsári gólyahír
+N bekkefar
+M [et] patak medre
+N bekkekarse
+M [en] keserü kakukktorma
+N bekken
+M [et] medence(csont)
+N bekkeniřye
+M [et] pataki orsóhal
+N bekkeveronika
+M [en] ártéri veronika
+N bekkeřrret
+M [en] sebespisztráng
+N beklage
+M sajnálatát fejezni ki |  beklaget | har beklaget= sajnálta,hogy | beklage seg over= panaszkodik rá,róla |  han beklaget seg til kona= elpanaszolta a feleségének
+N beklagelig
+M sajnálatos |  beklagelse,en= sajnálat |  til min beklagelse= a legnagyobbsajnálatomra
+N bekledning
+M [en] ruházat | ruházata
+N beklemt
+M szorongós | izgatott
+N bekmřrk
+M bekmřrkt= koromsötét
+N bekranse
+M megkoszorúzni |  bekranset= megkoszorúzta |  graven blir bekranset > koszorút helyeznek a sírjára
+N bekrefte
+M bizonyítani | bizonygatni |  han bekrefter pĺstanden om= bizonyítja,hogy helyes az állítása |  bekreftet | har bekreftet= bizonyította
+N beksřmstřvel
+M [en] bakancs;bakancsot
+N bekvem
+M bekvemt,bekvemme= kényelmes ADV kényelmesen
+N bekymre
+M aggasztani |  bekymrer ham= aggasztja | gondot okoz neki |  bekymret | har bekymret= aggasztotta | gondot okozott neki |  ikke vćr bekymret for meg= ne aggódj értem |  bekymret ADJ= aggódó |  gondterhelt |  bekymring,en= gond;gondot
+N belage
+M seg= számolni kell neki vele |  jeg belaget meg pĺ en slitsom tur hjem
+N belastning
+M [en] terhelés;terhelést | megterhelés
+N belegg
+M [et] bevonat
+N beleilig
+M jókor jön neki
+N beleire
+M ostromolni |  beleiret | har beleiret=ostromolták |  styrkene beleiret byen
+N beleiring
+M [en] ostrom | ostroma
+N belg
+M [en] fújtató | hüvely >bab
+N Belgia
+M Belgium
+N belgier
+M [en] belga személy
+N belgisk
+M belga
+N belgmřrk
+M belgmřrkt= koromsötét
+N belje
+M bömbölni |  beljer= bömböl >a gyerek beljet | har beljet= bömbölt
+N belme
+M i seg= piálni | vedelni |  belmet i seg= vedelt;vedelte
+N belte
+M [et] derékszíj;derékszíjat | öv;övet
+N belřnne
+M jutalmazni | belřnte | har belřnt= jutalmazott;jutalmazta
+N belřp
+M [et] (pénz)összeg;összeget
+N bemanning
+M [en] legénység
+N bemerke
+M megjegyezni | bemerket | har bemerket= megjegyezte | bemerkning,en= észrevétel | megjegyzés |  komme med en bemerkning= megjegyzést tenni |  han kom med slibrige bemerkninger til kvinnene
+N bemyndige
+M felhatalmazni
+N bemřye
+M igyekezni | törekedni rá |  bemřyer seg med= igyekszik |  bemřyde seg | har bemřyd seg= törekedett
+N ben
+M [et] csont;csontot | láb |  lábszár |  gĺ pĺ sine ben= saját lábán jár |  gĺ pĺ bare ben= mezítláb járni |  pĺ et ben= féllábon | tar bena fatt= gyalog indul az útra >meglép | han var pĺ bena i et byks= nyomban felpattant |  er sliten i bena= elfáradtak a lábai |  ha sko pĺ bena=cipőt viselni |  kom seg pĺ bena=talpra állt | felállt |  brakk benet= eltörte a lábát
+N benbrudd
+M [et] csonttörés | lábtörés
+N bendel
+M [en] budavirág
+N benekte
+M tagadni |  benektet | har benektet= tagadott;tagadta |  han benekter farskapet
+N bengel
+M [en] fickó | kölyök |  bengler= komisz gyerekek | ebadta kölyke
+N benk
+M [en] pad;padot | kispad
+N benke
+M seg= padra ülni | padonülni |  benket seg/har benket seg= padon ültek | leültek |  barna benket seg foran TV'en med godte- rier |  de satt benket rundt et bord
+N benkerad
+M [en] padsor;padsort
+N benklćr
+M benklćrne= nadrág;nadrágot
+N bensin
+M [en] benzin;benzint | bensinstasjon, en= benzinkút | bensintank,en= üzemanyag-tartály
+N benurt
+M [en] mezei iglice | ekenyűg
+N benvei
+M [en] átvágó út |  gĺ/ta en benvei |  det fins ingen benveier til kunnskap
+N benytte
+M használni valamit |  benyttet | har benyttet= használt;használta |  han benytter fortsatt sin utedo |  benyttet anledningen til rusleturer i traktene |   benyttet helgen til ĺ rusle i skogen |  benytte seg av tilbudet= él az alkalommal
+N benĺde
+M megkegyelmezni neki |  benĺdet | har benĺdet= megkegyelmezett |  benĺde deser- třrer/militćrnektere |  han ble benĺdet PASS
+N beordre
+M megparancsolni neki | beordret | har beordret= megparancsolta
+N berberis
+M [en] sóskaborbolya
+N beredskap
+M [en] (beredskap,et)= készenlét
+N beredt
+M kész rá
+N beretning
+M [en] beszámoló;beszámolót |  berette= beszámolni róla | elmesélni |  berettet | har berettet= beszámolt róla |  Han berettet om de harde forholdene han levde under
+N berg
+M [et] hegy;hegyet | domb | szikla |  berget ĺpnet seg for henne=kitárult előtte a föld |  pĺ berget stĺr en stue= egy turistaszálló áll a hegytetőn
+N bergand
+M [en] hegyi réce
+N bergart
+M [en] kőzet;kőzetet
+N berge
+M megmenteni |  berget | har berget= megmentette |  berge livet til= megmenteni az életét |  berge ham (inn) til land= partra menteni |  han ble berget fra fjellet= a mentőszolgálat mentette meg | az életét a hegyekben |  om det gjaldt ĺ berge sjela di >ha a lelked üdvössége forog | is kockán
+N Bergen
+M (nyugat-norvég város)
+N bergenser
+M [en] bergeni lakos
+N bergflette
+M [en] borostyán
+N bergflette
+M veronika,en= repkényveronika
+N bergflette
+M [en] borostyán
+N bergflette
+M veronika,en= repkényveronika
+N berggull
+M repcsény
+N bergirisk
+M téli kenderike
+N bergknapp
+M [en] borsos szaka | varjúhájfű |  bitter bergknapp= borsos varjúháj |  hvit bergknapp= fehér varjúháj
+N bergkrystall
+M [et] hegyikristály
+N berglendt
+M [ADJ] hegyes-dombos
+N bergmjřlke
+M [en] erdei füzike
+N berg-og-dal-bane
+M [en] hullámvasút
+N bergrřrkvein
+M siska nádtippan
+N bergsti
+M [en] hegyi ösvény
+N bergtatt
+M elvarázsolt | elnyelte a föld
+N bergverk
+M [et] bánya;bányát
+N berike
+M gazdagítani |  beriket | har beriket= gazdagította
+N berikelse
+M [en] gazdagodás
+N berme
+M [en] üledék | seprő | seprü |  csöcselék
+N bero
+M [pĺ] nyugszik valamin |  azon alapszik >az elgondolás,terv
+N berolige
+M megnyugtatni |  beroliget | har beroliget= megnyugtatta
+N berserk
+M [en] dúló,pusztító,eszeveszett férfi han gikk berserk i leiligheten= | pusztító erövel  dúlt a lakásban |  berserkgang,en= dúlás fotballpřblene har en berserkgang | pĺ sam- vittigheten
+N beruse
+M mámorosítani | mámorossá tenni |  megrészegíteni |  beruset | har beruset= megrészegült tőle | ittas lett | részeg lett tőle
+N beruset
+M berusede ADJ= ittas | részeg |  ADV részegen | ittasan | mámorosan | kábultan |  mannen var godt beruset= jól becsípett
+N beryktet
+M hírhedt
+N berřmme
+M dicsérni |  berřmmes= dicsérik |  rapporten berřmmer ham for livbergende innsats
+N berřmt
+M berřmte= híres | híresek |  híres róla
+N berřre
+M érinteni | hozzányulni | megérinteni |  berřrte= megérintette | hozzányúlt |  berřrerhverandre= érintkeznek egymással
+N besatt
+M megszállottja |  ble besatt av tanken pĺ ĺ skaffe seg en luksusbil |  i den nćrmeste tid er samtlige helger besatt>foglalva | hund- en ga seg til ĺ bjeffe som besatt >mintha az ördög | szállta volna meg
+N besegle
+M lepecsételni | beseglet | har beseglet lepecsételte | hans skjebne er beseglet=eldőlt a sorsa
+N beseire
+M legyőzni |  beseiret | har beseiret= legyőzte |  de beseirede=a legyőzöttek
+N besetning
+M [en] állomány | legénység
+N besette
+M elfoglalni | kirakni (disszel) | besatte |  har besatt |  drakten var besatt med edelsten- er |  fienden besatte landet | plassene/stillingenvar besatt
+N besinne
+M seg >megjön az esze |  besinnet seg= észhez tért
+N besittelse
+M [en] tulajdona
+N besk
+M beske | beisk= fanyar | keserü
+N beskatning
+M [en] adóztatás
+N beskjed
+M [en] üzenet;üzenetet |  er det noen beskjed?= Mit üzensz neki? |  mit üzen neki?
+N beskjeden
+M beskjedent,beskjedne= szerény ADJ |  szerényen ADV
+N beskjeftigelse
+M [en] foglalkozás
+N beskrive
+M leírni | vázolni |  beskrev | har beskrevet= leírta | vázolta
+N beskylde
+M vádolni |  beskyldte | har beskyldt= vádolt;vádolta |  ble beskyldt for tyveri= lopással vádolták |  beskyldning,en= vád
+N beskyte
+M rálőni |  ble beskutt= rálőttek
+N beskytte
+M védeni | védelmezni |  beskyttet | har beskyttet= védte | védelmezte | beskytt huden mot vind og kulde
+N beslag
+M [et] legoglalás | elkobzás
+N beslaglegge
+M elkobozni |  beslagla | har beslaglagt= elkobozta tőle
+N beslutning
+M [en] határozat
+N beslutte
+M határozatot hozni |  besluttet | har besluttet= határozatot hozott
+N besluttsom
+M besluttsomt= elhatározott
+N besnćrende
+M csalogató | bolondító
+N best
+M a legjobb ADJ a legjobban ADV
+N best
+M [et] vadállat | bestia
+N best
+M a legjobb ADJ a legjobban ADV
+N best
+M [et] vadállat | bestia
+N bestanddel
+M [en] alkatésze
+N bestandig
+M állandóan
+N bestefar
+M [en] nagyapa | nagyapja;nagyapját |  VOC papa |  besteforeldre= nagyszülők |  anagyszülei |  besteforeldrene= a nagyszülők; a nagyszülőket |  bestemor,en= nagyanya |  nagymama | VOC mama
+N bestemme
+M eldönteni | elhatározni | elrendelni bestemte | har bestemt=eldöntötte | elrendelte elhatározta |  bestemme seg= elhatározni | Nĺ har jeg bestemt meg ĺ selge bilen min
+N bestialsk
+M bestiális
+N bestige
+M felmászni rá |  bestiger= felmászik rá |  besteg | har besteget= felmászott |  mĺtte
+N bestige
+M bĺlet >máglyahalálra itélték |  rřya bestiges av tiuren= a tojót meghágja ahófajdkakas
+N bestige
+M felmászni rá |  bestiger= felmászik rá |  besteg | har besteget= felmászott |  mĺtte
+N bestige
+M bĺlet >máglyahalálra itélték |  rřya bestiges av tiuren= a tojót meghágja ahófajdkakas
+N bestikk
+M [et] evőeszközök |  evőkészlet;evőkészletet
+N bestikke
+M lekenyerezni | meg vesztegetni |  bestakk | har bestukket= lekenyerezte |  megvesztegette | bestikkelse,en= vesztegetés megvesztegetése
+N bestille
+M megrendelni;rendelni |  bestilte | har bestilt= rendelt;rendelte | megrendelte
+N bestrebe
+M törekedni | bestrebet | har bestrebet arra törekedett
+N bestselger
+M [en] jól kelő könyv >árú
+N bestĺ
+M belőle áll | fenntáll | sikerült a vizsgája  besto= (abból) állt | sikerült neki | har bestĺtt  han besto ikke eksamen= megbukott | post- kontoret bestĺr >megmarad
+N bestřve
+M beporozni | megporozni | blomstrene blir bestřvet av insekter PASS |  bestřvning, en= megporzás | beporzás
+N besvare
+M felelni rá | válaszolni rá |  besvarte |  har besvart=megoldott | válaszolt rá | besvare en oppgave= megoldani egy példát/feladatot |  besvarte blikket hans= visszanézett rá |  hun besvarte smilet hans=visszamosolygottrá
+N besvime
+M elájulni |  besvimte | har besvimt= elájult |  besvimelse,en= ájulás
+N besvimelsesanfall
+M [et] ájulkodás
+N besvćr
+M [et] fáradozás |  det er til besvćr= terhére van neki |  besvćrlig= alkalmatlan
+N besřk
+M [et] látogatás;látogatást |  kommer pĺ besřk til ham= látogatóba jön hozzá
+N besřke
+M meglátogatni | besřker henne=meglátogat;meglátogatja |  elmegy hozzá látogatóba |  har besřkt henne= (már,éppen most) látogatta meg |  meglátogatta
+N besřrge
+M elintézni;intézni |  beszerezni |  besřrget | har besřrget= intézett;intézte |  beszerzett;beszerezte
+N bet
+M [en] gĺ i bet >hiánycikk lett | kifogyott belőle
+N beta
+M elragadtatni | önkivületbe ejteni |  betok | har betatt= elragadtatta
+N betagende
+M elbájoló | lenyűgöző
+N betale
+M fizetni | kifizetni |  betalte | har betalt= fizetett;fizette |  Jeg vil betale!= én fizetek!
+N betaling
+M [en] jóvátétel | árfizetés
+N bete
+M [en] (beta)= répa;répát |  falat | harapásnyi
+N betenkelig
+M elgondolkoztató
+N betenkningstid
+M [en] gondolkodási idö
+N betennelse
+M [en] gyulladás
+N betent
+M begyulladt | gyulladt
+N betingelse
+M [en] feltétel;feltételt |  pĺ den betingelse at= csak azt az egyet kötöm ki,hogy
+N betingelsessetning
+M [en] feltételes mondat
+N betjent
+M [en] hivatalnok | rendőr
+N betler
+M [en] koldus
+N betone
+M hangsúlyozni | betonte | har betont=hangsúlyozta |  betoning,en= hangsúly
+N betong
+M [en] beton;betont
+N betonie
+M bakfű | tisztesfű
+N betrakte
+M nézegetni | szemlélni |  betraktet |  har betraktet= nézegette | szemlélte
+N betraktning
+M [en] szemlélet | tatt i betraktning at= figyelembe véve | alderen tatt i betraktning er han sprek= az öregúr korához | képest fürge
+N bety
+M jelent valamit |  betydde | har betydd=jelentett;jelentette |  betydning,en= (a szó) jelentése | értelme | fontossága
+N beundre
+M csodálni;gyönyörködni benne beundret | har beundret= csodálta |  beundre utsikten=gyönyörködni a kilátásban
+N beundrer
+M [en] hódoló | udvarló
+N beundring
+M [en] csodálata |  det vanket nok litt beundring= meg is csodálták ám
+N bevare
+M fenntartani | bevarte | har bevart=fenntartotta |  bevare det i sitt minne >emlékezetébe vési
+N beve
+M rengeni |  bevet/bevde | har bevet/ bevd rengett
+N bevege
+M elmozdítani | mozogni | mozgatni |  beveget/bevegde | har beveget/bevegd= elmozdította | mozgatta |  bevege seg=elmozdulni |  bevege seg framover= előre haladni |  bevege seg baklengs= hátrálni |  beveger seg pĺ hřyst usikker is som kan briste
+N bevegelse
+M [en] mozdulat;mozdulatot |  mozgás;mozgást | mozgalom;mozgalmat
+N beveget
+M elérzékenyült | meghatódott |  hun ble sĺ beveget at tĺrene silte
+N bevendt
+M eléggé |  er godt bevendt=van belőle elegendő |  er smĺtt bevendt= szűk |  szűkős | silány | gyatra
+N bever
+M [en] hód;hódot | bevre= hódok |  bever- en gnager seg vinterlager av kvist og stammer
+N bevilge
+M engedélyt adni rá | engedélyezni |  pénzt utalni ki a számára |  bevilget | har bevilget= engedélyt adtak neki | engedélyezte |  de bevilget střtte til organisasjonen |  jeg har bevilget meg fri en stund >kivettem a szabadságomat |  bevilgning,en | bevilling,en >engedély |  fratok stedet bevilling
+N bevingede
+M ord= szárnyaló szavak
+N bevis
+M [et] bizonyíték | igazolvány |  beviset pĺ= bizonyítéka | det er ikke fare for at bevis forspilles |  saken er henlagt etter bevisets stilling
+N bevise
+M bebizonyítani | igazolni |  beviste | har bevist= bebizonyította |  Alle er idioter inntil det motsatte er bevist
+N bevisst
+M készakarva | szándékosan |  faktura-ene var bevisst lureri |  burde vćrt seg sitt ansvar bevisst >felelősségének a tudatában | lenni |  hun unngikk ham bevisst= szántszándékkal kerülte
+N bevisstgjřre
+M tudatosítani | tudatossá tenni
+N bevissthet
+M [en] tudat | tudata | tudatosság |  eszmélet |  har gjenvunnet bevisstheten/har kommet til bevissthet= | eszméletre tért
+N bevisstlřs
+M [ADJ] eszméletlen |  ADVeszméletlenül
+N bevre
+M rengeni | rezegni |  bevret | har bevret=rengett | rezegett >a föld | földrengés volt
+N bevregress
+M [et] rezgőpázsít
+N bevćpne
+M felfegyverezni |  fegyvert adni a kezébe |  bevćpnet ADJ=fegyveres | bevćpne seg= fegyvert ragadni | felfegyverkezni
+N bh
+M [en] melltartó
+N bi...
+M mellék...
+N Bibel
+M [en] biblia | Szentírás
+N bibliotek
+M [et] könyvtár;könyvtárat |  bibliotekar,en= könyvtáros
+N bidig
+M hver bidige dag= minden áldott nap
+N bidra
+M til= hozzájárulni |  bidro | har bidratt= hozzájárult |  řnsket ikke ĺ bidra med annet enn rĺd= csak tanáccsal akarta | segíteni
+N bidrag
+M [et] hozzájárulás |  betale bidrag for et barn= gyerektartást fizetni |  bidraget fra hennes fraskilte mann ble borte
+N bidronning
+M [en] anyaméh
+N bie
+M várakozni |  biet/bidde |  har bidd= várakozott RITKáN HASZNáLT IGE
+N bie
+M [en] méh;méhet;méhét |  bier= méhek |  biene svermer >rajzanak | rajzik a méhraj biene er pĺ jakt etter honning
+N bie
+M várakozni |  biet/bidde |  har bidd= várakozott RITKáN HASZNáLT IGE
+N bie
+M [en] méh;méhet;méhét |  bier= méhek |  biene svermer >rajzanak | rajzik a méhraj biene er pĺ jakt etter honning
+N bieter
+M [en] gyurgyalag | gyurgyóka
+N bifall
+M [et] tetszés | tetszésnyilvánítás
+N biff
+M [en] marhahús | marhapecsenye
+N bigami
+M [et] bigámia | kettős házasság
+N bigott
+M álszent | szenteskedő | vakbuzgó
+N bikini
+M [en] bikini;bikinit
+N bikke
+M felfordulni |  bikket | har bikket= felfordult |  Tre stykker i bĺten reiste seg samtidig slik at den bikket | over
+N bikkje
+M [en] (bikkja)= eb;ebet | kutya |  tar med bikkja pĺ skogstur= viszi a kutyát sétálni az erdőbe |  bikkjekald vinter= farkasordító tél |  kutya hideg van
+N bikube
+M [en] kaptár;kaptárt | méhkas;méhkast driver med bikuber= méhészkedik
+N bil
+M [en] autó;autót | gépkocsi;gépkocsit | kocsi; kocsit |  kjřrer med bil= kocsival jár/megy
+N bilag
+M [et] melléklet
+N bilateral
+M kétoldalú
+N bilbatteri
+M [et] akku;akkut
+N bilde
+M [et] kép;képet |  bilder= képek;képeket |  bildene= a képek;a képeket |  ta bilder av=lefényképezni |  bilder i farger= színes képek
+N bildekk
+M [et] gumi | gumiköpeny | külső >nyári gumi= sommerdekk |  téli gumi= vinterdekk
+N bildende
+M kunst= képzőművészet
+N bildeskjerm
+M [en] képernyő
+N bile
+M kocsival menni |  bilte | har bilt=kocsival ment
+N bile
+M [en] balta | szekerce | fejsze
+N bile
+M kocsival menni |  bilte | har bilt=kocsival ment
+N bile
+M [en] balta | szekerce | fejsze
+N bilimportřrer
+M autóimportőrök
+N biljard
+M [en] billiárd
+N bilkjřrer
+M [en] autós;vezető
+N bildende
+M kunst= képzőművészet |    | </b |  |
+N bilkjřrer
+M [en] autós;vezető
+N bildende
+M kunst= képzőművészet |    | </b |  |
+N bille
+M [en] bogár;bogarat
+N billedbok
+M [en] képeskönyv
+N billedhogger
+M [en] billedhugger,en= szobrász
+N billedkunst
+M [en] képzőművészet
+N billedlig
+M átvitt értelemben | billedlig uttrykk billedlig talt
+N billett
+M [en] jegy;jegyet |  billetter= jegyek; jegyeket
+N billig
+M billige= ADJ olcsó |  ADV olcsón= for en billig penge= potom áron | potomért
+N billion
+M [en] billió
+N billřp
+M [et] autóverseny
+N bilmekaniker
+M [en] motorszerelő
+N bilnummer
+M [et] rendszám | a kocsi rendszáma
+N bilrekvisita
+M alkatrészek
+N bilskilt
+M [et] rendszámtábla
+N bilteknisk
+M autótechnikai
+N bilvrak
+M [et] autóroncs
+N bind
+M [et] kötés;kötést |  kötet;kötetet
+N binde
+M kötni | megkötni |  binder= köt;köti |  band= kötött;kötötte |  har bundet= megkötötte |  binde fast=megkötözni | bind fast! kösd meg! | kötözd meg! |  blomster bindes til en krans= koszorút kötnek a virágokból/ | belőle |  binde sammen= összekötni
+N binders
+M [en] gemkapocs
+N bindestrek
+M [en] kötőjel;kötőjelet
+N binding
+M [en] sícsat
+N binge
+M [en] láda | ól
+N binne
+M [en] (binna)= nösténymedve
+N biografi
+M [en] életrajz
+N biolog
+M [en] biológus |  biologi,en= biológia |  biologisk ADJ= biológiai
+N birřkter
+M [en] méhész
+N bisamrotte
+M [en] pézsmapocok
+N bisarr
+M bisart,bisarre= furcsa
+N bisetning
+M [en] mellékmondat
+N bisette
+M eltemetni |  bisatte | har bisatt= eltemették
+N bisk
+M biskt= harapós | indulatos | ingerült személy |  hunden er bisk= harapós a kutya |  bisk,en= kutyus |  Snill  bisk!= Jó kutyus vagy!
+N biskop
+M [en] (bisp,en)= püspök;püspököt
+N bispedřmme
+M [et] egyházmegye | püspöki székesegyház | bispelue,en= papsapkagomba
+N bissel
+M [et] (bislet)= zabla | zabola
+N bistand
+M [en] anyagi segély | támogatás
+N bister
+M bistert,bistre=mogorva |  han ser bister ut |  en bister kulde= kutyahideg
+N bisverm
+M [en] méhraj
+N bit
+M [en] falat;falatot |  en bit av= harapásnyi
+N bite
+M harapni |  bet/beit= harapott;harapta |  har bitt= megharapta |  bite i det sure eplet savanyú almába harapni | Liten hund kan óg bite KÖZM= Kicsi a bors,de erős ORDT |  bet leppene til blods= ajkát véresre harapdálta |  bet seg i leppa= ajkába harapott |  bite av seg tunga > leharapja a nyelvét |  jeg biter ikke= nem vagyok harapós |  blir bitt av en maur=megcsípi a hangya |  ble bitt av hogg-orm= megcsípte a kigyó |  hadde bitt seg merke i en mann= feltünt neki egy férfi
+N bites
+M harcolni | küzdeni | vetélkedni |  beits/ bets | har bites= halcolt | küzdött |  bites med ham om= vetélkedik vele érte | harcol érte |  han er ikke god ĺ bites med |  Nĺr krybba er tom,sĺ bites hestene KÖZM= Ha üres a jászol | harapdálják/marják egymást a lovak
+N bitt
+M [et] kutya=harapás >kigyó=csípés helye
+N bitte
+M liten= apró | csöpp | pici |  ici-pici
+N bittekonvall
+M [en] árnyékvirág
+N bitter
+M bittert,bitre ADJ= keserű |  ADV keserűen | keservesen
+N bitterblom
+M [en] ékes keserűgyökér
+N bivuakk
+M [en] álcázott hely | sátortanya
+N bivĺne
+M bivĺnte= jelen volt |  résztvett rajta
+N bjeff
+M [et] vakkantás
+N bjeffe
+M ugatni |  bjeffet | har bjeffet= ugatott |  hunden bjeffer= a kutya ugat
+N bjeffing
+M [en] ugatás;ugatást |  rřdrevens bjeffing og uling >csaholás
+N bjelke
+M [en] gerenda;gerendát
+N bjelle
+M [en] (bjella) | bjřlle,en= csengő;csengőt |  kolomp
+N bjellefugl
+M [en] csalogány | fülemüle
+N bjelleklang
+M [en] csengőszó
+N bjelleku
+M [en] (bjellekua)= kolompos tehén
+N bjerk
+M [en] (bjerka)= nyír | nyírfa >bjřrk
+N bjerketre
+M [et] nyírfa;nyírfát
+N bjřlle
+M [en] (bjřlla)= csengő | kolomp >bjelle
+N bjřrk
+M [en] (bjřrka)= nyír | nyírfa >bjerk
+N bjřrkefink
+M [en] fenyőpinty | téli pinty
+N bjřrkekvist
+M [en] nyírfaág
+N bjřrkelund
+M [en] nyíres
+N bjřrkemĺler
+M [en] (stor)= pettyesaraszoló (szürke)
+N bjřrkeskog
+M [en] nyírerdő | nyírfaerdő
+N bjřrn
+M [en] medve;medvét | Store Bjřrn=Nagy Medve |  senhřstes gĺr bjřrnen i hi= késő összel a barlangjába huzódik | a medve Nĺr bjřrnen kommer,sĺ glemmer stutene ĺ stanges | KÖZM= Ha közeleg a medve,nemöklelőznek a bikák sem
+N bjřrnbrodd
+M hegyi pázsitliliom bjřrnebćr,et= földiszeder
+N bjřrnekjeks
+M medvetalp
+N bjřrnespinner
+M [en] medvelepke
+N bjřrnetjeneste
+M [en] "medvehála"(olyan érzés, mint mikor egy medve megsimogat | valakit)har gjort ham en bjřrnetjeneste >semmi köszönet | sincs benne |  han gjřr seg selv en
+N bjřrnetjeneste
+M adtál Uram esőt,nincs köszönet benne
+N bjřrnetjeneste
+M [en] "medvehála"(olyan érzés, mint mikor egy medve megsimogat | valakit)har gjort ham en bjřrnetjeneste >semmi köszönet | sincs benne |  han gjřr seg selv en
+N bjřrnetjeneste
+M adtál Uram esőt,nincs köszönet benne
+N bjřrnunge
+M [en] medvebocs | mackó
+N bl.a.
+M (blant annet)= többek közt
+N bla
+M lapozni |  blar=lapoz;lapozza | bladde | har bladd= lapozott;lapozta
+N bl.a.
+M (blant annet)= többek közt
+N bla
+M lapozni |  blar=lapoz;lapozza | bladde | har bladd= lapozott;lapozta
+N blackmolly
+M yukatáni fogasponty
+N blad
+M [et] falevél;falevelet |  hetilap;hetilapot
+N bladbete
+M [en] répa;répát
+N bladbille
+M [en] nyárlevelész
+N bladfaks
+M árva rozsnok
+N bladveps
+M [en] levéldarázs
+N blaff
+M [et] lobbanás |  vindblaff= szellőgi blaffen i ham= fütyöl rá
+N blaffe
+M (blafre)= lobogni >tüz,zászló,vitorla |  blafrer= lobog a szélben |  hĺret blafret i vinden= lobogott a haja |  flagget  blafret ivinden= lobogott a zászló
+N blakk
+M blakt,blakke= sárgás | sárgásbarna |  en blakk hest= sárga a csikó |  Blakken= Fakó | (fakó ló) >pénztelen | sóher |  jeg er blakk= nincsem pénzem |  nincs egy vasam se | nincs guba
+N blamere
+M blamálni | megszégyeníteni | szégyent hozni rá blamerte | har blamert= blamált;blamálta
+N blande
+M keverni | blandet | har blandet=kevert; keverte |  blande seg i= beleavatkozni |  blander seg med= belekeveredik | keveredik vele |  blanding,en= keverék
+N blank
+M blankt ADJ= fényes | kicsíszolt |  en blank isse= kopasz koponya | kopasz fejű
+N blankett
+M [en] kérdöív
+N blant
+M [PREP] között | közé |  blant annet | bl.a. többek közt | többi között |  blant folk= az emberek között |  blant de levende= az élők között
+N blasert
+M blazíert | felvágós
+N blasfemi
+M [en] felségsértés | blasfemisk ADJ= felségsértő
+N blass
+M blast,blasse= szürkéssárga | fakult | blass hudfarge |  blast hĺr
+N Blefjell
+M (hegység Buskerud megyében)
+N bleie
+M [en] pelenka;pelenkát |  skifte bleie= pelenkát cserélni | bleieskifte,et= pelenkázás
+N bleik
+M blek | han var en bleikfeit og ekkel fyr elhízott,sápadt és undok | fráter volt
+N bleike
+M fakítani >bleke
+N bleiknebb
+M [en] halványarcú |  han sĺ ganske bleiknebbet ut
+N blek
+M blekt,bleke= halvány | sápadt
+N blekbladet
+M skjedekne=lapulevelü keserüfű
+N bleke
+M fakítani |  bleket/blekte |  har blekt= fakított;fakította
+N blekhet
+M [en] sápadság | det gikk blekhet over over hans ansikt= elsápadt
+N blekk
+M [et] tinta;tintát
+N blekksopp
+M [en] tintagomba
+N blekksprut
+M [en] polip
+N blekne
+M fakulni | elsápadni >halvány lesz |  bleknet | har bleknet=fakult | elsápadt | halvány lett
+N blemme
+M [en] (blemma)= hólyag | vízhólyag; vízhólyagot
+N blende
+M elvakítani | elvakulni |  blendet | har blendet= elvakította | ble blendet av PASS= elvakította | elvakult tőle |  han ble blendet av den lave kveldssolen |  ble blendet av lyset= elvakult a fényben
+N blender
+M [en] fényrekesz >fényképezőgép
+N blending
+M [en] fénycsökkentés
+N blendverk
+M [et] káprázat | szemfényvesztés
+N blest
+M [en] szélfúvás | szele
+N bli
+M maradni | lenni | válni |  blir= marad | lesz |  válik |  ble | er/har blitt= lett | vált |  bli glad i= beleszeretni | megkedvelni | megszeretni |  bli sint= méregbe gurulni |  ble 16 ĺr gammel= 16 évet élt | vi blir fem stykker=öten leszünk bli til= (valamivé) lenni;válni | han er blitt far apa lett |  hun ble mamma PIV= anya lett | det ble til levebrřd= a mindennapi kenyere lett |   abból él |  de blir mann og kone PIV= összeházasodnak | házasságot kötnek |  Bli med!= Gyere el! | Tarts velünk! |  Bli med og bad!= Gyere el fürödni! |  Hva blir det av oss?=Mi lesz velünk? | det blir opp til ham=rajtamúlik ,hogy |  hun ble med pĺ nachspiel= hazament vele utójátékra |  ble stĺende= állva maradt |  Bli sittende!= Csak maradj ülve |  Hvor ble fuglene av?=Hova lettek a madarak? | Fugle -ne ble plutselig borte fra fuglebrettet > >távol | tartózkodnak töle |  men sykkel ble det= azért csak lett kerékpárja
+N blid
+M blidt,blide= mosolygós | jókedvű | vidám kedves
+N blikk
+M stille=tükörsima (a víz felülete) | szélcsendes a tenger felszíne
+N blikk
+M [et] látás | pillantás |  blikket vandret rundt= körbejárt a tekintete | blikket var i det fjerne= távolba meredt a tekintete
+N blikk
+M stille=tükörsima (a víz felülete) | szélcsendes a tenger felszíne
+N blikk
+M [et] látás | pillantás |  blikket vandret rundt= körbejárt a tekintete | blikket var i det fjerne= távolba meredt a tekintete
+N blikkenslager
+M [en] bádogos
+N blikkfang
+M [et] (ami magára vonja a figyelmet)
+N blikkstille
+M nyugodt,tükörsima >a tenger,tó felülete) |  szélcsendes az idő
+N blind
+M blindt,blinde= vak | han er blind= vak |  világtalan |  han  sřker i blinde= vakon tapogatódzik | Blind hřne kan ogsĺ finne et korn KÖZM= Vak tyúk is talál | szemet ORDT
+N blindebukk
+M [en] szembekötősdi
+N blinding
+M [en] egyfoltos pöcsik
+N blindpassasjer
+M [en] potyautas
+N blindsild
+M [en] fürge cselle
+N blindtarm
+M [en] vakbél | vakbele
+N blindtarmbetennelse
+M [en] vakbélgyulladás
+N blindtarmoperasjon
+M [en] vakbélműtét
+N blindvei
+M [en] zsákutca
+N blings
+M [en] karaj | karéj
+N blingse
+M kancsalul nézni |  blingset | har blingset= kancsalul nézett
+N blingset
+M blingsete= kancsal
+N blink
+M [en] villanás | telitalálat
+N blinke
+M csillogni | villogni | blinket=csillogott |  villogott
+N blisshřne
+M [en] szárcsa
+N blitz
+M [en] villámló fény
+N blivende
+M maradandó | állandó
+N blod
+M [et] vér;vért |  blodet pipler fra sĺret= vér serked a sebből |  ble slĺtt til blods=véresre verték | katten klorte ham til blods= véresre karmolta a macska |  Blodet er aldri sĺ tynt,det er jo tykkere enn vann KÖZM= | A vér nem válik vízzé ORDT | blodbad,et= öldöklés | vérengzés | blodfattig= vérszegény blodflekk,en=vérfolt;vérfoltot | blodig ADJ véres |  ADV véresen |  blodpudding,en > cukrozott norvég hurkaféleség |  blodpřlse, en >hurka | blodsdrĺpe,en= vércsepp |  blod- třrstig=vérszomjas | blodskam,en=vérfertőzés
+N blodtopp
+M [en] blodurt,en= orvosi vérfű
+N blokade
+M [en] blokád | ostromzár >tilalom
+N blokk
+M [en] tömb
+N blokkere
+M eltorlaszolni |  blokkerte | har blokkert= eltorlaszolták
+N blomkĺl
+M [en] karfiol;karfiolt
+N blomkĺlsuppe
+M [en] karfiolleves
+N blomme
+M [en] virág RITKA SZó >blomst
+N blomst
+M [en] virág;virágot |  blomster= virágok;virágokat |  trćrne er i full blomst virágba borultak a fák |  springer ut i full blomst= kivirágzik |  virágba borul |  sterkt duftende blomster= illatos virágok |  en
+N blomsterbed
+M [et] virágágy
+N blomsterbukett
+M [en] virágcsokor
+N blomsterduft
+M [en] virágillat
+N blomstereng
+M [en] virágos rét
+N blomsterknopp
+M [en] virágbimbó
+N blomsterpotte
+M [en] virágcserép
+N blomstre
+M virágozni | virágzani |  blomstret= virágzott |  planten blomstrer gult= sárgát nyílik/virágzik |  forglemmegeien blomstrer blĺtt= kéket nyílik a nefelejcs | blomstre opp kivirágozni |  kivirulni | kivirítani |  forelskelsen blomstrer opp
+N blomstrende
+M virágzó
+N blomstrete
+M virágos
+N blomstring
+M [en] virágzás
+N blomstringstid
+M [en] a virágzás ideje
+N blond
+M blondt,blonde= szőke | har blondt hĺr szőke | szőkehajú |  blonde lokker= szőke tincsek |  blondine,en=a szőke | szőkehajú nő
+N blonde
+M [en] csipkésszélü szegély | underkjole med blonder |  blondebluse >csipkézett blúz
+N blondeslřr
+M [et] csipkefüggöny
+N blott
+M csupán | csak |  er ikke synlig for det blotte řye= szabad szemmel nem látható |  var ikke mulig ĺ se det med blotte řyet
+N blotte
+M kitakarni | felfedni |  blottet | har blottet kitakarta | felfedte |  blotte seg=szemérmetlenül mutogatja a nemi szervét |  et blottet kvinnebryst >pucér női mellek |  blotter,en= szemérmetlen,botrányt keltő személy |
+N blottede
+M hajadonfőtt | födetlen fejjel |  Da bilen med bĺren passerte sto folk med blottede hoder | >leveszi a kalapját
+N blottende
+M ung= egészen/nagyon fiatal >lány
+N blottet
+M nincs neki | hiányzik |  han synes ĺ vćre blottet for samvittighet
+N blotting
+M [en] botrányt keltő,szemérmetlen viselkedés
+N bluferdig
+M szemérmes
+N blund
+M [en] pislantás | bóbiskolás |  tar seg en blund= alszik egyet |  har ikke hatt blund pĺ řynene i hele natt= egy szemet sem | aludt |  nem jött álom a szemére |  hřneblund,en= szundikálás | szunnyadás
+N blunde
+M bóbiskolni |  blundet | har blundet= bóbiskolt |  Prřv om du kan blunde litt |  jeg har visst blundet noen minutter= hát nem elbóbiskoltam | egy kicsit!
+N blunder
+M [en] hiba történt
+N blunk
+M [en] (blunk,et)= pillanat | pillantás |  det er over pĺ et blunk= pillanatok alatt vége
+N blunke
+M pillantani | kacsintani |  blunket | har blunket= pillantott |  blunket for ĺ fĺ et rusk ut av řyet |  han blunket lurt til kona |  han flřrtet og blunket til damene= szemezett a nőkkel |  lřy uten ĺ blunke= szemrebbenés nélkül hazúdott |  stjernene blunker/blinker= ragyognak a csillagok
+N bluse
+M [en] (blusa)=blúz | bluse med blomster= virágos,virágmintás blúz
+N blusse
+M [opp] fellobbanni | lángra lobbanni |  blusset opp | ha |  |
+N bluse
+M [en] (blusa)=blúz | bluse med blomster= virágos,virágmintás blúz
+N blusse
+M [opp] fellobbanni | lángra lobbanni |  blusset opp | ha |  |
+N blusse
+M [opp] fellobbanni | lángra lobbanni |  blusset opp | har blusset opp= fellobbant
+N blussel
+M [en] szemérem
+N bly
+M [et] ólom;ólmot
+N blyant
+M [en] ceruza;ceruzát
+N blyantspisser
+M [en] ceruzahegyegyező
+N blyg
+M blygt,blyge= szemérmes | szemérmetes |  szégyenlős |  blygsel,en= szemérmesség
+N blykule
+M [en] ólomgolyó
+N blĺ
+M blĺtt=kék;kéket | kékek | hun har blĺ řyne kékszemü | kék a szeme |  har blĺ lue= kék asapkája | kéksapkás |  de hadde slĺtt ham gul og blĺ= kékre-zöldre verték | det er fortsatt idet blĺ >csak álomkép | édes álom | himmelen er blĺ= kék az ég |  hřyt der oppe i det blĺ=fent az égen
+N blĺbringebćr
+M [et] hamvas szeder
+N blĺbćr
+M [et] fekete áfonya |  plukke blĺbćr= áfonyát szedni
+N blĺfjřr
+M hegyi pacsirtafű
+N blĺfrossen
+M blĺfrossent,blĺfrosne= a hidegtől kékült
+N blĺhegg
+M fanyarka
+N blĺhval
+M [en] kék bálna
+N blĺklokke
+M [en] (blĺklokka)= (kereklevelű) harangvirág
+N blĺknapp
+M fekélyfü | ördögharaptafű
+N blĺkoll
+M gyíkfű
+N blĺlig
+M kékes
+N blĺluserne
+M [en] takarmánylucerna
+N blĺmann
+M [en] balin |  Blĺmann,blĺmann,bukken min >kecske
+N blĺmeis
+M [en] kékcinege
+N blĺmelde
+M fakó libatop
+N blĺmunke
+M hegyi kékcsillag
+N blĺmĺke
+M [en] jegessirály
+N blĺne
+M kékülni |  blĺnet/blĺnte | har blĺnt= kékült
+N blĺne
+M [en] kéklö messzeség/távolság | fjell, blĺne bak blĺne= kéklő hegyek |  hus med vidt utsyn over fjorden og blĺnene bakom
+N blĺne
+M kékülni |  blĺnet/blĺnte | har blĺnt= kékült
+N blĺne
+M [en] kéklö messzeség/távolság | fjell, blĺne bak blĺne= kéklő hegyek |  hus med vidt utsyn over fjorden og blĺnene bakom
+N blĺruss
+M [en] közgazdasági ballagók
+N blĺrĺke
+M [en] szalakóta
+N blĺse
+M fújni | blĺste | har blĺst=fújt | det blĺser fúj a szél |  blĺse i en flřyte= sípolni |  rřya blĺser opp fjćrdrakten >felborzalja a tollazatát |  blĺse opp= felfújni |  det blĺser bort med vinden= elfújja a szél |  blĺser i ham= fütyül rá | vinden blĺser=fúj a szél | det blĺste opp= feltámadt a szél
+N blĺseinstrument
+M [et] fúvós hangszer
+N blĺskjell
+M [en] blĺskjellet= kagyló >puha testű állat
+N blĺspol
+M balin
+N blĺst
+M [en] fuvás | szeles idö | i regnvćr og blĺst
+N blĺstjerne
+M [en] sziki őszirózsa
+N blĺstrupe
+M [en] csalogány | fülemüle
+N blĺsymre
+M [en] májvirág | májfű
+N blĺtopp
+M kékperje
+N blĺveis
+M [en] májfű | májvirág
+N blĺvinge
+M BOT= boglárka
+N blĺřyd
+M kékszemü | hiszékeny | naív
+N blćre
+M [en] hólyag | hólyagot | hugyhólyag
+N blř
+M vérezni |  blřr=folyik a vére | csurog róla a vér | blřdde | har blřdd= vérzett | folyt a vére blřdde fra hodet= vérzett a feje
+N blřdende
+M vérző
+N blřder
+M [en] vérömlésben szenvedő személy
+N blřdning
+M [en] vérzés;vérzést | vérömlés >vérömleny
+N blřff
+M [en] füllentés
+N blřffe
+M füllenteni |  blřffet | har blřffet= füllentett |  blřffe om= lódintani róla |  han har blřffet oss= átrázott/átvert bennünket
+N blřffmaker
+M [en] nagy hóhányó a pasas
+N blřt
+M blřtt,blřte= puha |  legge klćr i blřyt > áztatni |  blřtaktig= lágy | puha
+N blřtbille
+M [en] lágybogár | blřtdyr=puhatestűek
+N blřtkake
+M [en] torta;tortát
+N blřyte
+M [en] böséges tavaszi/nyári esőzés, amikor átázik a termőföld
+N bo
+M lakni |  bor= lakik |  bodde | har bodd= lakott |  jeg bor i Drammen= Drammenban lakom |  han bor i utlandet= külföldön él |  bor for seg selv= külön él |  jeg har bodd10 ĺr i Norge= tíz éve élek Norvégiában
+N bo
+M [et] ingóság
+N bo
+M lakni |  bor= lakik |  bodde | har bodd= lakott |  jeg bor i Drammen= Drammenban lakom |  han bor i utlandet= külföldön él |  bor for seg selv= külön él |  jeg har bodd10 ĺr i Norge= tíz éve élek Norvégiában
+N bo
+M [et] ingóság
+N boble
+M bugyborékol | bugyogni |  boblet= bugyborékolt | bugyogott |  det bobler= bugyog |  bugyborékol
+N boble
+M [en] buborék;buborékot
+N boble
+M bugyborékol | bugyogni |  boblet= bugyborékolt | bugyogott |  det bobler= bugyog |  bugyborékol
+N boble
+M [en] buborék;buborékot
+N boblejakke
+M [en] bekecs | bélelt télikabát
+N bobyrez
+M domolykó
+N bod
+M [en] kamra
+N Bodř
+M (észak-norvég város)
+N bog
+M [en] (állat)lapocka | szügy
+N boikott
+M [en] bojkott |  boikotte= bojkottálni |  boikottet | har bojkottet= bojkottált;bojkottálta
+N bok
+M [en] (boka)= könyv;könyvet |  břker= könyvek;könyveket |  břkene=a könyvek;a könyveket |  boken til= könyve
+N bokbind
+M [et] fedél | (a könyv)fedele
+N bokfink
+M [en] erdei pinty
+N bokfřre
+M elkönyvelni |  bokfřring,en= könyvelés
+N bokhandel
+M [en] könyvkereskedés
+N bokhandler
+M [en] könyvkereskedő bokholder,en= könyvelő
+N bokhylle
+M [en] könyvespolc
+N bokkřl
+M [et] sötét sör
+N boklig
+M szellemi tudás
+N bokmĺl
+M [et] (hivtalos nyelvváltozat,a "nynorsk"-kal vetélkedő)
+N boks
+M [en] doboz;dobozt | skatulya |  en boks hermetikk= egy doboz konzerv
+N bokse
+M bokszolni |  bokset | har bokset= bokszolt |  boksing,en= ökölvívás
+N bokstav
+M [en] betű;betűt |  liten bokstav= kisbetű | stor bokstav= nagybetű | bokstaver betűk |  bokstavelig talt= betű szerint |  szó szerint
+N boksĺpner
+M [en] konzervnyító
+N boktrykkeri
+M [et] könyvnyomda
+N bol
+M [en] torzó | törzs |  hun har strikket ferdig bolen til genseren
+N bol
+M [et] (darázs)fészek |  humlen lager seg et lunt bol
+N bol
+M [en] torzó | törzs |  hun har strikket ferdig bolen til genseren
+N bol
+M [et] (darázs)fészek |  humlen lager seg et lunt bol
+N bolig
+M [en] lakás;lakást | bolighus,et= lakóház
+N boligkvartal
+M [et] lakónegyed
+N Bolivia
+M Bolivia
+N bolivianer
+M [en] bolíviai személy |  boliviansk ADJ= bolíviai
+N bolk
+M [en] válaszfal
+N bolle
+M [en] gombóc | fánk | tál | fiskebolle=halból készült gombóc |  kjřttbolle,en= húsgombóc
+N boltit
+M (havasi) lile
+N boltre
+M seg= hancúrozni | forgolódni |  boltret seg | har boltret seg= hancúrozott |  forgolódott
+N bolverk
+M [et] bástya | erőd | gát | et bolverk mot védőbástya
+N bom
+M [en] (bommen)= sorompó;sorompót
+N bombardement
+M [et] bombázás
+N bombardere
+M bombázni |  bombarderte | har bombardert= bombázták
+N bombe
+M [en] bomba;bombát |  tidsinnstilt bombe= időzített bomba
+N bomme
+M mellélőni | koldulni | bakot lőni |  bommet | har bommet= mellélőtt |  bommet pĺ= bakot lőtt |  tiggeren bommet til ei halv ei= fél liter sör árát koldulta
+N bommert
+M [en] baklövés
+N bompenger
+M úthasználati díj
+N boms
+M [en] koldus | csavargó
+N bomskudd
+M [et] baklövés
+N bomull
+M [en] gyapot;gyapotot |  bomull avles= termelik a gyapotot
+N bonde
+M [en] paraszt;parasztot |  břnder= parasztok;parasztokat |  břndene= a parasztok;a parasztokat >sakk= paraszt |  bondeanger >szánom-bánom |  misbruk av alkohol gir bakrus og bondeanger |  bonde- fanger,en= balekfogó |  bondefangeri, et= balekfogás | bondegĺrd,en | bondegard,en= paraszttanya | gazdaság |  en bondegĺrd i skogkanten |  bondekjerring,en= parasztasszony |  bondeknřl,en= buta paraszt |  bondekost,en=parasztos étel | bondekvinner parasztasszonyok |  sunt bondevett= józan parasztész | bondeopprřr,et= parasztfelkelés
+N bondepike
+M [en] parasztlány |  tilslřrt bonde-pike= almáspite tejszínhabbal és morzsával
+N bondesamfunn
+M [et] paraszttársadalom
+N bondesřnn
+M [en] parasztgyerek
+N bondetamp
+M [en] faragatlan fickó
+N Bondeungdomslaget
+M Norvég Parasztfiatalok Szövetsége
+N bondevett
+M [et] józan parasztész
+N bondsk
+M parasztos
+N bonellisanger
+M [en] bonelli füzike
+N bonus
+M [en] kedvezmény
+N bopel
+M [en] lakása | lakóhelye
+N bor
+M [en] fúró;fúrót
+N bor
+M [et] bór |  B
+N bor
+M [en] fúró;fúrót
+N bor
+M [et] bór |  B
+N bord
+M [et] asztal;asztalt |  bord= asztalok; asztalokat |  bordene= az asztalok | dekke et bord=asztalt teríteni | dekket bord= terített asztal | setter seg til bords=leül az asztalhoz det ligger pĺ bordet= | az asztalon van | rydde bordet= leszedni az asztalt |  sette det pĺ bordet= az asztalra tenni |  bank i bordet= lekopogom
+N bordduk
+M [en] abrosz;abroszt |  asztalterítő
+N borde
+M fedélzetre menni | hajóra szállni |  bordet | har bordet= hajóra szállt |  borde et skip |  gĺ fra borde= elhagyni a hajó fedélzetét >állást cserél
+N bordell
+M [en] kupleráj
+N bordtennis
+M [en] asztalitenisz
+N bore
+M fúrni |  boret | har boret= fúrt;fúrta
+N boreplattform
+M [en] olajfúró berendezés, borerigg,en >toronyépület és 'oljamező' | a tengeren
+N borettslag
+M [et] lakásépítkező társaság |  vállalkozó
+N borg
+M [en] vár;várat
+N borge
+M jótállni |  borget | har borget= jótállt érte |  det kan jeg borge for= jótállok érte |  navnet borger for god kvalitet
+N borger
+M [en] polgár >statsborger
+N borgerkrig
+M [en] polgárháború
+N borgerlig
+M polgári | konzervativ |  borgerlige dyder=polgári erények | borgerlig ekteskap= polgári eskü |  borgermester,en >INKáBB |  ordfřrer,en= polgármester
+N borre
+M [en] bogács | bojtorján
+N borremynte
+M [en] pemetefű
+N bort
+M el | oda |  han var kommet bort= eltünt |  elveszett |  bortre= távolabbi |  borte= el,oda (van) |  nincs otthon | eltűnt
+N bortenfor
+M [PREP] túl rajta POST | borten- for alle blĺner >még az óperenciás tenge- ren is | túl |  Bortenfor berget bor óg folk KÖZM= Túl a dombon is laknak | emberek
+N bortimot
+M majdnem
+N bortkomne
+M sřnnen |  den= tékozló fiú BIBL
+N bortover
+M el tőle
+N bortsett
+M fra= eltekintve tőle
+N bortskjemt
+M elkényeztetett
+N bortvise
+M kiutasítani |  han ble bortvist fra landet= kiutasították az országból | >HIST= száműzték | elűzték
+N bosetning
+M [en] település >tanya
+N Bosnia
+M Bosznia
+N bosnier
+M [en] bosnyák személy
+N bosnisk
+M bosniske ADJ= bosnyák
+N bosted
+M [et] lakhely | lakhelye
+N bot
+M [en] pénzbírság >břter |  gjřre bot og bedring= megjavulni
+N botaniker
+M [en] botanikus |  botanikk,en= növénytan |  botanisk ADJ= botanikus
+N botemiddel
+M [en] gyógyír | gyógyszer |  orvosság |  botemidler= gyógyszerek |  det finnes botemiddel mot
+N botferdig
+M bűnbánó >vezeklő
+N bowling
+M [en] teke | tekézés
+N bra
+M [ADJ] jó |  ADV jól |  Det er bra= Jól van |  Takk bare bra!= Köszönöm,jól! |  alt stĺr bra til med ham= jól van | Jeg har det
+N bra
+M Jól vagyok
+N bra
+M [ADJ] jó |  ADV jól |  Det er bra= Jól van |  Takk bare bra!= Köszönöm,jól! |  alt stĺr bra til med ham= jól van | Jeg har det
+N bra
+M Jól vagyok
+N bragd
+M [en] (hősi)tett | vitézül tett dolog >jótett
+N brak
+M [et] reccsenés.recsegés
+N brakall
+M [en] ebsefa | kutyabenge | lángfa
+N brake
+M recsegni | ropogni |  braket/brakte | har braket/brakt=recsegett | ropogott | det braker lřs= elszabadul (a pokol) |  de brakte sammen i slagsmĺl=összerúgtak egymással |  összezördültek | összeverekedtek
+N brakk
+M brakt,brakke ADJ= müveletlen >föld ligger brakk= parlagon
+N brakke
+M [en] barakk
+N brakkvalmue
+M [en] bujdosó mák
+N brakkvann
+M [et] állóvíz
+N braksuksess
+M [en] óriási siker >vastaps
+N bram
+M med brask og bram=kurjongatva |  teli torokkal | hetykén >hetykélkedni
+N brann
+M [en] tüzvész;tüzvészt
+N bransje
+M [en] szakma | üzletág
+N brase
+M áttörni rajta | braste | har brast= áttört rajta |  braste gjennom vinduet
+N Brasil
+M Brazilia
+N brasilianer
+M [en] brazil személy
+N brasiliansk
+M [ADJ] brazil
+N brasme
+M [en] dévérkeszeg
+N brasmeflire
+M [en] lapos keszeg
+N bratsj
+M [en] brácsa
+N bratt
+M bratte >ADJ= meredek |  fjellsiden er bratt |  nedkjřring i en bratt fjellside |  ADV meredeken |  en bratt ĺsside= meredek domboldal |  de fortsatte den bratte bakken nedover | brattlendt=meredek hegyoldalakkal bővelkedő terep |  tumlet litt rundt blant de brattlendte kollene
+N braute
+M hangoskodni | dicsekedni | hencegni |
+N brautende
+M nagyszájú | hangoskodó |  komme
+N brautende
+M folk kan opptre brautende
+N brautende
+M nagyszájú | hangoskodó |  komme
+N brautende
+M folk kan opptre brautende
+N brautet
+M har brautet= hangoskodott >duhaj
+N bravur
+M [en] remeklés | tündöklés | bravúr
+N bre
+M szurokkal mázolni |  betakarni | takarózni | terjedni | teregetni | bredde/bredte | har bredd/bredt=mázolta | kente | teregette | takarta | tjćrebre bĺten | hřna bredde vingene over kyllingene |  bre over seg dyna >takaródzik |  skogbrannen brerseg>terjed | bre gress/hřy= szénát teregetni |  bre seg ut= kiterjedni |  terjeszkedni
+N bre
+M [en] gleccser;gleccsert | breer=gleccserek
+N bre
+M szurokkal mázolni |  betakarni | takarózni | terjedni | teregetni | bredde/bredte | har bredd/bredt=mázolta | kente | teregette | takarta | tjćrebre bĺten | hřna bredde vingene over kyllingene |  bre over seg dyna >takaródzik |  skogbrannen brerseg>terjed | bre gress/hřy= szénát teregetni |  bre seg ut= kiterjedni |  terjeszkedni
+N bre
+M [en] gleccser;gleccsert | breer=gleccserek
+N bred
+M bredt,brede ADJ= széles |  bredde,en= szélesség | széle |  elva gikk over sine bredderkiáradt/kiöntött a folyó
+N bredflangre
+M széleslevelü nöszőfű
+N bregne
+M [en] fodorka | páfrány
+N breiflabb
+M [en] tengeri hal | breikjeft,en >hal
+N breke
+M bégetni | mekegni |  brekte | har brekt= bégetett | mekegett | sauene breker= bégetnek a birkák |  mekegnek a kecskék
+N brekk
+M [et] fék | betörés
+N brekke
+M eltörni | kitörni | brekker=eltör;eltöri |  kitöri |  brakk | har brukket= eltörte | kitörte |  han brakk ankelen= kitörte a bokáját | brakk armen=eltörte/kitörte a kezét |  brakk bena/ benet= eltörte a lábát | eltörött a lába | brekke nesen= eltörött az orrcsontja |  brekke seg= hányni | kihányni |  brekte seg | har brekt seg= hányt | okádott | rókázott |  begynte ĺ brekke seg= elkezdett hányni >dempe en farge= | kikeverni,tompítani a színeket | han brekte fargen
+N brekke
+M lin (brĺke lin)= lent,kendert tilolni
+N brekke
+M eltörni | kitörni | brekker=eltör;eltöri |  kitöri |  brakk | har brukket= eltörte | kitörte |  han brakk ankelen= kitörte a bokáját | brakk armen=eltörte/kitörte a kezét |  brakk bena/ benet= eltörte a lábát | eltörött a lába | brekke nesen= eltörött az orrcsontja |  brekke seg= hányni | kihányni |  brekte seg | har brekt seg= hányt | okádott | rókázott |  begynte ĺ brekke seg= elkezdett hányni >dempe en farge= | kikeverni,tompítani a színeket | han brekte fargen
+N brekke
+M lin (brĺke lin)= lent,kendert tilolni
+N brekking
+M [en] (kender,len)tilolás
+N brekning
+M [en] hányás |  fikk brekningsfornemmelser= hányingere volt
+N brem
+M [en] (bremmen)=kalap pereme/karimája en hatt med bred brem
+N brems
+M [en] fék;féket |  marhabagócs |  vargalégy
+N bremse
+M fékezni | lefékezni | Brems!=Fékezz! bremset | har bremset= fékezett | lefékezett
+N bremse
+M [en] fék;féket
+N bremse
+M fékezni | lefékezni | Brems!=Fékezz! bremset | har bremset= fékezett | lefékezett
+N bremse
+M [en] fék;féket
+N brennbar
+M brennbart= gyulladékony |  gyúlékony
+N brenne
+M égni | brenner= ég | brant | har brent égett | elégett |  brenner= elégetni |  brente |  har brent brevene= elégette a leveleket |  huset brant ned= leégett a ház |  tre brenner FYS= a fa ég |  brenne opp= elégni | bua brant opp= leégett a viskó | Gamle kubber brenner lenge KÖZM= Öreg tuskó sokáig ég | brennende= égő |  en brennende fyrstikk= égő gyufaszál |  han ble brennende harm= haragra gerjedt
+N brennesle
+M [en] csalán;csalánt
+N brennesleblad
+M [et] csalánlevél
+N brennevin
+M [et] pálinka | szesz
+N brennhet
+M brennhett= forró | izzó | perzselő
+N brenning
+M [en] tenger= hullámverés >kert |  brenning av hageavfall |  brĺtebrenning= hulladék-,illetve avarégetés |  ble dřmt til dřden ved brenning HIST=máglyahalálra ítélték
+N brennkaldt
+M [ADJ] kutyahideg | brennkulde, en= csikorgós hideg
+N brennmanet
+M [en] csalánozó medúza
+N brennsikkert
+M holtbiztos | holtbizonyos
+N brensel
+M [et] (brenslet)= tűzifa | üzemanyag
+N brent
+M kalk= égetett mész |  CaO
+N bresje
+M [en] rés;rést |  bresje i muren= rés a bástyán/várfalon |  gĺ i bresjen= a legelsők közöt/az élen küzd
+N brett
+M [en] hajtás >papir,ruha
+N brette
+M hajtogatni | összehajtani |  brettet | har brettet |  |
+N brett
+M [en] hajtás >papir,ruha
+N brette
+M hajtogatni | összehajtani |  brettet | har brettet |  |
+N brette
+M hajtogatni | összehajtani |  brettet | har brettet=összehajtotta | brette opp= felgyűrni
+N brev
+M [et] levél;levelet | levele (amit írunk, olvasunk) |  brev= levelek;leveleket |  brevene a levelek;a leveleket |  sende et brev= levelet küldeni |  svare pĺ brevet= válaszolni a levelére |  fikk/mottok et brev fra= levelet kapott tőle |  de har brevvekslet i flere ĺr= több éve levelez vele/leveleznek
+N brevann
+M [et] gleccservíz
+N brevskriver
+M [en] levélíró
+N brevveksle
+M med= levelezni vele
+N brikke
+M [en] fatányér | sakkfigura >bábu |  etter hvert falt brikkene pĺ plass >lassanként minden helyrejött | visszazökkent a helyére |  visszailleszkedett | helyreállt >kitudódott
+N briljant
+M [en] briliáns | ékkő | gyémántkő
+N briljere
+M remekelni | tündökölni |  briljerte | har briljert= remekelt | tündökölt
+N brille
+M [en] szemüveg;szemüveget |  sette pĺ seg brillene= felteszi a szemüvegét |  bruker briller= szemüveges | szemüveget hord
+N brilleslange
+M kobra | szemüveges kigyó
+N bringe
+M hozni |  bringer=hoz;hozza |  brakte |  har brakt=hozott;hozta |  elhozta | meghozta |  han bringer med seg=hozza magával | elhoz; elhozza |  de ble brakt i land= partra tettékőket |  bringe posten= kézbesíteni (a levelet)
+N bringe
+M [en] mellkas | mellkasa
+N bringe
+M hozni |  bringer=hoz;hozza |  brakte |  har brakt=hozott;hozta |  elhozta | meghozta |  han bringer med seg=hozza magával | elhoz; elhozza |  de ble brakt i land= partra tettékőket |  bringe posten= kézbesíteni (a levelet)
+N bringe
+M [en] mellkas | mellkasa
+N bringebćr
+M [et] málna;málnát | himpér
+N bris
+M [en] szellő |  i brisen= a szellőben |  den lette brisen hvirvler skyer av střv i vćret= felkavarodik | a por a szellőtől
+N brisk
+M [en] priccs
+N briske
+M seg av= nyegléskedni | brisket seg | har brisket seg= nyegléskedett
+N briskekratt
+M borókabokrok | han hadde laget et leie innunder et briskekratt >boróbokrok | alá feküdt
+N brisling
+M [en] hering
+N brist
+M [en] huzódás | repedés | törés |  det er en brist i glasset >elrepedt az üveg |  fikk brist i et ribbein |  |  muskelbrist= izomhuzódás |  en brist i karakteren >gyenge jellemü
+N briste
+M elrepedni | meghasadni | elpattanni |  elsírni magát |  brast |  har bristet/brustet= meghasadt | megrepedt | elpattant
+N brite
+M [en] brit,angol személy
+N britisk
+M [ADJ] brit
+N bro
+M [en] (bru,en,brua)= híd;hídat |  bro-bro-brille (gyerekjáték >lánc-lánc)
+N brodd
+M [en] fullánk
+N brodere
+M hímezni |  broderte | har brodert=hímezett | hímezte
+N broderfolket
+M svédek >magyaroké= finnek brodergarn,et= himzőszál | selyemszál
+N broderi
+M [et] himzés;himzést
+N broderland
+M [et] Svédország >Ausztria,Finnország
+N broderlig
+M ADV= testvéri módon
+N brodermřnster
+M [et] előnyomás | drukkolás
+N broderramme
+M [en] himzőkeret | ráma
+N broiler
+M [en] jérce
+N broket
+M brokete= tarka-barka
+N brokk
+M [en] sérv;sérvet |  sérve
+N brokkoli
+M [en] (káposztaféle)
+N brokkurt
+M [en] porcikafű
+N brolegge
+M kikövezni | kővel rakni ki az útat |  brola | har brolagt= kirakták/kikövezték az útat
+N bronkitt
+M [en] hörghurut | légcsőhurut
+N bronse
+M [en] bronz | bronsealderen= bronzkor
+N bror
+M [en] fivér;fivért | brřdre=fivérek | brřdre ne= a fivérek >storebror= bátya >lillebror=öccs;öccse |  min bror= bátyám;bátyámat |  öcsém;öcsémet |  din bror= bátyád;bátyádat |  öcséd;öcsédet |  hans/hennes/sin bror=bátyja ;bátyját |  öccse;öccsét |  vĺr bror= bátyánk; bátyánkat |  öcsénk;öcsénket |  deres bror=
+N brorskap
+M [en] (brorskap,et)= testvériség
+N brosje
+M [en] bross | disztű | melltű
+N brosjyre
+M [en] brosúra | irat
+N brosme
+M [en] (hal)
+N brottsjř
+M [en] hullámcsapás a tengeren
+N brottsling
+M [en] bűnöző
+N bru
+M [en] híd;hidat
+N brud
+M [en] menyasszony;menyasszonyt
+N brudd
+M [et] szakítás | törés | válás
+N brudedrakt
+M [en] nemzeti viselet |  brudekjole, en=menyasszonyi ruha | brudeferd,en >nászút | nászmenet |  brudefřlge,et= nászkiséret |  brudeslřr,et= menyasszonyi fátyol
+N brudelys
+M virágkáka
+N brudespirea
+M [en] gyöngyvessző
+N brudgom
+M [en] (brudgommen)= völegény; völegényt
+N brudulje
+M [en] balhé | csetepaté | haddelhadd |  csihi-puhi
+N brugde
+M [en] (hal)
+N bruk
+M [en] bruk,et= használata
+N bruk
+M [et] (gardsbruk,et)= gazdálkodás |  gazdaság |  fürésztelep
+N bruk
+M [en] bruk,et= használata
+N bruk
+M [et] (gardsbruk,et)= gazdálkodás |  gazdaság |  fürésztelep
+N brukbar
+M [ADJ] elfogadható | használható |  ADV meglehetősen |  lommekniven er brukbar til litt av hvert= a bicska sok | mindenre használható | det gikk brukbart >úgy-amúgy ment a dolog
+N bruke
+M használni valamit | bruker= használ; használja |  brukte= használt;használta |  har brukt |  bruke fřttene= gyalogolni |  bruke hornet= dudálni | bruke apostlenes hester= az apostolok lován járni |  bruke vold= eröszakot alkalmazni |  brukte lang tid pĺ ĺ lćre det= sok idöbe tellett neki,mire | megtanulta |  bruke opp >elveri a pénzét |  brukte opp hvert eneste řre pĺ reiser og fornřyelser
+N brukelig
+M ajánlatos | illő |  det er brukelig ĺ takke for seg= azt meg szokás ám köszönni
+N brukskunst
+M [en] diszített használati tárgyak, szerszámok
+N bruktbil
+M [en] használt kocsi
+N brumle
+M mocorogni | motyogni |  brumlet | har brumlet= mocorgott | motyogott
+N brumme
+M morogni |  brummet | har brummet morgott
+N brun
+M brunt,brune= barna;barnát |  barnák |  han er brun= lebarnult
+N brunbjřrn
+M [en] barna medve
+N brune
+M barnítani |  brune kjřtt= húst pirítani |  brunte= húst pirított
+N brunette
+M [en] barna | barna kislány
+N brunlig
+M barnás
+N brunnakke
+M [en] fütyülö réce
+N brunrot
+M [en] göcsös görvényfű
+N brunrotte
+M [en] vándorpatkány
+N brunskjene
+M csuhu | káka
+N brunst
+M [en] rigyetés | üzekedés
+N brus
+M [en] szörp | üdítőital
+N brus
+M [et] moraj | moraja |  bruset fra vingeslag szárnysuhogás >havbrus=a tenger moraja |  orgelbrus >orgonaszó |  et begeistringens brus= üdvrivalgás
+N brus
+M [en] szörp | üdítőital
+N brus
+M [et] moraj | moraja |  bruset fra vingeslag szárnysuhogás >havbrus=a tenger moraja |  orgelbrus >orgonaszó |  et begeistringens brus= üdvrivalgás
+N bruse
+M morajlani |  bruser= morajlik |  bruste |  har brust= morajlott
+N brushane
+M [en] pajzsoscankó
+N brush-up
+M [en] felfrissítés
+N brutal
+M brutalt >ADJ= brutális | durva |  ADV brutális módon | könyörtelenül | brutalitet,en=  brutalitás | durvaság
+N brutto
+M [en] bruttó
+N bry
+M zaklatni | zavarni |  brydde | har brydd= zaklatott;zaklatta |  zavart;zavarta
+N bry
+M seg om= törődni vele |  brydde seg ikke om det= nem törődött vele
+N bry
+M [et] veszödség
+N bry
+M zaklatni | zavarni |  brydde | har brydd= zaklatott;zaklatta |  zavart;zavarta
+N bry
+M seg om= törődni vele |  brydde seg ikke om det= nem törődött vele
+N bry
+M [et] veszödség
+N bry
+M zaklatni | zavarni |  brydde | har brydd= zaklatott;zaklatta |  zavart;zavarta
+N bry
+M seg om= törődni vele |  brydde seg ikke om det= nem törődött vele
+N bry
+M [et] veszödség
+N bryderi
+M [et] veszödség | fáradozás
+N brygg
+M [et] sör | itóka |  hjemmebrygg,et= házilag erjesztett sör/itóka |  La oss smake pĺ brygget!=Hadd kóstoljuk meg az itókát!
+N brygge
+M řl= sört főzni |  brygget řl | har brygget= sört főzött |  juleřlet brygges
+N brygge
+M [en] (brygga)= rakpart |  pĺ bryggen= a rakparton
+N brygge
+M řl= sört főzni |  brygget řl | har brygget= sört főzött |  juleřlet brygges
+N brygge
+M [en] (brygga)= rakpart |  pĺ bryggen= a rakparton
+N bryggerhus
+M [et] mosókonyha |  söröspince |  (Magyarországon |  borospince)
+N bryggeri
+M [et] sörgyár | sörfőzde
+N bryllup
+M [et] lakodalom;lakodal mat |  nász; nászt |  menyegző | bryllupsdag,en= esküvő napja | bryllupselskov,en=nász | násza | etterpĺ var det bryllupsfest= lagzit csaptak utána |
+N bryllupsgave
+M [en] nászajándék | i bryllupsgave nászajándékba |  bryllupsgjester= násznép |
+N bryllupskake
+M [en] esküvői torta | bryllupsnatt, en= nászéjszaka |  bryllupsreise,en= nászút |
+N bryllupskjole
+M [en] menyasszonyi ruha |
+N bryllupssang
+M [en] (a lakodalom alkalmára írt vers) |  synge en bryllupssang >verset mondanak rá
+N bryn
+M [et] skogbryn,et= az erdő széle |  řyebryn,et= szemöldök
+N bryne
+M fenni >kaszát |  köszörülni |  brynte |  har brynt= fente | köszörülte
+N brysk
+M bruskt= mogorva | nyers | et bryskt svar
+N bryske
+M seg= fennhéjázni |  hanen brysker seg brysket seg | har brysket seg= fennhéjázott
+N brysom
+M brysomt,brysomme=alkalmatlankodó
+N bryst
+M [et] mell |  melle;mellét | női mell | kebel |  en dame med store bryster= dúskeblű nő | han slĺr seg for brystet= veri a mellét |  en
+N brystfager
+M dame= dúskeblű | teltkeblű nő
+N brystholder
+M [en] bh,en= melltartó
+N brystkasse
+M [en] mellkas;mellkast
+N bryte
+M megszegni a szabályt/parancsot |  birkózni | feladni a versenyt | bryter= birkózik megszegi |  brřt | har brutt=megszegte |  feladta |  birkózott |  bryte sitt lřfte= megszegte a fogadalmát |  bryte opp fra (landsbyen)= felkerekedni |  útrakelni | bryte seg inn=betörni (a lakásba) |  bryte gjennom= áttörni rajta |  bryte sammen=idegösszeroppanást szenvedni |  solstrĺlene brytes gjennom is og snř i trćrne= átszürődnek | a nap sugarai
+N bryter
+M [en] kapcsoló | birkózó | enpolet bryter egysarkú kapcsoló | topolet bryter= kétsarkú kapcsoló
+N bryting
+M [en] birkózás
+N brĺ
+M brĺtt= hirtelen |  brĺ dřd= hirtelen halál
+N brĺhast
+M [en] sürgős dolog
+N brĺk
+M [et] lárma | zaj | zsivaly
+N brĺke
+M lármázni | zajongani | veszekedni |  dühösen kiabálni |  brĺkte | har brĺkt= szidta |  balhézott
+N brĺket
+M brĺkete=hangoskodó | balhés | zajongó kötekedő |  brĺkjekk= rámenő | vagány |  brĺkmaker,en= kötekedő,zajoskodó,veszekedő alak
+N brĺsint
+M hirtelen haragú | hadde blitt brĺsint szörnyű haragra lobbant
+N brĺstopper
+M stadig= meg-megáll
+N brĺte
+M [en] égő hulladékhalom
+N brĺvending
+M [en] váratlan fordulat
+N brřd
+M [et] kenyér;kenyeret | send meg litt brřd ,takk!= kérném  a kenyeret |  ristet brřd= pirított kenyér |  nybakt brřd= friss kenyér |  det daglige brřd= a mindennapi kenyerünk |
+N brřde
+M [en] bűncselekedet | vétek
+N brřdmat
+M [en] vajaskenyér
+N brřdrister
+M [en] kenyérpirító
+N brřdskive
+M [en] kenyérszelet
+N brřdskorpe
+M [en] kenyérhéj
+N brřdspade
+M [en] sütőlapát
+N brřk
+M [en] tört;törtet |  brřker=törtek;törteket
+N brřl
+M [et] ordítás >kiabálás
+N brřle
+M bömbölni | ordibálni | ordítani |  brřlte | har brřlt= ordított
+N brřnn
+M [en] kút;kútat |  han gĺr til brřnnen= megy a kútra | brřnnkant,en= kútkáva |  ved en brřnnkant >a kútkávánál
+N brřnnkarse
+M [en] kányafű
+N brřnnvann
+M [et] kútvíz
+N brřnsle
+M farkasfog
+N brřyte
+M havat hányni az úton | tolongani |  brřytet | har brřytet= hányta a havat
+N bu
+M [en] (bua)= csónakház >hajlék | fiskebu,en halászkunyhó |  sjřbu,en= csónakház | tollbu=vámház >bod,en (kjellerbod,en | loftsbod,en)
+N bu
+M [et] ingóság
+N bu
+M [en] (bua)= csónakház >hajlék | fiskebu,en halászkunyhó |  sjřbu,en= csónakház | tollbu=vámház >bod,en (kjellerbod,en | loftsbod,en)
+N bu
+M [et] ingóság
+N bud
+M [et] hírmondó | parancs |  de ti bud= tízparancsolat
+N Budapest
+M er fra Budapest= budapesti | pesti
+N buddhist
+M [en] buddhista
+N budeie
+M [en] (budeia)= pásztorasszony | pásztorlány havasi pásztortanyákon HIST
+N budsjett
+M [et] költségvetés
+N budskap
+M [et] uzenet | hír >küldetés
+N budstikke
+M [en] híradó | hírlap | hírvivő | hírnök >újság |  St.Laurentius budstikke (Katolikus Hírlap)
+N budt
+M [opp] by opp= felkérni |  hun ble budt opp til dans= felkérték táncra
+N bue
+M [en] (épület)ív | boltív | ijj |  nyíl | (hegedű- ill. bőgővonó
+N bueformet
+M ívalakú
+N bufe
+M [et] barom | jószág
+N buffet
+M [en] büfé | falatozó
+N buk
+M [en] has | pocak |  jászkeszeg
+N bukett
+M [en] csokor;csokrot | virágcsokor | en bukett blĺveis= egy csokor májvirág
+N bukk
+M [en] geitebukk= bakkecske |  kecskebak
+N bukk
+M [et] hajolás | bók
+N bukk
+M [en] geitebukk= bakkecske |  kecskebak
+N bukk
+M [et] hajolás | bók
+N bukke
+M meghajolni |  bukket | har bukket= meghajolt
+N bukkeblad
+M vidrafü | keserü lóhere
+N bukse
+M [en] (buksa)= nadrág;nadrágot | bukser nadrág;nadrágot |  tisse i buksa= bepisilni
+N bukseben
+M [et] bukselegg,en= nadrágszár
+N bukselomme
+M [en] nadrágzseb
+N bukt
+M [en] (bukta)= öböl;öblöt
+N bulder
+M [et] (buldret)= robaj
+N buldre
+M robogni | zuhogni |  buldret | har buldret= robogott | zuhogott >zúg,mint a zuhatag
+N bule
+M [en] daganat
+N bulgar
+M [en] bulgarer,en= bolgár >személy |  Bulgaria= Bulgária
+N bulgarsk
+M [ADJ] bolgár | bolgárul ADV
+N bulimi
+M [en] beteges étkezés
+N buljong
+M [en] eröleves
+N bulk
+M [en] horpadás
+N bulke
+M horpadni | behorpadni | behorpasztani |  bulket | har bulket= horpadt | behorpadt |  horpadás lett rajt
+N bulket
+M bulkete= (be)horpadt
+N bulldogg
+M [en] kutyafaj
+N bumerke
+M [et] tulajdonos névjegye
+N bunad
+M [en] népviselet
+N bunke
+M [en] halom (papír) | sédbúza
+N bunker
+M [en] bunker | óvóhely
+N bunkre
+M nyersanyagot tárolni |  feltölteni |  bunkret | har bunkret= tárolt;tárolta
+N bunkring
+M [en] feltöltés | üzemanyagvétel
+N bunn
+M [en] alja | feneke
+N bunnfall
+M [et] üledék | söpredék | seprő | seprü |  Nĺr gryta koker,kommer bunnfallet opp tiloverflaten KÖZM= | Mikor forró fazéknakfelkavarodik az alja
+N bunt
+M [en] csokor | fürt | kulcscsomó
+N buntmaker
+M [en] prémgyártó
+N buorm
+M [en] vízi sikló
+N bur
+M [et] kalitka | ketrec
+N burde
+M břr >kellene neki tenni |  burde | har burdet= jó lenne/volna,ha tenné >skulle
+N bureising
+M [en] (bureisinga) >település | feltöri a műveletlen földet és letelepedik oda
+N burot
+M [en] fekete üröm
+N bursdag
+M [en] születésnap |  han har bursdag i dag= ma van a születésnapja
+N buse
+M [en] (busemann,en)= vadember
+N buse
+M [pĺ] rátámadni | rátörni |  buste pĺ=rátört
+N buse
+M [en] (busemann,en)= vadember
+N buse
+M [pĺ] rátámadni | rátörni |  buste pĺ=rátört
+N busk
+M [en] bokor;bokrot |  busker= bokrok
+N buskap
+M [en] jószág;jószágot | passet buskap-en= legeltetett | legeltette a jószágot
+N buskas
+M [et] bokrok | cserje
+N Buskerud
+M (megye Oslótól délre)
+N busket
+M buskete= bokros
+N buskmure
+M [en] pimpó
+N buskskvett
+M [en] rozsdás csaláncsúcs
+N buskvikke
+M [en] koronafürt
+N buss
+M [en] busz |  gĺ pĺ bussen= felszállni a buszra |  gĺ av bussen= leszállni a buszról |
+N bussen
+M stopper= megáll a busz |  ta bussen busszal menni |  bytte buss= átszállni
+N busserull
+M [en] zubbony
+N bussrute
+M [en] buszmenet
+N bussterminal
+M [en] kocsiállás
+N bust
+M [en] sörte | tüskés haj |  reise bust= felborzolódni >felborzolja a szőrét
+N bustet
+M bustete= borzas | kócos
+N busthirse
+M grřnn= zöld muhar
+N butikk
+M [en] bolt | üzlet |  ĺpne en butikk= üzletet nyítani | butikken er ĺpen=nyitva van az üzlet |  i butikken= a boltban | butikktyv,en áruházi tolvaj
+N by
+M [en] város;várost | byer= városok;városokat |  byene=a városok;a városokat | dra ut av byen= vidékre utazni | i byen=a belvárosban gĺ pĺ byen=szórakozni/mulatni menni |  var ute pĺ byen= mulatott | szórakozott | lřrdags- kveld pĺ byen
+N by
+M megkinálni | byr=kinálkozik | kinál;kinálja břd | har bydd= kinálkozott | megkinálta | byr ham et glass vin= bort teremt neki | by pĺ=megkinálni vele |  ble budt en kaffekopp= megkinálták kávéval |  nĺr anledningen byr seg= alkalom adtán |  by opp en dame= felkérni a hölgyet egy táncra | táncra kérni
+N by
+M [en] város;várost | byer= városok;városokat |  byene=a városok;a városokat | dra ut av byen= vidékre utazni | i byen=a belvárosban gĺ pĺ byen=szórakozni/mulatni menni |  var ute pĺ byen= mulatott | szórakozott | lřrdags- kveld pĺ byen
+N by
+M megkinálni | byr=kinálkozik | kinál;kinálja břd | har bydd= kinálkozott | megkinálta | byr ham et glass vin= bort teremt neki | by pĺ=megkinálni vele |  ble budt en kaffekopp= megkinálták kávéval |  nĺr anledningen byr seg= alkalom adtán |  by opp en dame= felkérni a hölgyet egy táncra | táncra kérni
+N bydel
+M [en] városrész;városrészt | negyed |  kerület
+N bydende
+M parancsoló
+N byfogd
+M [en] házasságkötő iroda
+N byfolk
+M [et] a városiak
+N bygd
+M [en] (bygda)= falu;falut |  i bygda= a faluban |  pĺ bygda= faluhelyen | fra bygda= faluról |  bygdefolk= falubeliek | falusiak |
+N bygdejente
+M [en] falusi lány |  bygdelag,et= >kisgazdaegyesület | bygdevei,en=bekötöút |  bygdeutvikling,en= falufejlesztés
+N byge
+M [en] zápor | zivatar
+N bygevćr
+M [et] zivataros idő
+N bygg
+M [et] épület;épületet
+N bygge
+M építeni | bygde=épített;épített |  |
+N bygg
+M [et] épület;épületet
+N bygge
+M építeni | bygde=épített;épített |  |
+N bygge
+M építeni | bygde=épített;építette |  har bygd= (fel)építette |  ble bygget= építettékPASS |  fugler bygger reder= a madarak fészket raknak
+N byggherre
+M [en] építkező | épület tulajdonosa
+N bygging
+M [en] építkezés
+N byggmester
+M [en] építkezési vállalat |  kőműves mester
+N bygning
+M [en] épület;épületet
+N bygningsplass
+M [en] építési terület
+N bygsel
+M [en] terület bérletbeadása | kibérlése
+N bygsle
+M kiadni bérletbe | kibérelni |  bygslet |  har bygslet= kibérelte  | bygsle seg jord= kiveszi bérletbe | kibérli |  bygsle bort en gĺrd= bérbe adja a tanyát |  bygsle en hyttetomt >a vikendház telkét bérelni
+N bygĺrd
+M [en] albérleti ház | bérház
+N bygĺrdsleilighet
+M [en] albérleti lakás
+N bykjerne
+M [en] belváros | városközpont
+N byks
+M [et] ugrás |  var pĺ bena i et byks= nyomban felpattant |  felszökött (a kutya)
+N bykse
+M (ugrálva) vágtatni | bykste | har bykst vágtatott
+N byll
+M [en] gennyedés
+N bylt
+M [en] batyu;batyut
+N bymenneske
+M [et] városi ember
+N byrd
+M [en] származás | születés |  han var av fornem byrd= előkelő származású volt
+N byrde
+M [en] teher;terhet
+N byrdefull
+M byrdefullt >terhelő | terhére van |  teherrel megrakva
+N byrĺ
+M [et] iroda;irodát
+N byrĺkrat
+M [en] bürokrata |  byrĺkrati,et= bürokrácia |  byrĺkratisk= bürokratikus
+N byste
+M [en] mellszobor
+N bytte
+M cserélni | átöltözni |  han bytter med henne= cserél vele |  bytte til seg noe= elcserélni | átcserélni |  byttes ut= kicserélik |   mĺ byttes ut= ki kell cserélni | bytte buss= átszállni |  hun byttet til kirkeklćr= átöltözött ünneplőbe | bytte,et= zsákmány; zsákmányt | préda |  i bytte mot PREP= cserébe
+N bytting
+M [en] csere | cserélés
+N byvortemelk
+M kutyatej
+N bátyátok
+M bátyátokat |  öcsétek;öcséteket |  deres bror= bátyjuk;bátyjukat |  öccsük; öccsüket
+N bĺde
+M .. og ..=  is .. is
+N bĺl
+M [et] pásztortűz | tábortűz | máglya |  ved bĺlet i skogen >tábortűz mellett |  de brentekvinner pĺ bĺlet >máglyán égették el őket |  han mĺtte bestige bĺlet >máglyahalálra itélték
+N bĺnd
+M [et] szalag | kötő |  legge bĺnd pĺ seg= zabolázza indulatait |  ha hunden sin i bĺnd=pórázon tartani a kutyát |  den mĺ fřres/ holdes i bĺnd= pórázon kell tartani |  pĺ lřpende bĺnd= futószalagon | samtalen ble tatt opp pĺ bĺnd= hangszalagra vették fel a | beszélgetést
+N bĺndtvang
+M [en] det er bĺndtvang for hunder a tulajdonos pórázon köteles | tartani a kutyáját
+N bĺnsull
+M [en] bölcsődal
+N bĺr
+M [en] (bĺra)= talicska | tragacs
+N bĺre
+M [en] hordágy;hordágyat | de bar ham ut i bĺre= hordágyon vitték ki
+N bĺs
+M [en] fülke (tehenek helye az istállóban)
+N bĺt
+M [en] csónak;csónakot |  utasszállító hajómed bĺten= hajón | hajóval |  en tur pĺ sjřen med bĺt= csónakázás a tengeren |  han var ute i bĺten sin= csónakázott | DanskebĺtenOsló és Koppenhága között közlekedő, gépjármüveket | és utasokat szállító hajó |  bĺten gikk ned= elsüllyedt | bĺten gikk rundt /bĺten kantret= felborult a csónak
+N bĺtlivet
+M tengeren/csónakon töltött szabadidő
+N bĺtmannskap
+M [et] a hajó legénysége
+N bĺtnaust
+M [et] csónakház
+N bĺttur
+M [en] csónakázás | hajóút
+N bĺtvant
+M tud bánni a csónakokkal |  ismeri a tenger szeszélyeit
+N bćr
+M [et] bogyó | bogyót >eper | málna | szeder |  áfonya
+N bćre
+M hordani | vinni |  bćrer= hord;hordja |  visz;viszi |  bar | har bĺret= vitt;vitte | elvitte |  bćrer byrden= hordja a terhet |  det er en tung břr ĺ bćre= nehéz terhet hord |  bćre med seg= magával vinni | hordani | hordozni |  bćre nisselua= kötött,vörös hálósapkában jár | jóhiszemű,együgyű,makacs természetü norvég |  bćre pĺ= cipelni | hun gĺr og bćrer pĺ et barn |  bćrer fram et barn= szíve alatt hordja a magzatát |  treet bćrer frukter= a fa gyümölcsöt terem |  gyümölcsözik |  bćre seg over= sopánkodni | Hvordan han bćrer seg! Hogy megjátsza magát! | bćre sorg>gyászol bćre hat til ham=gyűlölni | bćrer navnet NN NN címén/gyanánt | bćre pĺ en hemmelighet titokban tartja | titkolja | vinden bćrer fra land a szárazföld felől fúj a szél | gutten bar pĺ et gevćr | syv barn har hun bĺret=hétszer volt terhes |  sĺ bćrer det av sted til= aztán irány a/az ... |  vćrtegn som bćrer bud om bedre sommer= előjelek,amelyek | szép nyári időjárást igérnek |  hun bar et spedbarn ved sitt bryst |  drřmmen har jeg bĺret pĺ i snart 50 ĺr |  avisen ser ikke ut til ĺ bćre seg řkonomisk |  skriv den romanen du gĺr og bćrer pĺ |  de bar og bar vann fra en bekk like ved= vizet hordoztak | a patakról |  bćre et plagg med innsiden ut= kifordítva viseli a ruháját |  frykten ble bĺret oppe av Stalins řkende terror |  landskapet bar preg av isens arbeid (i istiden) | du skal ikke bćre nag= ne haragudj rá
+N bćrebĺr
+M [en] hordágy;hordágyat
+N bćrfis
+M [en] bogyómászó poloska
+N bćring
+M [en] Bćrum-ban lakó személy
+N bćrlyng
+M [en] áfonyavessző
+N bćrplukking
+M [en] (eper,áfonya)szedés
+N bćrtege
+M [en] bogyómászó poloska
+N Bćrum
+M Oslo melletti település (délre, dél-nyugatra)
+N břddel
+M [en] hóhér | hóhérlegény |  břdler= hóhérok
+N břffel
+M enI bivaly |  břfler= bivalyok
+N břk
+M [en] bükk;bükkfa |  břketre,et= bükkfa
+N břkker
+M [en] kádár
+N břkling
+M [en] füstölt hering
+N břksanger
+M [en] sisegő füzike
+N břlge
+M hullámozni |  břlget | har břlget=hullámzott |  břlge,en= hullám;hullámot |
+N břlgeblikk
+M [et] pléh
+N břlgende
+M hullámzó |  et břlgende landskap hullámzó táj | dombos vidék
+N břlger
+M [pĺ] 10 meter= tíz méter magas hullámok
+N břlgete
+M hullámos
+N břling
+M [en] tehéncsorda | jószág
+N břlle
+M [en] csibész | csirkefogó | szemét alak
+N břllet
+M břllete ADJ= szemét | durva | goromba
+N břnn
+M [en] ima | imádság | kérelem
+N břnne
+M [en] bab;babot | paszuly
+N břnnesuppe
+M [en] bableves
+N břnnfalle
+M esedezni | könyörögni | rimánkodni |  břnnfalt | har břnnfalt= esedezett | rimánkodott | könyörgött
+N břr
+M burde= tennie kellene |  vi břr gjřre det meg kellene tennünk
+N břr
+M [en] (břra)= teher;terhet | szél |  det var en real břr >jókora málha volt
+N břr
+M burde= tennie kellene |  vi břr gjřre det meg kellene tennünk
+N břr
+M [en] (břra)= teher;terhet | szél |  det var en real břr >jókora málha volt
+N břrs
+M [en] tőzsde
+N břrse
+M [en] (břrsa)= puska;puskát břrsemaker,en= fegyverkovács
+N břrste
+M kefélni | břrstet | har břrstet= kefélte |  lekefélte |  břrste av= lekefélni róla
+N břrste
+M [en] kefe;kefét
+N břrste
+M kefélni | břrstet | har břrstet= kefélte |  lekefélte |  břrste av= lekefélni róla
+N břrste
+M [en] kefe;kefét
+N břsse
+M [en] persely |  putte penger pĺ břssen pénzt dob a perselybe
+N břte
+M foltozni | břter= foltoz;foltozza |  břtte foltozott;foltozta |  har břtt= megfoltozta |  binder og břter fiskegarn= öltögeti a halász a hálóját |  břter buksa= foltozza a nadrágot |
+N břte
+M [pĺ] skaden= jóváteszi a hibát/kárt |  Den břter med kropp som ikke har ku KÖZM=Kinek nincs tehene | magát töri az igába
+N břte
+M foltozni | břter= foltoz;foltozza |  břtte foltozott;foltozta |  har břtt= megfoltozta |  binder og břter fiskegarn= öltögeti a halász a hálóját |  břter buksa= foltozza a nadrágot |
+N břte
+M [pĺ] skaden= jóváteszi a hibát/kárt |  Den břter med kropp som ikke har ku KÖZM=Kinek nincs tehene | magát töri az igába
+N břtelegge
+M ham= megbüntetni >pénzbírság |  břtela | har břtelagt= megbüntette
+N břtte
+M [en] (břtta)= vödör;vödröt | cseber |  csöbör |  břtter= vödrök;vödröket
+N břyd
+M břyde= elgörbült | elgörbített | görbe |  břyd verb=ragozott íge | břyd over= föléje hajolva
+N břye
+M elgörbíteni | meghajlítani | igét ragozni břye seg=lehajolni | meghajolni | Det er ingen sĺ lang han ei mĺ třye seg,og ingen sĺ lav | han ei mĺ břye seg/Det er ingen sĺ hřy at han ei mĺ břye | seg,og ingen sĺ liten at han ei mĺ třye seg KÖZM= Senki | sem olyan magas,hogy ne kellenne neki nyújtózkodnia és senki | sem olyan alacsony,hogy meg  ne kellene neki hajolnia | břye seg forover/břye seg fram=előrehajolni | mĺ břye seg for ham le kell neki borulni elötte |  han břyde seg tiljorden for ham= földre borult előtte
+N břyelig
+M hajlítható | hajlékony
+N břying
+M [en] hajlítás
+N břyle
+M [en] kengyel;kengyelt
+N břylehest
+M [en] ló >torna
+N břyning
+M [en] igeragozás
+N ca.
+M körülbelül
+N camp
+M [en] tábor | táborhely
+N campe
+M kempingezni | táborozni |  campet |  har campet= kempingezett |  sátorban/ lakókocsiban táborozott
+N camping
+M [en] kemping | táborozás | campingezés | de bor pĺ camping= táboroznak >így nyaralnak
+N campingvogn
+M [en] lakókocsi
+N Canada
+M Kanada
+N canadier
+M [en] (kanadier,en)= kanadai lakos
+N canadisk
+M (kanadisk)= kanadai
+N cand.
+M kandidátusa (egyetemi cím |  cand phil= nyelvész |  cand.mag-grad,en= segédtanár | magiszterdiploma
+N Capella
+M Kecske >csillagkép
+N carte
+M étlap |  á la carte >konyha ajánlata szerint
+N catering
+M [en] élelemszogáltatás (nagyüzemi módon)
+N cayenpepper
+M cayeni bors
+N celeber
+M celebert,celebre= ünnepelt | híres
+N celle
+M [en] sejt;sejtet | cella |  celler= sejtek; sejteket |  cellekjerne,en= sejtmag
+N cellist
+M [en] gordonkamüvész
+N cello
+M [en] cselló;gordonka
+N cellofan
+M [en] celofán
+N celluloid
+M [en] celluloid >műanyag
+N cellulose
+M [en] cellulóz
+N celsiusgrad
+M [en] celzius
+N cembalo
+M [en] csembaló
+N cent
+M [en] a dollár 1/100-a
+N centiliter
+M [en] centiliter
+N centimeter
+M [en] centiméter
+N cerebral
+M parese= agybénulás
+N champagne
+M [en] pezsgő;pezsgőt
+N champagnetetra
+M citromlazac
+N charme
+M [en] (sjarm,en)= báj |  charmere/ sjarmere= elbájolni | elbűvölni
+N charmerende
+M (sjarmerende)= elbűvölő | bájos | charmřr,en (sjarmřr,en) >nőcsábász
+N charterfly
+M [et] bérelt repülő
+N chartre
+M repülőt bérelni ki |  chartret | har chartret= kibérelt;kibérelte
+N chassis
+M [et] keret | váz | alváz
+N cherrybarbe
+M [en] vörös karcsú díszmárna
+N Chile
+M Chile |  chilener,en= chilei személy |
+N chilensk
+M chilei
+N chips
+M [en] hasábkrumpli
+N choke
+M [en] fojtószelep
+N cholesterol
+M [en] (cholesterol,et)= koleszterin
+N cicerone
+M [en] idegenvezető
+N cider
+M [en] almabor | almamust
+N cirka
+M (ca.)= körülbelül
+N citadell
+M [et] citadella | vár
+N city
+M [et] belváros
+N clairvoyant
+M jövőbelátó | jós
+N clutch
+M [en] kuplung;kuplungot
+N clutche
+M kapcsolni (a tengelyt)
+N coca-cola
+M [en] coca-cola
+N cockpit
+M [en] pilótaülés
+N cocktail
+M [en] koktél;koktélt
+N Colombia
+M Kolumbia |  colombianer,en= kolumbiai személy |  colombiansk ADJ= kolumbiai
+N coloradobille
+M [en] burgonyabogár
+N comeback
+M [et] újrakezdés >visszatérés
+N container
+M [en] tartály >kuka | tartályhajó |  tartálykocsi
+N copyright
+M [en] szerzői jog
+N corner
+M [en] szögletrúgás
+N cornflakes
+M [en] kukoricapehely
+N Costa
+M Rica | costaricaner,en= costaricai személy |  costaricansk= costaricai
+N cowboy
+M [en] lovas marhaterelő
+N crawl
+M [en] mellúszás | gyorsúszás |  crawle= kallózni |  crawlte= kallózott
+N cruise
+M [et] tengeri sétaút | sétahajózás
+N Cuba
+M Kuba |  cubaner,en= kubai személy |  cubansk (kubansk)ADJ= kubai
+N cup
+M [en] kupa | serleg;serleget
+N cymbal
+M [en] cimbalom
+N da
+M akkor | amikor;mikor | aztán
+N dabbe
+M [av] csökkenni |  dabber av= csökken |  esik |  dabbet av | har dabbet av= csökkent
+N daddel
+M [en] dorgálás | szemrehányás
+N dadle
+M dorgálni |  dadler= dorgál;dorgálja |  dadlet | har dadlet=dorgált;dorgálta | szemére hányta
+N daffe
+M henyélni | lustálkodni |  daffer= henyél |  daffet | har daffet= henyélt | lustálkodott
+N dag
+M [en] nap;napot |  dager= napok;napokat |  dagene= a napok;nappalok |  dag etter dag= nap mint nap |  pĺ en dag= egy nap alatt |  dagen= naponta |  dagen etter= a következő nap | másnap |  dagen fřr= előző nap(on) |  dagen derpĺ >másnapos | dagen lang=egésznap | reggeltől-estig |  en gang om dagen= naponta egyszer |  her om dagen= a minap | i dagen=a felszínen | alle mine dager= életem minden napján |  pĺ sine dager=öreg korában i disse dager= a napokban | napjainkban | ikkemange dager etter= nem sok nappal rá |  Ingen kjenner dagen fřr sola gĺr ned KÖZM= Nyugtával dicsérd | a napot ORDT
+N dagbok
+M [en] napló;naplót
+N dagevis
+M i dagevis= napokon át
+N dagfiol
+M [en] estike
+N daggry
+M [et] pirkadat | hajnal |  fřr daggry= hajnalhasadás előtt
+N daglig
+M napi ADJ naponta ADV | det daglige brřd= a mindennapi kenyér
+N dagligdags
+M mindennap előforduló | köznapi
+N dagligtale
+M [en] köznapi beszéd |  i norsk dagligtale
+N dagmamma
+M [en] dajka
+N dagpĺfuglřye
+M nappali pávaszem
+N dagslys
+M [et] napvilág
+N Dagsnytt
+M esti híradó
+N dagsorden
+M [en] napirend
+N dagsverk
+M [et] napi norma/munka
+N dagtid
+M [pĺ] dagtid= napközben
+N dal
+M [en] völgy;völgyet |  daler= völgyek |  bor nede i dalen= lent a völgyben lakik
+N dale
+M hullani |  dalte | har dalt= hullott >a hó | solen daler= lemenőben van a nap/lemegy/ hanyatlik
+N daler
+M [en] dollár RéGIES
+N dalrype
+M [en] sarki hófajd
+N dalsřkk
+M [et] horhos
+N dam
+M [en] (dammen)= felduzzasztott víz |  tó
+N dame..
+M nöi ..
+N damp
+M [en] gőz;gőzt |  dampbĺt,en= gőzhajó
+N dampe
+M gőzölni | gőzölögni |  dampet | har dampet= gőzölt | gőzölgött |  dampe b |  |
+N dame..
+M nöi ..
+N damp
+M [en] gőz;gőzt |  dampbĺt,en= gőzhajó
+N dampe
+M gőzölni | gőzölögni |  dampet | har dampet= gőzölt | gőzölgött |  dampe b |  |
+N damp
+M [en] gőz;gőzt |  dampbĺt,en= gőzhajó
+N dampe
+M gőzölni | gőzölögni |  dampet | har dampet= gőzölt | gőzölgött |  dampe bort= elppárologni
+N dampskip
+M [et] gőzhajó
+N danke
+M [ut] kiszorítani |  danket ut | har danket ut= kiszorította |  traktoren danket ut hesten
+N Danmark
+M Dánia;Dániát
+N dann
+M og vann= néha-néha | néhanapján
+N danne
+M képezni | képződni | dannet | har dannet képzett | képződött
+N dannebrog
+M [et] a dán nemzeti lobogó
+N dannelse
+M [en] képződmény | műveltség |  képzettség
+N dannet
+M [ADJ] képzett | művelt | tanult >ember
+N dans
+M [en] tánc;táncot |  det har gĺtt som en dans >ment,mint a karikacsapás |  hun ble budt opp til dans= felkérték táncra |  táncoltatták
+N danse
+M táncolni |  danset | har danset=táncolt |  la oss danse litt= táncoljunk egyet |  Skal vi
+N danse?
+M Szabad (egy táncra)?
+N danse
+M táncolni |  danset | har danset=táncolt |  la oss danse litt= táncoljunk egyet |  Skal vi
+N danse?
+M Szabad (egy táncra)?
+N danser
+M [en] táncos | danserinne,en= táncosnő
+N dansk
+M danskeADJ=dán | dánul ADV | danske, en= dán személy |  dansker= dánok
+N danskekongen
+M a dán-norvég király HIST
+N dashbord
+M [et] műszerfal >gépjárművön
+N dask
+M [en] han har fĺtt dask pĺ lanken= rácsaptak a mancsára
+N dass
+M [en] árnyékszék | reterát
+N data
+M [en] adat;adatot |  dataene= az adatok; az adatokat |  datamaskin,en= számítógép
+N dataspill
+M [et] számítógépes játék
+N dativ
+M [en] részeseset DAT
+N dato
+M [en] dátum | keltezés
+N datter
+M [en] (datra)= lánya;lányát |  dřtre= lányai;lányait |  dřtrene= a lányai |  datteren min= a lányom;lányomat |  datteren din= a lányod;lányodat | datteren hans/hennes/sin= a lánya;a lányát |  datteren vĺr= a lányunk; lányunkat |  datteren deres= a lányatok; lányatokat | datteren deres=a lányuk;a lányukat |  hun er datter til NN= NN lánya |  hun er datra mi PIV= ő a lányom |  Han skal se vel pĺ mora som vil ha datra KÖZM= Nézd meg | az anyját,vedd el a lányát ORDT
+N datum
+M [en] dátum | keltezés | kelet
+N de
+M ők |  De= ön | önök
+N debatt
+M [en] vita;vitát |  debattant,en= a vita résztvevője |  debattere= megvitatni | vitatni |  debatterte | har debattert= megvitatták
+N debut
+M [en] début |  az első szereplés/fellépés
+N debutant
+M [en] aki először lép fel
+N debutere
+M debütálni |  először szerepelni/ lépni fel |  debuterte | har debutert >lépett fel/ szerepelt
+N dedikasjon
+M [en] ajánlás | dedikáció
+N dedisere
+M ajánlani | dedikálni neki |  dediserte |  har dedisert= neki dedikálta
+N defekt
+M hiányos | hibás |  defekt,en= hiba
+N defensiv
+M [en] védekező állás | védelem
+N defilere
+M elvonulni előtte |  defilerte | har defilert= elvonúlt >díszmenetben
+N definere
+M meghatározni | definiálni | definerte |  har definert= meghatározott;meghatározta
+N definisjon
+M [en] definíció | meghatározás(a)
+N definitiv
+M definitivt ADJ= végleg | végleges |  ADV véglegesen
+N deformere
+M deformálni | eltorzítani |  deformerte | har deformert= deformálta |  eltorzította
+N deg
+M [AKK] téged;tégedet | magadat |  DAT neked | néked
+N degenerasjon
+M [en] elfajultság | degeneráció
+N degenerere
+M elfajulni |  degenererte | har degenerert= elfajult | degenerált
+N degge
+M [for] szoptatni | etetni >borjút,bárányt dedesgetni |  degget for= dedesgetett;dedesgette
+N degradere
+M lefokozni |  degraderte | har degradert= lefokozta | degradálta
+N deig
+M [en] tészta;tésztát
+N deilig
+M ízletes | nagyon jó/szép |  pompás
+N dekadanse
+M [en] hanyatlás | dekadencia
+N dekadent
+M hanyatló | dekadens
+N dekar
+M [et] daa= et mĺl (1000 mÂ˛)
+N dekk
+M [et] fedélzet | gumi >keréken
+N dekke
+M takarni | megteríteni | fedezni | dekket |  har dekket= takarta | betakarta | megterítette |  dekker bordet= megteríti az asztalt |  hun dekker bordet for ham= asztalt terít neki |  dekket bord= terített asztal
+N dekke
+M [et] burkolat | fedél | fedő
+N dekke
+M takarni | megteríteni | fedezni | dekket |  har dekket= takarta | betakarta | megterítette |  dekker bordet= megteríti az asztalt |  hun dekker bordet for ham= asztalt terít neki |  dekket bord= terített asztal
+N dekke
+M [et] burkolat | fedél | fedő
+N dekkprodusenter
+M autógumigyártók
+N deklarasjon
+M [en] bevallás >vám
+N deklinasjon
+M [en] igeragozás
+N dekning
+M [en] fedezet | rejtekhely |  han mĺttei dekning= bujdosnia kellett neki |  Han har gĺtt i dekning= elrejtőzött valahol
+N dekor
+M [en] dísz | díszitmény | díszlet
+N dekorere
+M diszíteni | kidiszíteni |  dekorerte |  har dekorert= kidiszítette >pynte
+N deksel
+M [et] (dekslet)= fedő |  teteje
+N del
+M [en] rész | része |  deler= részek | részei
+N delaktig
+M részes | részt vesz
+N dele
+M osztani | elosztani |  dele med= osztani |  megosztani | osztozkodni/osztozni vele | dele ut= kiosztani | szétosztani |  deler ikke hans syn= nem ért egyet vele |  de delte villig med ham det de hadde av mat og klćr
+N delegasjon
+M [en] küldöttség;küldöttséget
+N delegat
+M [en] küldött | kiküldött | delegátus
+N delfin
+M [en] (játékos) delfin
+N delikat
+M csemege.. | kényes ADJ | delikatesse, en= csemege | inyenc falat | különbnél különb falat
+N deling
+M [en] osztás | osztozás |  pĺ deling= közösen
+N delirium
+M [et] delírium | önkívület >rémkép
+N delje
+M csépelni | ütni-verni |  deljet | har deljet= ütötte-verte
+N delta
+M résztvenni |  deltok | har deltatt= résztvett |  deltar i=részt vesz rajta |  delta i krigen |  han deltok i innelivet med liv og lyst
+N delta
+M [et] delta
+N delta
+M résztvenni |  deltok | har deltatt= résztvett |  deltar i=részt vesz rajta |  delta i krigen |  han deltok i innelivet med liv og lyst
+N delta
+M [et] delta
+N deltakelse
+M [en] részvétel | deltaker,en= résztvevő
+N deltidsarbeid
+M [et] mellékfoglalkozás | mellékkereset
+N delvis
+M részben | részleges
+N dem
+M [AKK] őket |  DAT nekik |  Dem= önt; önöket |  DAT önnek | önöknek | magának
+N demagog
+M [en] demagóg >lázasztó
+N demagogi
+M [et] demagógia >lázasztás
+N dementere
+M dementálni | cáfolni | megcáfolni |  dementerte | har dementert= (meg)cáfolta
+N dementi
+M [et] cáfolat
+N demme
+M felduzzasztani | gátolni |  demte | har demt= felduzzasztotta | elgátolta
+N demning
+M [en] duzzasztó | gát | víztározó
+N demokrat
+M [en] demokrata
+N demokrati
+M [et] demokrácia | köztársaság
+N demokratisere
+M demokratizálni |  demokrati-serte | har demokratisert= demokratizált(a)
+N demokratisk
+M demokratikus
+N demon
+M [en] gonosz lélek |  demonisk ADJ= gonosz
+N demonstrant
+M [en] tüntető
+N demonstrasjon
+M [en] tüntetés | bemutatás
+N demonstrativ
+M mutató névmás
+N demonstrere
+M bemutatni | tüntetni demontere= leszerelni | lebontani >a berendezést |  demonterte | har demontert= leszerelte | lebontotta
+N demoralisere
+M elkedvteleníteni | demoralizálni |  elvenni a kedvét |  demoraliserte | har demoralisert=elvette akedvét | demoralizálta
+N dempe
+M lehalkítani |  dempet | har dempet= lehalkította |  de hadde dempet seg= elcsöndesedtek
+N demre
+M pirkadni |  demret | har demret= pirkadt |  demring,en= hajnal | pirkadat
+N den
+M slags= afféle | efféle
+N deodorant
+M [en] illatszer | piperecikk
+N departement
+M [et] minisztérium
+N deponere
+M deponálni | letétbe helyezni |  deponerte | har deponert= deponált;deponálta | letétbe helyezte
+N deportasjon
+M [en] deportálás | deportáció |  elhurcolt |  |
+N den
+M slags= afféle | efféle
+N deodorant
+M [en] illatszer | piperecikk
+N departement
+M [et] minisztérium
+N deponere
+M deponálni | letétbe helyezni |  deponerte | har deponert= deponált;deponálta | letétbe helyezte
+N deportasjon
+M [en] deportálás | deportáció |  elhurcolt |  |
+N den
+M slags= afféle | efféle
+N deodorant
+M [en] illatszer | piperecikk
+N departement
+M [et] minisztérium
+N deponere
+M deponálni | letétbe helyezni |  deponerte | har deponert= deponált;deponálta | letétbe helyezte
+N deportasjon
+M [en] deportálás | deportáció |  elhurcolt |  |
+N denge
+M elverni |  dengte | har dengt= elverte |  de kunne komme til ĺ denge meg= tán meg is vernének
+N denne
+M dette= ez;ezt | ez a | ez az >disse
+N deodorant
+M [en] illatszer | piperecikk
+N departement
+M [et] minisztérium
+N deponere
+M deponálni | letétbe helyezni |  deponerte | har deponert= deponált;deponálta | letétbe helyezte
+N deportasjon
+M [en] deportálás | deportáció |  elhurcoltatás >kilakoltatás |
+N deportere
+M deportálni | elhurcolni | deporterte har deportert= elhurcolt | elhurcolták
+N depositum
+M [et] letét | foglaló >zálog
+N depot
+M [et] raktár,szertár
+N depresjon
+M [en] depresszió | lehangoltság |  kóros levertség
+N deprimert
+M elcsüggedt | lehangolt | levert
+N der
+M ott | ahol | oda | der ute= odakint |  der borte= amott
+N derav
+M ebből | abból  |
+N der
+M ott | ahol | oda | der ute= odakint |  der borte= amott
+N derav
+M ebből | abból  |
+N derav
+M ebből | abból
+N dere
+M ti | titeket | nektek | magatokat
+N deres
+M tiétek | övék |  Deres=öné | önöké |  övék |  a magáé
+N deretter
+M azután | aztán | utána
+N derfor
+M azért | ezért
+N derfra
+M onnan | onnét
+N deriblant
+M közt | köztük
+N derimot
+M azonban | ellenben
+N dermed
+M ezzel | így aztán
+N dernest
+M azután | utána
+N dersom
+M ha | hogyha
+N desember
+M december;decembert
+N desertere
+M elszökni | dezertálni >katona szökevény |  deserterte | har desertert= elszökött | dezertált | desertřr,en= dezertőr |  katonaszökevény
+N desibel
+M [en] (dB)= decibel
+N desidert
+M nagy fölénnyel | fölényesen
+N design
+M [en] divatterv |  designer,en= divattervező
+N desiliter
+M [en] deci;decit | deciliter
+N desillusjonert
+M csalódott | csalatkozott
+N desimal
+M [en] decimális | tízedes | tízes
+N desimeter
+M [en] deciméter
+N desinfeksjon
+M [en] fertőtlenítés |  desinfisere= fertőtleníteni |  desinfiserte | har desinfisert= fertötlenítette
+N desmerurt
+M [en] pézsmaboglár
+N desperado
+M [en] elszánt,mindenre képes bűnöző |  desperasjon,en= kétségbeesés |  elszántság még a reménytelen helyzetben is |  desperat= deszperált | kétségbeesett
+N despot
+M [en] zsarnok | despoti,et= zsarnokság
+N despoter
+M (som Hitler,Stalin) >hódolt nekik |  rajongott értük |  dyrket mark= művelt föld
+N despotisk
+M zsarnoki
+N dess
+M desto= annál >inkább | jobban
+N dessert
+M [en] desszert;desszertet | édesség
+N dessuten
+M azonkívűl
+N dessverre
+M sajnos
+N destillere
+M desztillálni | lepárolni |  destillerte |  har destillert= desztillált | lepárolta
+N desto
+M annál | desto bedre= annál jobb | desto mer= annál inkább
+N destruere
+M lerombolni | megsemmisíteni
+N destruksjon
+M [en] lerombolás | megsemmisítés
+N destruktiv
+M romboló | megsemmisítő
+N det
+M az;azt >ő | őt |  det er meg= én vagyok (az) | det er bra= jól van! | helyes! | det er kaldt hideg van |  det er kjřlig= hűvös van |  det er varmt= meleg van |  det blĺser=fúj a szél | det regner=esik az eső | det přser=zuhog az eső det snřr= esik a hó | havazik |  det tordner= dörög az ég |  det lyner= villámlik |  det er lřrdag= szombat van |  der stĺr lys pĺ inne i huset=ég náluk a világ |  det lakker mot kveld= esteledik |  det var det jeg tenkte= éppen erre gondoltam |  det var det= hát ez az egész |  det gjřr ikke noe= semmi,kérem! det var en gang= hol volt |  hol nem volt | det er 12 mĺneder i ĺret |  Hĺper du har det bra! Det har jeg= én jól vagyok |  Det gĺr deg godt= jó dolgod van BIBL |  det gĺr mot sommer= közeleg a nyár |  det koster en million= egy millióba kerül |  det finnes(det fins)= létezik | van |  Det Gamle Testamente= ószövetség |  Det Nye Testamente= újszövetség
+N detalj
+M [en] részlet;részletet
+N detaljert
+M részleges ADJ részlegesen ADV
+N detektiv
+M [en] nyomozó
+N detektor
+M [en] detektor
+N detonasjon
+M [en] robbantás | robbanás
+N detonere
+M robbantani | robbanni |  detonerte |  har detonert= (fel)robbantott | robbant
+N dette
+M elesni | leesni | detter= elesik |  datt | har
+N dettet
+M elesett | leesett |  trćr detter i bakken k |  |
+N dette
+M elesni | leesni | detter= elesik |  datt | har
+N dettet
+M elesett | leesett |  trćr detter i bakken k |  |
+N dettet
+M elesett | leesett |  trćr detter i bakken kidölnek a fák |  Det hřrer med til dansen,sa gutten; han datt i koll KÖZM=Ez | is vele jár ,mondta a néhai legény,és hanyatt esett a tánc | közben
+N devaluere
+M csökkenteni a valuta értékét |  leértékelni |  devaluerte | har devaluert= leértékelték |  devaluering,en= leértékelés
+N diabetes
+M [en] cukorbetegség
+N diagnose
+M [en]
+N diagnostisere
+M diagnostiserte
+N diagonal
+M diagonalt= átellenes
+N diagonalt
+M átlós | diagonális |  diagonal,en= átló;átlót
+N diagram
+M [et] diagram
+N dialekt
+M [en] nyelvjárás;nyelvjárást | tájnyelv |  tájszólás
+N dialog
+M [en] párbeszéd
+N diamant
+M [en] gyémánt;gyémántot
+N diamantring
+M [en] briliáns gyűrű
+N diameter
+M [en] átmérő;átmérőt | diaméter |  i diameter >átmérőjű
+N diametral
+M diametralt= átellenes | diametrális
+N diaré
+M [en] hasmenés
+N die
+M szoptatni |  diet | har diet= szoptatott; szoptatta
+N dieselmotor
+M [en]
+N diett
+M [en] diéta
+N differanse
+M [en] differencia | különbség
+N differensial
+M [en] pĺ bilen= differenciálmű
+N differensiere
+M differenciálni |  differensierte har differensiert= differenciált
+N diffus
+M diffust= diffúz | ködös | zavaros
+N difteri
+M [et] diftéria | torokgyík
+N diftong
+M [en] diftongus | kettőshangzó
+N digel
+M [en] olvasztókemence
+N diger
+M digert,digre= óriási
+N dike
+M [et] sánc
+N dikt
+M [et] költemény;költeményt | vers;verset
+N diktat
+M [en] diktálás | tollbamondás
+N diktat
+M [et] diktátum | parancs |  diktator,en= zsarnok | diktátor |  diktatorisk= zsarnoki |  zsarnokoskodó |  diktatur,et= zsarnokság
+N diktat
+M [en] diktálás | tollbamondás
+N diktat
+M [et] diktátum | parancs |  diktator,en= zsarnok | diktátor |  diktatorisk= zsarnoki |  zsarnokoskodó |  diktatur,et= zsarnokság
+N dikte
+M költeni | verset írni |  diktet | har diktet= költött | verset írt |  dikte opp= kieszelni |  kiagyalni
+N dikter
+M [en] költő;költőt |  diktere= költők
+N diktere
+M diktálni |  dikterte | har diktert= diktált;diktálta
+N diktning
+M [en] költészet
+N dilemma
+M [et] dilemma
+N dilettant
+M [en] dilettáns
+N dill
+M [en] kapor;kaprot
+N dill
+M [et] zagyvaság
+N dill
+M [en] kapor;kaprot
+N dill
+M [et] zagyvaság
+N dilla
+M har dilla pĺ biler= az autók szerelmese dilte= baktatni | kullogni | diltet | har diltet= baktatott | kullogott |  dilte etter=baktat/ kullog utána
+N dimensjon
+M [en] méret | mérete
+N diminutiv
+M kicsinyítő
+N dimme
+M blende lyset pĺ kjřretřy= homályosítani | tompítani a fényt |  dimmet= tompította
+N din
+M ditt,dine= tiéd;tiédet |  a tieid | a te.. | Din jćvel! VULG= Te gané! | Te szemét! | Gĺ dinvei!= Menj innét!
+N dingle
+M lógni | lóbálni | lóbálódzani |  dinglet= har dinglet= lógott | lóbálódzott
+N dings
+M [en] izé
+N dinosaur
+M [en] dinoszaurusz
+N diode
+M [en] dióda;diódát>egyenirányító
+N diplom
+M [et] oklevél;oklevelet
+N diplomat
+M [en] diplomata |  diplomati,et= diplomácia |  diplomatisk= diplomatikus
+N direkte
+M egyenesen | közvetlen
+N direktřr
+M [en] igazgató;igazgatót
+N dirigent
+M [en] karmester
+N dirigere
+M irányítani | vezényelni |  dirigerte |  har dirigert=irányított;irányította | vezényelt; vezényelte
+N dirk
+M [en] álkulcs | tolvajkulcs |  dirke= tolvajkulccsal felnyitani | feltörni a zárat |  dirket |  har dirket= nyitogatta a zárat | dirke i lĺsen
+N dirre
+M remegni | rezegni |  dirret | har dirret= remegett | rezgett
+N dis
+M [en] köd;ködöt | pára |  disig= ködös | párás
+N disippel
+M [en] tanítványa | apostola |  disipler= apostolok | tanítványai
+N disk
+M [en] lemez
+N diskant
+M [en] diszkant | diskantregulering,en= diszkantszabályozás
+N diske
+M (diskvalifisere)= diszkvalifikálni |  disket | har disket= diszkvalifikálták
+N diske
+M [opp] feltálalni |  disket opp med= megkínálta vele
+N diske
+M (diskvalifisere)= diszkvalifikálni |  disket | har disket= diszkvalifikálták
+N diske
+M [opp] feltálalni |  disket opp med= megkínálta vele
+N diskett
+M [en] lemez
+N diskos
+M [en] diszkosz |  diskoskast,et= diszkoszvetés
+N diskriminere
+M diszkriminálni |  diskriminerte |  har diskriminert= diszkriminálta diskriminering,en= diszkriminálás
+N diskré
+M diszkrét |  diskresjon,en= diszkréció
+N diskusjon
+M [en] megbeszélés | vita | szóváltás
+N diskutabel
+M diskutabelt >kétséges | vitatható
+N diskutere
+M megbeszélni | megvitatni |  diskuterte | har diskutert= megbeszélték |  megvitatták
+N diskvalifisere
+M diszkvalifikálni | diskvalifiser- te | har diskvalifisert= diszkvalifikálta
+N dispensasjon
+M [en] felmentés | fölmentés
+N dispensere
+M felmenteni alóla |  dispenserte |  har dispensert= felmentette alóla
+N disponent
+M endiszponens | üzletvezető
+N disponere
+M rendelkezésére áll neki |  er disponert for= hajlama van rá
+N disponibel
+M disponibelt= rendelkezésre álló
+N disposisjon
+M [en] diszpozició | hajlam(a van rá) | rendelkezés | vázlat
+N disputas
+M [en] értekezés | disszertáció
+N disputere
+M értekezni róla | disszertálni |  disputerte | har disputert= értekezett róla
+N disse
+M ezek a(z)..;ezeket a(z)..
+N dissekere
+M boncolni | dissekerte | har dissekert boncolta |  disseksjon,en= boncolás
+N dissens
+M [en] nézeteltérés >más véleményen van
+N dissonans
+M [en] disszonancia
+N distanse
+M [en] táv | távolság
+N distinksjon
+M [en] megkülönböztetés | rangjel |  disztinkció
+N distrahere
+M elvonni a figyelmét |  distraherte |  har distrahert= elvonta a figyelmét
+N distraksjon
+M [en] szórakozottság |  distré= szórakozott
+N distribuere
+M kiosztani | szétosztani |  terjeszteni |  distribuerte | har distribuert= szétosztotta | terjesztette
+N distribusjon
+M [en] terjesztés(e)
+N distrikt
+M [et] környék | körzet | vidék |  i distriktet= a környéken
+N distriktspolitikk
+M [en] vidék fejlesztésével foglalkozó politika
+N dit
+M oda |  hit og dit= ide-oda
+N ditt
+M tiéd;tiédet |  a te ..
+N ditt
+M og datt= ezt is,azt is
+N ditt
+M tiéd;tiédet |  a te ..
+N ditt
+M og datt= ezt is,azt is
+N ditto
+M (do)= ugyanaz;ugyanazt
+N diva
+M [en] díva | ünnepelt művésznő
+N divan
+M [en] diván
+N diverse
+M különböző | többfajta
+N dividend
+M [en] osztandó >számtan
+N dividere
+M osztani >számtan |  dividerte |  har dividert= osztott;osztotta
+N divisjon
+M [en] MAT osztás |  MIL osztag
+N divisor
+M [en] osztó >számtan
+N djerv
+M djervt= bátor | vakmerő
+N djevel
+M [en] ördög;ördögöt | djevelsk=ördögi |  gonosz
+N dl
+M (desiliter)= deci;decit | deciliter
+N dm
+M (desimeter)= deciméter
+N do
+M [en] vécé | klozett | gĺ pĺ do= vécére menni
+N dobbe
+M [en] fülbevaló;fülbevalót
+N dobbel
+M dobbelt,doble= dupla | dobbelt sĺ= kétszer olyan >nagy,sok
+N dobbeltbekkasin
+M [en] nagy sárszalonka
+N dobbeltdřr
+M [en] duplaajtó
+N dobbeltgjenger
+M [en] hasonmás
+N dobbeltrost
+M [en] léprigó
+N dobbeltseng
+M [en] duplaágy
+N dobbeltvćrelse
+M [et] kétágyas szoba
+N doble
+M duplázni | kétszerezni |  doblet | har doblet= duplázott;duplázta
+N dog
+M RéGIES= mégis
+N dogg
+M [en] (dogga)= harmat;harmatot >pára
+N dogger
+M bepárásodik |  dogget | har dogget= bepárásodott |  dogget,doggete ADJ= párás
+N dogmatikk
+M [en] dogmatika |  dogmatisk= dogmatikus | dogmatikai | dogme,et= dogma
+N dokk
+M [en] skipsdokk,en= dokk
+N dokke
+M [en] (dokka)= baba;babát | játékbaba
+N dokter
+M [en] kaffidokter= szesz kávéba keverve
+N doktor
+M [en] doktor
+N doktrine
+M [en] doktrína
+N dokument
+M [et] okirat | okmány | dokumentum
+N dokumentarfilm
+M [en] dokumentfilm
+N dokumentasjon
+M [en] dokumentáció
+N dokumentere
+M dokumentálni | dokumenterte har dokumentert= dokumentálta
+N dolk
+M [en] tőr;tőrt
+N dolke
+M ledöfni >tőrrel |  dolket | har dolket= ledöfött;ledöfte
+N dollar
+M [en] dollár;dollárt
+N dom
+M [en] székesegyház >templom
+N dom
+M [en] (dommen)= itélet;itéletet |  dommen er rettskraftig= az itélet jogerős |  dommens dag= itéletnap
+N dom
+M [en] székesegyház >templom
+N dom
+M [en] (dommen)= itélet;itéletet |  dommen er rettskraftig= az itélet jogerős |  dommens dag= itéletnap
+N dombjelle
+M [en] csengettyű | csengő
+N Dombĺs
+M (norvég település)
+N domene
+M [en] (domene,et)= terület | hatáskör
+N domfelle
+M elitélni | itélni | itéletet hozni felette domfelte | har domfelt= itéletet hoztak
+N dominere
+M dominálni | uralkodni rajta |  dominerte | har dominert= dominált
+N domino
+M [en] dominó
+N domkirke
+M [en] dóm | székesegyház
+N dommedag
+M [en] ítélet napja | az utolsó ítélet napja |  dommedagspreken >papolás
+N dommedagsprofet
+M [en] az utolsó ítélet prófétája
+N dommer
+M [en] bíró;bírót | játékvezető
+N dompap
+M [en] süvöltő (madár) | pirók
+N domprost
+M [en] prépost | esperes
+N domstol
+M [en] törvényszék | biróság
+N donasjon
+M [en] adomány | donáció
+N donator
+M [en] donátor
+N Donau
+M Duna;Dunát
+N donaubrasme
+M [en] bagolykeszeg
+N donaugrundling
+M [en] halványfoltú küllő
+N donaumort
+M [en] leánykoncér
+N donauniřye
+M ingola
+N dongeri
+M [en] farmernadrág
+N doning
+M [en] jármű
+N dont
+M [en] teendő | munka |  pendler til daglig dont til Oslo |  det var godt ĺ krype i sove- posen etter dagens dont
+N dope
+M ajzószert adni neki |  dope seg= ajzószert szedni | dopet seg | har dopet seg= ajzószert szedett |  doping,en= doppingszer/ ajzószer használata
+N dorme
+M bóbiskolni | szenderegni |  dormet | har dormet= bóbiskolt | szendergett
+N dorsk
+M dorskt=álomszuszék | aluszékony |  lomha
+N dose
+M [en] dosis,en= adag | dózis
+N dosent
+M [en] docens
+N dosis
+M [en] adag | dózis
+N dott
+M [en] balek | tökfilkó | együgyű fráter |  füldugasz | fülbe dugott vatta
+N douglasgran
+M [en] duglászfenyő
+N doven
+M dovent,dovne= lusta | dovenskap,en lustaság;lustaságot |
+N dovne
+M seg= lustálkodni |  dovnet seg | har dovnet seg= lustálkodott
+N Dovrefjell
+M (norvég hegység)
+N dr.
+M (doktor)= doktor
+N dra
+M húzni | vonni | elmenni | drar= húz;húzza |  dro | har dratt= húzott;húzta | elment oda | de drar lasset sammen= együtt vonják a terhethan drar hjem= | hazamegy |  dra hjemmefra= elmegy hazulról |  dra ut av byen= elutazni vidékre | drar ut i skogen= kimegy az erdőbe dra avgĺrde= elindulni |  han dro pĺ fiske= halászni ment | de dro pĺ fisketur= elmentekpecázni | de dro pĺ tur=kirándulásra mentek |  drar pĺ hytta= kimegy a telekre/ hétvégi házba |  drar pĺ sopptur= gombázni megy |  de dro til Budapest= elmentek Pestre |  dro til stasjonen= kiment a pályaudvarra |  dro til sjřs= elment tengerésznek |  drar pĺ ferie= üdülni/nyaralni megy |  de dro til sjřen= a tengerpartra mentek | drar til skogs= kimegyaz erdöre |  drar dyna over seg= betakarózik magágára húzza a dunnhát |  drar til seg= magához vonzza |  begynner ĺ dra pĺ ĺrene= eljár felette az idő | Alle monner drar KÖZM Sok kicsi sokra megy ORDT |  dro av seg buksene= letolta a gatyáját/ nadrágját |  dra opp en plante for hĺnd= nyűni | det dras opp for hĺnd= kézzel nyűvik dra ut= kihúzni |  det dras ut av= kihúzzák belőle | det mĺ dras ut av ham= harapófogóval kell kiszedni belőle | >hale | slepe | trekke
+N drabant
+M [en] csatlós | kisérő |  drabantby,en= külváros | lakótelep
+N drag
+M vonzalom |  han har drag pĺ damene=komálják a nők
+N drag
+M [et] arcvonás
+N drag
+M vonzalom |  han har drag pĺ damene=komálják a nők
+N drag
+M [et] arcvonás
+N drage
+M [en] (drake,en)= sárkány
+N drages
+M kardot rántani | tusakodni | küzdeni |  drages=küzd | harcot vív | droges | har drages küzdött | tusakodott | vívott |  drages med et sykt legeme |  drages med dřden= a halállal vívódik
+N dragkamp
+M [en] huzavona
+N dragning
+M [en] vonzat
+N dragspill
+M [et] harmonika;harmonikát
+N dragsug
+M [et] hullámverés | szívás
+N drake
+M [en] sárkány;sárkányt
+N drakk
+M ivott;itta >drikke |  vi drakk litt= iddogáltunk
+N drakt
+M [en] öltöny;öltönyt | mez;mezt | viselet; viseletet |  drakt til festbruk= ünneplőruha
+N dram
+M [en] (drammen)= kupicányi (szesz, pálinka) |  itóka
+N drama
+M [et] dráma;drámát |  dramatiker,en= drámaíró |  dramatikk,en= drámaiság
+N dramatisere
+M dramatizálni |  dramatiserte | har dramatisert= dramatizált
+N dramatisk
+M drámai
+N Drammen
+M (város,Buskerud megye)
+N drammenser
+M [en] drammeni lakos
+N dranker
+M [en] részegeskedő | iszákos személy
+N drap
+M [et] emberölés | gyilkosság
+N drapsmann
+M [en] gyilkos;gyilkost
+N drapssak
+M [en] gyilkossági ügy
+N drasse
+M [pĺ] cipelni valamit |  drasset pĺ | har drasset pĺ= cipelt;cipelte
+N drastisk
+M drasztikus
+N dreggen
+M de lĺ pĺ dreggen= lehorgonyoztak
+N dreibar
+M dreibart= fordítható | forgatható
+N dreie
+M elfordítani | forgatni | esztergálni | dreiet har dreiet= elfordította | forgatta |  dreie seg(rundt)= fordulni | forogni
+N dreiebenk
+M [en] esztergapad
+N dreiebok
+M [en] forgatókönyv
+N dreiemoment
+M [et] fordulatszám
+N drektig
+M vemhes |  drektige kyr= vemhes tehenek
+N drenere
+M lecsapolni |  drenerte | har drenert= lecsapolt;lecsapolta
+N dreng
+M [en] HIST= béreslegény | drengestue,en béreslakás
+N drepe
+M megölni | meggyilkolni |  drepte | har drept= meggyilkolta | megölte
+N dress
+M [en] öltöny;öltözet
+N dressere
+M idomítani |  dresserte | har dressertidomított;idomította
+N dressing
+M [en] salátaöntet
+N dressur
+M [en] idomítás
+N dressřr
+M [en] állatidomító
+N dreven
+M drevent,drevne= jártas | tapasztalt
+N drible
+M cselezni |  driblet | har driblet= cselezett >kicselezte |  dribling,en= cselezés
+N drift
+M [en] hajtás | terelés
+N driftekar
+M [en] csordás | marhahajcsár
+N driftig
+M szorgos | szorgoskodó |  driftige damer
+N driftsikker
+M üzembiztos
+N drikk
+M [en] drikk,et= ital;italt | üdítőital
+N drikke
+M inni | részegeskedni |  drikker= iszik; issza | részeges drakk |  har drukket= ivott; itta |  Hva vil du drikke?= Mit iszol? |  drikker ikke= nem fogyaszt szeszes italt |  drikke kaffe= kávézni |  drikke řl= sörözni |  drikke vin= borozgatni |  drikke ut= kiinni |  han ble drukket ut av sine venner= búszúztatták a barátai | a völegényt | drikke seg full= berúgni drikker opp pengene sine= elissza | a pénzét har drukket seg full pĺ kneipa= berúgott a kocsmában |  drikker som en svamp= iszik, mint a csap/kefekötő
+N drikkelag
+M [et] devernyázó társaság
+N drikkevann
+M [et] ivóvíz;ivóvizet
+N drikkevise
+M [en] bordal | borozó
+N drikking
+M [en] ivás |  a szesz fogyasztása
+N driks
+M [en] borravaló
+N drill
+M [en] gyakorlat
+N drillbor
+M [en] drillbor,et= fúró
+N drink
+M [en] itóka |  tar seg en drink=iszik egy féldecivel
+N driste
+M seg til= merészelni |  dristet seg | har dristet seg til= merészelt;merészelte >mert
+N dristig
+M bátor >vakmerő
+N dritt
+M [en] szar;szart | gané
+N drive
+M [en] (snřdrive)= hóbucka | hófúvás
+N drivende
+M [ADJ] hajtó ADV= hajtva | terelve
+N drivhus
+M [et] melegház | üvegház
+N drivkraft
+M [en] ösztökélő érzés | hajtóerő
+N drivstofftank
+M [en] benzintartály | üzemanyagtartály |    | </bl |  |
+N drive
+M [en] (snřdrive)= hóbucka | hófúvás
+N drivende
+M [ADJ] hajtó ADV= hajtva | terelve
+N drivhus
+M [et] melegház | üvegház
+N drivkraft
+M [en] ösztökélő érzés | hajtóerő
+N drivstofftank
+M [en] benzintartály | üzemanyagtartály |    | </bl |  |
+N drivende
+M [ADJ] hajtó ADV= hajtva | terelve
+N driver
+M gatelangs= lődörög az utcán |  driver med bikuber= méhészkedik | drev med hogst i skogen=fát vágott/írtott/termelt ki az | erdő ben |  han driver henne til vanvidd= őrülésbe kergeti |  svetten drev av kroppen= dőlt róla a verejték
+N drivhus
+M [et] melegház | üvegház
+N drivkraft
+M [en] ösztökélő érzés | hajtóerő
+N drivstofftank
+M [en] benzintartály | üzemanyagtartály
+N droge
+M [en] drog
+N dromedar
+M [en] egypúpú teve
+N drone
+M [en] here;herét >méh
+N dronning
+M [en] királyné | királynő (méheknél is)
+N droppe
+M leejteni | felhagyni vele | droppet | har droppet= leejtette | felhagyott vele
+N drops
+M [en] drops,et= cukorka;cukorkát
+N drosje
+M [en] taxi;taxit
+N drue
+M [en] szőlő;szőlőt |  hřste druer | plukke druer= szüretelni |  presse druer= kipréselnia szőlőt |  drueklase,en= szőlőfürt;szőlőfürtöt |  klasene blir til modne druer >megérnek a szemek/fürtök | druestokk,en= szőlőtőke |  han var godt pĺ druen= jól becsípett
+N drukken
+M ittas | részeg
+N drukkenskap
+M [en] részegesség
+N drukket
+M drikke |  kjřpskĺlen var drukket= megitták az áldomást
+N drukne
+M megfulladni | megfojtani |  druknet |  har druknet= megfulladt | megfojtotta |  belefojtotta |  han druknet sorgene i alkohol= italba fojtotta bánatát | den druknede= vízbe fulladt személy |  fisket opp den druknede mannen= kihalászta a holttestet | a vízből |  drukningsulykke,en= vízbefulladás
+N druse
+M [en] drúza
+N dryg
+M drygt= kiadós | tartós |  har vćrt pĺ en dryg skitur
+N dryge
+M kinyújtani | megnyújtani | drygde |  har drygt= kinyújtotta | megnyújtotta >elnyújt |  dryge med= halogatni |  elhalasztani |  dryg ikke= ne tétovázz |  drygsel,en(drygsl-en)= tartósság
+N drypp
+M [et] csepp;cseppet | csöpp;csöppöt
+N dryppe
+M csepegni | csöpögni |  det drypper= csepeg (az eső,a víz) | dryppet/drypte |  har dryppet/drypt= csöpögött |  drypper fra=csepeg róla |  dypper gjennom= átcsepeg |  keresztülcsepeg rajta
+N dryss
+M [et] hintés | hullás
+N drysse
+M hinteni | hulldogálni |  drysset/dryste |  har drysset/dryst= hintett | hulldogált | hullott hullt >dale | falle | lave | strř
+N drĺk
+M [et] semmirevaló | naplopó
+N drĺpe
+M [en] csepp;cseppet | csöpp |  drĺper= cseppek | csöppök
+N drřfte
+M megtárgyalni |  drřftet | har drřftet= megtárgyalták | tárgyaltak;tárgyalták
+N drřftelse
+M [en] tárgyalás |  drřfting,en= vita |  megbeszélés
+N drřm
+M [en] (drřmmen)= álom;álmot |  hadde en drřm= álmot álmodott |  i drřmme=álmában drřmmen ble ikke til virkelighet= az álmanem | vált valóra |  drřmmen gĺr i oppfyllelse beteljesedik az álma | beteljesül az álma |  han tyder drřmmer= álmokat fejt meg BIBL drřmme= álmodni |  drřmme om= róla/vele álmodni |  drřmte om | har drřmt om= vele/ róla álmodott |  drřmmer,en= álmodozó |  álomlátó BIBL |  drřmmeri,et= álmodozás |
+N drřmmetyder
+M [en] álomlátó
+N drřmming
+M [en] álom;álmot
+N drřnn
+M [et] dörrenés | durranás
+N drřnne
+M dörögni | dübörögni | robogni |  robajjal járni |  drřnte | har drřnt= robogott |  döbörgött |  tordenen drřnner=dörög az ég
+N drřss
+M [en] drřss,et= pelyva | polyva |  en drřss med unger >annyi,mint a pelyva | drřssevis med= temérdek | tömérdek | töméntelen sok
+N drřvtygge
+M kérődzik |  drřvtyggende= kérődző |  drřvtygger,en= kérődző (állat)
+N drřvtygging
+M [en] kérődzés
+N drřy
+M drřyt (dryg) ADJ= jókora | meglehetős ADJ eléggé | meglehetősen
+N drřye
+M húzni >az időt | elhúzódik |  drřyde |  har drřyd= elhúzódott >fĺ til ĺ vare |  spe pĺ |  trekke ut
+N drřype
+M csepegtetni | csöpögtetni |  drřypte |  har drřypt= csepegtetett;csepegtette >la dryppe
+N du
+M te
+N dubbe
+M [av] elbóbiskolni | elszenderedni |  elszundítani |  dubbet av | har dubbet av= elbóbiskolt | elszenderedett
+N dublé
+M [en] dublé | dublett,en= másodpéldány
+N due
+M [en] galamb;galambot |  en due kurrer= a galamb turbékol
+N duell
+M [en] párbaj | párharc |  duellere= párbajt vívni |  duellerte | har duellert= párbajt vívott/ vívtak
+N duetrost
+M [en] léprigó
+N duett
+M [en] páros
+N duft
+M [en] illat;illatot |  dufter= illatok
+N dufte
+M illatozik | duftet | har duftet= illatozott
+N duftende
+M illatos |  duftende blomster= illatos virágok
+N duge
+M megfelel neki |  dugde | har dugd= megfelelt |  duger ikke til= nem felel meg
+N dugelig
+M megfelelő | alkalmas
+N dugg
+M [en] (dogg,en)= harmat | harmatot |  duggvĺt= harmatos |  en duggvĺt eng
+N dugge
+M bepárásodik |  dugget | har dugget= bepárásodott
+N dugget
+M duggete= harmatos | párás
+N dugnad
+M [en] társadalmi munka
+N dugurd
+M [en] HIST= tízórai étkezés >tanyán
+N duk
+M [en] asztalterítő | abrosz
+N duke
+M asztalt teríteni |  duket | har duket= asztalt terített | megterítette az asztalt | terítve van az asztal
+N dukke
+M lebújni |  dukket | har dukket= lebújt
+N dukke
+M [en] (dokke)= játékbaba | dukkehus,et babaház
+N dukke
+M lebújni |  dukket | har dukket= lebújt
+N dukke
+M [en] (dokke)= játékbaba | dukkehus,et babaház
+N dukkert
+M [en] fürdés |  han tar en dukkert= megmártja magát | megfürdik >a tóban
+N dukkevogn
+M [en] babakocsi
+N dukknakket
+M húzza a kupáját
+N dulle
+M med= babusgatni | dédelgetni |  dullet med | har dullet med=dédelgette | babusgatta dult,en= vállverés |  gi ham en dult i siden= oldalba lökni
+N dulte
+M meglökni | megveregetni |  dultet | har dultet= meglökött;meglökte |  dultet ham i ryggen= vállára vert |  dulte til ham >meglökni
+N dum
+M dumt,dumme=buta | buták | si noe dumt bolondot mondani |  Sĺdum du er!= Te kis buta! |  Vćr ikke dum da!= Ne légy szamár! er dum som en sau=buta | mint a csizmatalp /a tök/az ágyú
+N dumdristig
+M vakmerő |  dumme seg ut= bolondot mondani |  dummet seg ut | har dummet seg ut= bolondot mondott
+N dump
+M [en] mélyedés |  en dump i veien
+N dumpe
+M beledobni | pottyanni |  brevene dumper ned i poskassen= a levelek a postaládába | pottyannak |  ble dumpet i tjernet=   beledobták/belehajították a tóba
+N dumrian
+M [en] buta | kis butus
+N dun
+M [en] dun,et= pehely;pelyhet
+N dunder
+M [et] (dundret)= robbanás
+N dundre
+M dübörögni | robajlani |  dundret | har dundret= dübörgött | robajlott |  det dundret >döngött bele
+N dundret
+M i dřra= dorongolták/verték az ajtót banket pĺ dřren= kopogtatott | az ajtón |  hansnudde i dřra= megfordult az ajtóban
+N dunet
+M dunete= pelyhes
+N dunk
+M [en] (kagge)= kanna;kannát
+N dunke
+M dobogni | zakatolni |  dunket | har dunket= dobogott |  hjertet dunker= dobog a szíve | motoren dunker=zakatol a gép | dunke hodet mot veggen >falba veri a fejét
+N dunkel
+M dunkelt= sötét
+N dunkjempe
+M [en] réti útifű
+N dunkjevle
+M [en] bred= széleslevelű gyékény
+N dunst
+M [en] bűz |  szaga (valaminek)
+N dunste
+M párologni | bűzleni |  dunstet | har dunstet= párolgott | bűzlött |  han dunstet av brennevin,hvitlřk= pálinkaszag áradt belőle | fokhagymás volt a lehelete >gőzölni
+N duplikat
+M [et] duplikátum | másolat
+N dupp
+M [en] szendergés
+N duppe
+M [en] mártás
+N duppe
+M [av] elszunnyadni |  dupper av= elszunnyad |  duppet av | har duppet av=elszunnyadt
+N duppe
+M [en] mártás
+N duppe
+M [av] elszunnyadni |  dupper av= elszunnyad |  duppet av | har duppet av=elszunnyadt
+N dur
+M [en] dúr >hangsor
+N durabel
+M durabelt= hosszan tartó | kiadós
+N dure
+M zúgni |  han durte i vei= húzta a lóbőrt >horkolt
+N durkdreven
+M durkdrevent=agyafúrt | en durk- dreven kjeltring
+N dus
+M [en] tegezés |  vćre dus med= tegezni egymást
+N dusjing
+M [en] zuhanyozás
+N dusk<bloc |  |
+N dus
+M [en] tegezés |  vćre dus med= tegezni egymást
+N dusjing
+M [en] zuhanyozás
+N dusk<bloc |  |
+N dusin
+M [et] tucat;tucatot
+N dusj
+M [en] zuhany | tus |  ta en dusj= zuhanyozni |  dusje= zuhanyozni |  dusjet | har dusjet=zuhanyozott | lezuhanyozott
+N dusjing
+M [en] zuhanyozás
+N dusk
+M [en] rojt | sallang |  dusken i toppen (pĺ mais)= kukoricabajusz
+N dusk-amarant
+M szőrös disznóparéj
+N duskregn
+M [et] szitáló eső
+N dust
+M [en] střvgrann,tomsing >bolond | hülye
+N dust
+M [et] (grann) >csekély |  ikke det dust | ikke det grann= semmi sem;semmit sem | csöppet sem
+N dust
+M [en] střvgrann,tomsing >bolond | hülye
+N dust
+M [et] (grann) >csekély |  ikke det dust | ikke det grann= semmi sem;semmit sem | csöppet sem
+N dusřr
+M [en] pénzjutalom | jutalomdíj
+N dutte
+M meglökni | duttet | har duttet=meglökte
+N duve
+M ringatózni | himbálódzani | himbálózni |  duvet | har duvet= ringatózott | himbálódzott >a vízen |  duvende= himbálódzó | ringatódzó skipet duver makelig i de lange dřnningene
+N dvale
+M [en] téli álom |  om hřsten gĺr stokk- maurene i dvale |  pinnsvinet ligger i dyp vinterdvale |  naturen vĺkner fra sin dvale dvele= időzni |  egy darabig ott tartózkodni |  dvelte | har dvelt= időzött
+N dverg
+M [en] törpe | manó
+N dvergbjerk
+M [en] törpenyír >törpecserje
+N dvergdykker
+M [en] kisvöcsök
+N dvergfalk
+M [en] kis sólyom
+N dverggĺs
+M [en] kislilik
+N dverghornugle
+M [en] füleskuvik
+N dverglo
+M [en] (dvergloa)= kislile dvergmispel,en= madárbirs
+N dvergmus
+M [en] törpeegér
+N dvergmĺke
+M [en] törpesirály
+N dvergsnipe
+M [en] apró partfutó
+N dvergspett
+M [en] kis tarkaharkály
+N dvergspurv
+M [en] törpesármány
+N dvergtistel
+M [en] szártalan aszat
+N dvergtrappe
+M reznektúzok
+N dvs.(det
+M vil si)= azaz | vagyis
+N dy
+M seg= nem tudja megállni,hogy |  dydde seg | har dydd seg= nem tudta megállni
+N dybde
+M [en] mélység;mélységet
+N dyd
+M [en] erény;erényt |  dyder= erények |  dyden fikk sin belřnning= erényéért megkapta a méltó jutalmat |  borgerlige dyder= polgári erények
+N dydsmřnster
+M [et] erényes lány
+N dykke
+M elmerül a vízben | búvárkodik |  dykket | har dykket= elmerült
+N dykker
+M [en] buvár;buvárt >fugl= vöcsök
+N dyktig
+M ügyes |  dyktighet,en= ügyesség
+N dylle
+M [en] (dylla)= csorbóka
+N dynamikk
+M [en] dinamika |  dynamisk= dinamikus
+N dynamitt
+M [en] dinamit
+N dynamo
+M [en] dinamó
+N dynasti
+M [et] dinasztia
+N dyndsmerling
+M [en] réti csík
+N dyne
+M [en] dunna | dunyha | párna | dűne >homokfúvás
+N dynge
+M [en] (dynga)= trágyadomb | den/det ble funnet pĺ dynga= a szemétdombon találták
+N dynge
+M trágyázni | dynger=trágyáz;trágyázza dynget | har dynget= trágyázott;trágyázta
+N dynge
+M [en] (dynga)= trágyadomb | den/det ble funnet pĺ dynga= a szemétdombon találták
+N dynge
+M trágyázni | dynger=trágyáz;trágyázza dynget | har dynget= trágyázott;trágyázta
+N dynke
+M belocsolni | meglocsolni |  veden ble dynket med brennbar vćske og tent pĺ >belocsolták | gyúlékony folyadékkal és meggyújtották |  guttene dynket henne med vann= meglocsolták (húsvétkor) | vízzel
+N dynn
+M [et] sár
+N dyp
+M dypt,dype ADJ= mély |  dyp utringning mély kivágás |  ADV= mélyen |  dyp,et= mélység >szakadék
+N dypfryse
+M lefagyasztani |  dypfryste | har dypfryst= lefagyasztotta |  dypfryst ADJ= fagyasztott |  dypfryst vare= fagyasztott árú |  dypfryst fisk= fagyasztott hal
+N dyppe
+M i= belemártani | mártogatni |  dypper i= belemártja | dyppet i | har dyppet i= mártotta |  mártogatta | belemártotta
+N dyr
+M [et] állat;állatot | állatok
+N dyr
+M dyrt,dyre ADJ= drága |  drágák |  ADV drágán |  det er dyrt pĺ kino |  det kommer til ĺ koste dyrt= sokba fog kerülni | dyrekjřpt= borsos áron
+N dyr
+M [et] állat;állatot | állatok
+N dyr
+M dyrt,dyre ADJ= drága |  drágák |  ADV drágán |  det er dyrt pĺ kino |  det kommer til ĺ koste dyrt= sokba fog kerülni | dyrekjřpt= borsos áron
+N dyrebar
+M dyrebart,dyrebare= édes | kedves |  hűn szeretett
+N dyrehage
+M [en] dyrepark,en= állatkert | dyreliv-et= az állatvilág |  dyrevenn,en= állatbarát |
+N dyrevern
+M [et] állatvédelem
+N dyrisk
+M állati
+N dyrkbar
+M mark= termőföld
+N dyrke
+M művelni | termelni | imádni |  dyrket |  har dyrket= termelt | művelt;művelte |  dyrke korn= gabonát termelni |  dyrke jord= földet művelni |  dyrke en hobby=kedvtelésből űzni han dyrker kvinner= imádja | a nőket |  dyrket
+N dyrlege
+M [en] állatorvos;állatorvost
+N dyrplager
+M [en] állatkínzó
+N dysse
+M ned= elsimítani | elpalástolni | eltussolni |  dysset ned= elpalástolta
+N dyst
+M [en] küzdelem | összecsapás | viadal |  er klar til dyst= harcra kész
+N dyster
+M dyster,dystre= komor | sötét
+N dytte
+M lökni rajta egyet | meglökni |  dyttet |  har dyttet= lökött rajta | meglökött;meglökte
+N dyttet
+M ham inn= betuszkolta
+N dyvel
+M seprőfű | seprőzanót
+N dyvĺt
+M dyvĺtt,dyvĺte= csurom vizes
+N dĺ
+M [en] dĺe,en= kenderkefű
+N dĺd
+M [en] hősitett | hőstett
+N dĺdyr
+M [et] dámszarvas | dámvad
+N dĺne
+M elájulni | elalélni | dĺnte | hardĺnt=elájult elalélt
+N dĺp
+M [en] keresztelő | dĺpsattest,en= születési anyakönyvi kivonat
+N dĺpsdag
+M [en] keresztelés napja
+N dĺre
+M [en] balga | ütődött
+N dĺrlig
+M dĺrlige >ADJ= rossz |  ADV= rosszul |  et dĺrlig rykte= (rossz)hír >hírbe hozza | vari dĺrlig humřr= rossz kedve volt |  jeg fřler meg dĺrlig= rosszúl vagyok
+N dĺrskap
+M [en] balgaság | dőreség
+N dĺse
+M [en] doboz | szelence
+N dĺsemikkel
+M [en] (tullebukk)= szegény flótás |  balgajános | ügyefogyott
+N dř
+M meghalni |  dřde | har dřdd= meghalt | er i ferd med ĺ dř= haldoklik |  dř av=belehalni |  dřde av skadene= belehalt a sérüléseiben |  har dřdd av kulde= megfagyott |  a fagyhalál áldozata lett |  dř ut= kihalni
+N dřd
+M dřdt,dřde= halott |  han lĺ som dřd= halottnak tettette magát |  sto opp fra de dřde= halottaiból feltámadt |  er dřd som ei sild= él,mint a parton a hal |  hoppet i dřden a halálba vetette magát
+N dřddrukken
+M tökrészeg
+N dřdelig
+M [ADJ] halálos |  ADV= halálosan
+N dřdelighet
+M [en] halálozás
+N dřden
+M halál |  ligger for dřden= haldoklik |  halálán van |  dřmte ham til dřden= halálraítélte | han ble dřmt til dřden PASS=halálra ítélték
+N dřdninghode
+M [et] halálfej
+N dřdpunkt
+M [et] holtpont
+N dřdsdom
+M [en] (dřdsdommen)= halálos itélet
+N dřdsens
+M alvor= halálos komolyan |
+N dřdsfall
+M [et] haláleset | dřdsforakt,en= halált megvető | dřdsleie,et=halálos ágya | pĺ dřds- leiet= a halálos ágyán |  jeg er dřdssliten= holtfáradt vagyok |  dřdssyk= halálos beteg |  dřdsulykke,en= halálos baleset | dřdsynd,en főbűn | halálos bűn
+N dřende
+M haldokló
+N dřgenikt
+M [en] naplopó | semmire kellő |  hun kalte ham en dřgenikt=naplopónak nevezte >semmirevaló
+N dřgn
+M [et] nap (24 óra) |  hele dřgnet= egész nap | éjjel-nappal
+N dřgnflue
+M [en] tiszavirág |  ble en dřgnflue= tiszavirág életű lett |  svalene fanger dřgn-fluer over vannet
+N dřl
+M [en] egy völgyben lakó személy
+N dřlehest
+M [en] lófaj |  en traust dřlajente= tenyeres-talpas parasztlány
+N dřlge
+M titkolni |  dulgte | har dulgt= titkolta |  eltitkolta
+N dřlgsmĺl
+M [et] titok |  i dřlgsmĺl= titokban
+N dřmme
+M elítélni | ítélni | dřmte | har dřmt=ítélt;ítélte |  elítélt;elítélte |  ble dřmt PASS= elítélték |  dřmme en kamp= mérközést vezetni |  ble dřmt til fengsel= börtönre ítélték |  ble dřmt til dřden >halálra |  (ved brenning= máglyahalálra,ved radbrekking HIST= kerékbe | törték) |  han ble dřmt for >valami végett ítélték el
+N dřmming
+M [en] biráskodás | játékvezetés
+N dřnn
+M szőröstül-bőröstül | teljes egészében mindenestül |  plutselig ble fuglene dřnnborte fra fuglebrettet
+N dřnne
+M morajlani |  dřnnet | har dřnnet=morajlott |  dřnning,en= (tenger) morajlása |  vannet fosset fram i svćre dřnninger >nagy hullámok csapdosták | a partot
+N dřpe
+M keresztelni | dřper barnet Per= Péternek kereszteli a gyermeket | dřpte | har dřpt= keresztelte | megkeresztelte |  man dřpte buskapen= megáldották a jószágot
+N dřpefont
+M [en] keresztelőmedence
+N dřr
+M [en] (dřra)= ajtó;ajtót |  dřra er ĺpen= nyitva van az ajtó |  ĺpne dřra= kinyítani az ajtót |  lukke dřra= becsukni/betenni az ajtót dřr-til-dřr= házról-házra | >házalni |  jaget ham pĺ dřr= kikergette a házból |  smelte med dřrene= csapkodta az ajtókat |  med  dřra pĺ vidt gap= tárva-nyitva az ajtó |  hanvar ikke tapt bak ei dřr= ő sem tegnap született |  dřren var lĺst >be volt zárva |  det
+N dřrgende
+M tök.. | korom.. >töksötét | koromsötét |  dřrgende full= tökrészeg | holtrészeg
+N dřrglřtt
+M [en] ajtónyílás |  dřrhĺndtak,et= kilincs;kilincset |  dřrkarm,en= ajtókeret
+N dřrklokke
+M [en] csengő | elektromos csengő |
+N dřrlĺs
+M [en] lakat/zár az ajtón |  dřrmatte,en= lábtörlő |  dřrstokk,en= küszöb;küszöböt |  i
+N dřrĺpningen
+M az ajtóban
+N dřse
+M bóbiskolni | szundítani | dřste | har dřst bóbiskolt | szundított
+N dřsen
+M dřsent= álomittas
+N dřsig
+M (alvástól)bódult | álmos. kroppen blir dřsig >zsibbadt |  bygda virker dřsig
+N dřv
+M dřvt,dřve= süket
+N dřvnesle
+M [en] fehér holtcsalán
+N dřvstum
+M dřvstumt= süketnéma
+N dřyt
+M ikke en dřyt= semmit sem
+N dřyve
+M csillapítani |  dřyvet | har dřyvet=csillapította |  dřyver sin smerte= csillapítja a fájdalmát

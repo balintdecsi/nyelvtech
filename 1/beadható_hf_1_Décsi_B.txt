@@ -1,0 +1,4 @@
+# 2. beadható házi feladat --- Décsi Bálint BVDAEU
+
+## 1/4
+[\w\.]+@[^\.@\r\n]{2,3}(\.[^\.@\r\n]{1,3})+$

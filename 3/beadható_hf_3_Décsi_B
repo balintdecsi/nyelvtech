@@ -1,0 +1,4 @@
+# 3. beadható házi feladat --- Décsi Bálint BVDAEU
+
+## 3/1
+Véleményem szerint azért nem megoldható a feladat pipe-olás nékül, mert mindenképp egy negáló (a névelő hiánya) és egy megerősítő (a szóköz jelenléte) szűrést is végre kell hajtani. Továbbá a negálás nem csak egy karakterre vonatkozik (ebben az esetben meg lehetne oldani []-jel), így annak a kiszűrése mindenképp egy külön parancsot igényel, így a további szűrés csak pipe-olással lenne megoldható.

@@ -1,0 +1,20 @@
+# 1. lab
+
+házikat csomagolva küldeni
+nagy projekt csoport
+
+ezt itt joeval írtam
+
+----------o-----------
+
+## 3. feladat
+
+([a]{n})b\1
+.*@hallgato\.ppke\.hu
+\.
+
+## 4. feladat
+
+[\w\.]+@[^\.@\r\n]+\.[^\.@\r\n]+(\.[^\.@\r\n]+)*$
+([01]?[0-9]|2[0-3]):[0-5][0-9]
+(jan|febr)uár|(má(rci|j)|jú(n|l)i|auguszt)us|(októ|(szept|nov|dec)em)ber|április

@@ -1,0 +1,6 @@
+# 4. kötelező házi feladat --- Décsi Bálint BVDAEU
+
+## 1.
+Mivel az ellenőrző fájlban lévő megoldás mindig rákeresett a névelőre és mellénévre is, vagyis nem esetlegesen kereste őket, mint ahogy a leírásban van, én is erre adtam megoldást (bár ugye nem sokban különbözik az esetlegesen kereső megoldástól). 
+
+cat mnsz_minta.elemzett | sed -r "s/((\S+\/Det )+(\S+\/A\.\S+ )+\S+\/N\.\S+)/(( \1 ))/g"

@@ -1,0 +1,29 @@
+# 2. lab
+	
+## egrep
+sorokat listáz ki, szövegre keres nem regexre
+mindeig egrepet használjunk!
+
+### 1
+cat a_test.txt | egrep "(^a((s?d?)|ds)f$)|^$"
+
+### 2
+cat a_test.txt | egrep "(a(s|d|sd)f)|^$"
+
+### 3
+ls -alp | egrep "^[d-]([r-][w-][xsStT-]){2}r[w-][x-] .*[^/]$"
+
+## sed
+mindig -r opciót használjuk!
+s/[ \t]+$// trimmelés és stripelés
+s/ ([.,:;?!]+)/\1/g detokenizáció (ellentétje tokenizálás, parse-olás)
+
+### 1
+cat sed_test.txt | sed -e 's/([01][0-9]|2[0-3]):[0-5][0-9]/([01][0-9]|2[0-3]).[0-5][0-9]/g'
+
+### 2
+#### a
+cat sed_test.txt | sed -r 's/(\ba)( [aáeéiíoóöőuúüű])/\1z\2/g'
+
+#### b
+cat sed_test.txt | sed -r 's/avaj/a vaj/g'

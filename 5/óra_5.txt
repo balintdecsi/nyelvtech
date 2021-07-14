@@ -1,0 +1,58 @@
+# 5. lab 2021.03.10.
+
+(Előző óráról folytatás:)
+IOB-s címkék, NER(Named Entity Recognition, tulajdonnév-felismerő)-es feladatokban
+
+## 2. Feladatok
+### 1
+tr 'A-Z' 'a-z' > lc
+echo "Ez a SZÖVEG kis és NAGY betűkből áll" | ./lc
+
+### 2
+cat mnsz_minta.sima | ./lc | head
+cat mnsz_minta.sima | tail -n +2
+cat mnsz_minta.sima | head | tail -n 5
+
+### 3
+cat mnsz_minta.sima | head | wc -w
+
+### 4
+sed -r 's/ /\n/g' > p2v
+cat mnsz_minta.sima | ./p2v
+
+## 3. Nyelvi feladatok
+### 1/1
+wc -w, mert írásjelek már elválasztva szóközzel
+
+### 1/2
+cat mnsz_minta.sima | ./lc | ./p2v | sort -u | wc -l
+
+### 1/3
+cat mnsz_minta.sima | ./lc | ./p2v | sort | uniq -c | sort -nr > gyakoriság.txt
+
+### 2/1
+cat mnsz_minta.elemzett | ./p2v | cut -d "/" -f2 | sort -u |wc -l
+
+### 2/2
+cat mnsz_minta.elemzett | ./p2v | cut -d "/" -f3 | sort -u |wc -l
+
+### 2/3
+cat mnsz_minta.sima | ./p2v | egrep "-" | sort | uniq -c | sort -nr | head
+
+### 2/4
+cat mnsz_minta.elemzett | ./p2v | egrep "V\." | cut -d "/" -f1 | sort | uniq -c | sort -nr | head
+
+### 3/1
+cat mnsz_minta.sima | ./p2v > bigram_1.txt
+cat mnsz_minta.sima | ./p2v | tail -n +2 > bigram_2.txt
+paste bigram_1.txt bigram_2.txt > bigram.txt
+
+### 3/3
+konkordancia = egy szó milyen környezetben fordul elő
+
+cat ötgram.txt | egrep "([^\s]+\s){2}kell(\s[^\s]+){2}"
+
+### 3/4
+cat ötgram.txt | egrep "([^\s]+\s){2}kell(\s[^\s]+){2}" | cut -f 2 | sort
+
+## Python

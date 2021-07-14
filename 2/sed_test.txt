@@ -1,0 +1,15 @@
+finom a alma
+sima alma
+kérem a órát
+kérem avajat
+a óra
+hol avaj?
+
+23:59
+14:00
+08:25
+
+1        PG        Bevezetés        02.11.
+2        NA        Morfológia        02.18.
+3        PG        3. Előadás        02.25.
+4        PG        4. Előadás        03.04.

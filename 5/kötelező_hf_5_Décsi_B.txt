@@ -1,0 +1,10 @@
+# 5. kötelező házi feladat --- Décsi Bálint BVDAEU
+
+## 1.
+$ cat mnsz_minta.sima | ./p2v | egrep "^[A-Z][a-z]*$" | tr 'A-Z' 'a-z' | sort -u > hf_1_uc.txt
+$ cat mnsz_minta.sima | ./p2v | egrep "^[a-z]+$" | sort -u > hf_1_lc.txt
+$ comm -12 hf_1_uc.txt hf_1_lc.txt
+
+## 2.
+$ comm -23 hf_1_uc.txt hf_1_lc.txt
+Nem stimmel, mert mondatkezdő szavak is nagy betűvel kezdődnek.
